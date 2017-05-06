@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="wilddog_url">https://revdo.wilddogio.com</string>
+    <!-- weibo -->
+    <string name="APP_KEY">123456</string>
+    <string name="WEIBO_DEMO_APP_SECRET">123456</string>
+    <!-- qq -->
+    <string name="APP_ID">1105404359</string>
+</resources>

@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

@@ -1,314 +1,774 @@
 [
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_branch_right_straight.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_branch_right_straight.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_zippass.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_zippass.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_quit.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_quit.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_rg_ic_loading_progress.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_rg_ic_loading_progress.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_peccanrycamera.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_peccanrycamera.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_rg_ic_loading_logo.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_rg_ic_loading_logo.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_right_front.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_right_front.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_default_bg_right.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_default_bg_right.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_front.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_front.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_service.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_service.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_railway_unmanaged.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_railway_unmanaged.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_accident.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_accident.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_along.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_along.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_btn_voice_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_btn_voice_off.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_underwater.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_underwater.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_tollgate.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_tollgate.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_right_side_main.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_right_side_main.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_children.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_children.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindslope.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindslope.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_overtakeforbidden.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_overtakeforbidden.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_honk.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_honk.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_map_watermark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_map_watermark.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_viliage.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_viliage.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_spots.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_spots.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_joint_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_joint_left.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_rf_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_rf_2branch_right.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_left_side.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_left_side.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_prj_card_bottom_disable.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_prj_card_bottom_disable.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_back.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_back.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_tunnel.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_tunnel.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_joint_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_joint_right.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_selected_bg.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_selected_bg.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bnav_fellow_member_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/bnav_fellow_member_ic.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_view_selected_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_view_selected_night.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_leftfront.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_leftfront.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_btn_zoom_out_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_btn_zoom_out_normal.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fellow_speak_anim_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/fellow_speak_anim_left.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_narrow_both.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_narrow_both.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_battery_charging.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_battery_charging.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_card_projection_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_card_projection_normal.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_left_side_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_left_side_ic.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_right_side.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_right_side.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_card_projection_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_card_projection_press.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_dest.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_dest.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_btn_zoom_out_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_btn_zoom_out_disabled.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_map_watermark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_map_watermark.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_bank.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_bank.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_lf_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_lf_2branch_right.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_rg_ic_event_add.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_rg_ic_event_add.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_rg_ic_location.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_rg_ic_location.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_satellite_red.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_satellite_red.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fellow_enter_tips.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/fellow_enter_tips.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_left_front.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_left_front.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fellow_enter_tips_hor.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/fellow_enter_tips_hor.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
-        "source": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_narrowbridge.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_narrowbridge.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindbend_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindbend_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_rg_ic_event_packet.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_rg_ic_event_packet.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_prj_card_top_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_prj_card_top_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/design_ic_visibility_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fellow_speak_anim_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/fellow_speak_anim_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_railway_managed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_railway_managed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindbend_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindbend_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_railway.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_railway.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_btn_zoom_in_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_btn_zoom_in_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_right_back.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_right_back.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_default_bg_middle_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_default_bg_middle_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_north2d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_north2d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_route_detail_arrow_up.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_route_detail_arrow_up.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_crosswind.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_crosswind.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/banv_fellow_member_speaking_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/banv_fellow_member_speaking_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_assist_over_speed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_assist_over_speed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/design_ic_visibility.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-xxhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_ic_list_right_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_ic_list_right_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_branch_center.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_branch_center.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_ic_map_its_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_ic_map_its_off.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_slip.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_slip.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_prj_card_top_disable.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_prj_card_top_disable.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_battery_white_2.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_battery_white_2.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_limitcamera.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_limitcamera.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_prj_card_bottom_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_prj_card_bottom_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_battery_white_3.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_battery_white_3.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_locate_car_point.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_locate_car_point.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_toilet.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_toilet.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_default_bg_left.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_default_bg_left.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_hotel.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_hotel.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_bridge.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_bridge.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindbend_reverse.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindbend_reverse.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_turnback.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_turnback.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_left_back.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_left_back.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_rockfall_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_rockfall_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_pickpoint_bg_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_pickpoint_bg_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_btn_zoom_in_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_btn_zoom_in_disabled.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_btn_voice_on.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_btn_voice_on.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_default_bg_left_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_default_bg_left_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_narrow_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_narrow_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_prj_card_bottom_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_prj_card_bottom_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_gas_station.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_gas_station.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_battery_white_1.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_battery_white_1.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_default_bg_right_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_default_bg_right_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_ic_map_its_on.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_ic_map_its_on.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_uneven.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_uneven.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_leftback.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_leftback.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_right_side_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_right_side_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindbend_continuous.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindbend_continuous.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_park.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_park.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fellow_enter_open_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/fellow_enter_open_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_default_bg_middle.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_default_bg_middle.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_rg_ic_loading_close.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_rg_ic_loading_close.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_front.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_front.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_restaurant.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_restaurant.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_narrow_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_narrow_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_statusbtn_selected_bg_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_statusbtn_selected_bg_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_search_dot.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/ic_search_dot.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_lowspeed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_lowspeed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindslope_up.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindslope_up.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_branch_left_straight.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_branch_left_straight.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_common_bg_prj_card_top_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_common_bg_prj_card_top_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_setting_north2d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_setting_north2d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_left_side_main.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_left_side_main.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_common_ipo_fadeout.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_common_ipo_fadeout.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_view_selected.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_view_selected.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_rightfront.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_rightfront.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_hillsidedangerous.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_hillsidedangerous.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_route_search_more.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_route_search_more.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_setting_car3d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_setting_car3d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fellow_enter_default_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/fellow_enter_default_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_pickpoint_bg.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_pickpoint_bg.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/voice_square_loading_fail.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/voice_square_loading_fail.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_blindslope_down.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_blindslope_down.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_inferry.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_inferry.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_battery_red.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_battery_red.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_assist_normal_speed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_assist_normal_speed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_ring_rightback.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_ring_rightback.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_car3d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_car3d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_search_dot_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/ic_search_dot_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_lf_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_lf_2branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_cruise_rockfall_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_cruise_rockfall_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nsdk_drawable_rg_ic_turn_rf_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xxhdpi/nsdk_drawable_rg_ic_turn_rf_2branch_left.png"
     }
 ]

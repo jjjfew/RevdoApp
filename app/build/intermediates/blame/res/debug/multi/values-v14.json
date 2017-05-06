@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "outputFile": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 326
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 301,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 12,
-                        "endOffset": 572
+                        "endOffset": 326
                     }
                 }
             },
@@ -32,13 +32,13 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 818,
+                        "startOffset": 331,
                         "endColumn": 70,
-                        "endOffset": 884
+                        "endOffset": 397
                     }
                 }
             },
@@ -51,13 +51,13 @@
                     "endOffset": 480
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 889,
+                        "startOffset": 402,
                         "endColumn": 82,
-                        "endOffset": 967
+                        "endOffset": 480
                     }
                 }
             },
@@ -71,14 +71,14 @@
                     "endOffset": 890
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 972,
-                        "endLine": 18,
+                        "startOffset": 485,
+                        "endLine": 14,
                         "endColumn": 12,
-                        "endOffset": 1377
+                        "endOffset": 890
                     }
                 }
             },
@@ -92,21 +92,156 @@
                     "endOffset": 1312
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1382,
-                        "endLine": 24,
+                        "startOffset": 895,
+                        "endLine": 20,
                         "endColumn": 12,
-                        "endOffset": 1799
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 119,
+                    "endOffset": 1432
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1437,
+                    "endColumn": 131,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 131,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 119,
+                    "endOffset": 1684
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 119,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1689,
+                    "endColumn": 62,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endColumn": 62,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endColumn": 62,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 62,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endColumn": 131,
+                    "endOffset": 2096
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 131,
+                        "endOffset": 2096
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "outputFile": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -118,14 +253,14 @@
                     "endOffset": 326
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 301,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 12,
-                        "endOffset": 572
+                        "endOffset": 326
                     }
                 }
             },
@@ -138,13 +273,13 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 818,
+                        "startOffset": 331,
                         "endColumn": 70,
-                        "endOffset": 884
+                        "endOffset": 397
                     }
                 }
             },
@@ -157,13 +292,13 @@
                     "endOffset": 480
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 889,
+                        "startOffset": 402,
                         "endColumn": 82,
-                        "endOffset": 967
+                        "endOffset": 480
                     }
                 }
             },
@@ -177,14 +312,14 @@
                     "endOffset": 890
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 972,
-                        "endLine": 18,
+                        "startOffset": 485,
+                        "endLine": 14,
                         "endColumn": 12,
-                        "endOffset": 1377
+                        "endOffset": 890
                     }
                 }
             },
@@ -198,14 +333,149 @@
                     "endOffset": 1312
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v14/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1382,
-                        "endLine": 24,
+                        "startOffset": 895,
+                        "endLine": 20,
                         "endColumn": 12,
-                        "endOffset": 1799
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 119,
+                    "endOffset": 1432
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1437,
+                    "endColumn": 131,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 131,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 119,
+                    "endOffset": 1684
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 119,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1689,
+                    "endColumn": 62,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endColumn": 62,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endColumn": 62,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 62,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endColumn": 131,
+                    "endOffset": 2096
+                },
+                "from": {
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 131,
+                        "endOffset": 2096
                     }
                 }
             }

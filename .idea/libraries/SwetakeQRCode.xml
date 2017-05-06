@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SwetakeQRCode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RevdoClient/libs/SwetakeQRCode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

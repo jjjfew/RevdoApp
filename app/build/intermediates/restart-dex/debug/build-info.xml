@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="22"
+    api-level="24"
     density="xxhdpi"
-    format="7"
-    timestamp="7482204946552" >
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="19595601678842"
+    token="7858111840432853490"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1846" />
+        duration="2653" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="451" />
+        duration="562" />
     <task
         name="verifier"
-        duration="20" />
+        duration="7" />
 
     <artifact
-        location="/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/outputs/apk/app-debug.apk"
+        location="/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="7482204946552" >
+    <build
+        timestamp="70667934887550"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/outputs/apk/app-debug.apk"
+            location="/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

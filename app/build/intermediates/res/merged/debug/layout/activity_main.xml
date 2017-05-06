@@ -5,33 +5,67 @@
     android:layout_height="match_parent" android:paddingLeft="0dip"
     android:paddingRight="0dip"
     android:paddingTop="0dip"
-    android:paddingBottom="0dip" tools:context=".MainActivity">
+    android:paddingBottom="0dip" tools:context="com.MainActivity"
+    android:keepScreenOn="true">
+
+    <com.MyDigitalClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/digitalClock"
+        android:textSize="100sp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="L"
+        android:id="@+id/textViewRadar"
+        android:layout_below="@+id/digitalClock"
+        android:layout_alignLeft="@+id/digitalClock"
+        android:layout_alignStart="@+id/digitalClock"
+        android:layout_marginTop="36dp" />
 
-        android:id="@+id/textView1"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="153dp"
-        android:layout_marginStart="153dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="radar"
+        android:id="@+id/textViewWeather"
+        android:layout_alignTop="@+id/textViewRadar"
+        android:layout_toLeftOf="@+id/textViewRadar2"
+        android:layout_toStartOf="@+id/textViewRadar2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=""
+        android:id="@+id/textViewCall"
+        android:layout_above="@+id/digitalClock"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="34dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="R"
+        android:id="@+id/textViewRadar2"
+        android:layout_alignTop="@+id/textViewWeather"
+        android:layout_toRightOf="@+id/digitalClock"
+        android:layout_toEndOf="@+id/digitalClock"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
-        android:id="@+id/button1"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
-
-    <TextClock
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/textClock"
-        android:textSize="150sp"
-        android:layout_below="@+id/textView1"
-        android:layout_centerHorizontal="true" />
+        android:text="Bt"
+        android:id="@+id/button"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

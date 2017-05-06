@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_connect"
+        android:orderInCategory="100"
+        android:title="连接头盔"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_upddate"
+        android:orderInCategory="100"
+        android:title="检查更新"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_feedback"
+        android:orderInCategory="100"
+        android:title="意见反馈"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="关于"
+        app:showAsAction="never"/>
+</menu>

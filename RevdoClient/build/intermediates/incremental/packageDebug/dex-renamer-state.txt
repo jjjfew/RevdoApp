@@ -1,0 +1,7 @@
+#Mon Apr 10 23:58:46 CST 2017
+base.0=/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_337d508e6bad8c13348d6339c3cce56dba4e99d1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13cc252176d2927f0889acaf3217a36bfc7f9391/classes.dex
+base.1=/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13cc252176d2927f0889acaf3217a36bfc7f9391
+file.0=/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_337d508e6bad8c13348d6339c3cce56dba4e99d1/classes.dex

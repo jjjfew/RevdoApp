@@ -19,20 +19,32 @@ public final class R {
         public static final int abc_slide_in_top=0x7f050007;
         public static final int abc_slide_out_bottom=0x7f050008;
         public static final int abc_slide_out_top=0x7f050009;
+        public static final int design_bottom_sheet_slide_in=0x7f05000a;
+        public static final int design_bottom_sheet_slide_out=0x7f05000b;
+        public static final int design_fab_in=0x7f05000c;
+        public static final int design_fab_out=0x7f05000d;
+        public static final int design_snackbar_in=0x7f05000e;
+        public static final int design_snackbar_out=0x7f05000f;
+    }
+    public static final class animator {
+        public static final int design_appbar_state_list_animator=0x7f060000;
+    }
+    public static final class array {
+        public static final int sdkapi_items=0x7f0d0000;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarDivider=0x7f010063;
+        public static final int actionBarDivider=0x7f010046;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarItemBackground=0x7f010064;
+        public static final int actionBarItemBackground=0x7f010047;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarPopupTheme=0x7f01005d;
+        public static final int actionBarPopupTheme=0x7f010040;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -50,117 +62,117 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
          */
-        public static final int actionBarSize=0x7f010062;
+        public static final int actionBarSize=0x7f010045;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarSplitStyle=0x7f01005f;
+        public static final int actionBarSplitStyle=0x7f010042;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarStyle=0x7f01005e;
+        public static final int actionBarStyle=0x7f010041;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabBarStyle=0x7f010059;
+        public static final int actionBarTabBarStyle=0x7f01003c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabStyle=0x7f010058;
+        public static final int actionBarTabStyle=0x7f01003b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabTextStyle=0x7f01005a;
+        public static final int actionBarTabTextStyle=0x7f01003d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTheme=0x7f010060;
+        public static final int actionBarTheme=0x7f010043;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarWidgetTheme=0x7f010061;
+        public static final int actionBarWidgetTheme=0x7f010044;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionButtonStyle=0x7f01007d;
+        public static final int actionButtonStyle=0x7f010061;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionDropDownStyle=0x7f010079;
+        public static final int actionDropDownStyle=0x7f01005d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionLayout=0x7f010031;
+        public static final int actionLayout=0x7f0100d8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionMenuTextAppearance=0x7f010065;
+        public static final int actionMenuTextAppearance=0x7f010048;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int actionMenuTextColor=0x7f010066;
+        public static final int actionMenuTextColor=0x7f010049;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeBackground=0x7f010069;
+        public static final int actionModeBackground=0x7f01004c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCloseButtonStyle=0x7f010068;
+        public static final int actionModeCloseButtonStyle=0x7f01004b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCloseDrawable=0x7f01006b;
+        public static final int actionModeCloseDrawable=0x7f01004e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCopyDrawable=0x7f01006d;
+        public static final int actionModeCopyDrawable=0x7f010050;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCutDrawable=0x7f01006c;
+        public static final int actionModeCutDrawable=0x7f01004f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeFindDrawable=0x7f010071;
+        public static final int actionModeFindDrawable=0x7f010054;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModePasteDrawable=0x7f01006e;
+        public static final int actionModePasteDrawable=0x7f010051;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModePopupWindowStyle=0x7f010073;
+        public static final int actionModePopupWindowStyle=0x7f010056;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeSelectAllDrawable=0x7f01006f;
+        public static final int actionModeSelectAllDrawable=0x7f010052;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeShareDrawable=0x7f010070;
+        public static final int actionModeShareDrawable=0x7f010053;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeSplitBackground=0x7f01006a;
+        public static final int actionModeSplitBackground=0x7f01004d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeStyle=0x7f010067;
+        public static final int actionModeStyle=0x7f01004a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeWebSearchDrawable=0x7f010072;
+        public static final int actionModeWebSearchDrawable=0x7f010055;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionOverflowButtonStyle=0x7f01005b;
+        public static final int actionOverflowButtonStyle=0x7f01003e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionOverflowMenuStyle=0x7f01005c;
+        public static final int actionOverflowMenuStyle=0x7f01003f;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -168,7 +180,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int actionProviderClass=0x7f010033;
+        public static final int actionProviderClass=0x7f0100da;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -176,15 +188,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int actionViewClass=0x7f010032;
+        public static final int actionViewClass=0x7f0100d9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int activityChooserViewStyle=0x7f010084;
+        public static final int activityChooserViewStyle=0x7f010069;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogButtonGroupStyle=0x7f0100a5;
+        public static final int alertDialogButtonGroupStyle=0x7f01008d;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -192,19 +204,55 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int alertDialogCenterButtons=0x7f0100a6;
+        public static final int alertDialogCenterButtons=0x7f01008e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogStyle=0x7f0100a4;
+        public static final int alertDialogStyle=0x7f01008c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogTheme=0x7f0100a7;
+        public static final int alertDialogTheme=0x7f01008f;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int allowStacking=0x7f0100a5;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int alpha=0x7f0100b7;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int arrowHeadLength=0x7f0100c9;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int arrowShaftLength=0x7f0100ca;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int autoCompleteTextViewStyle=0x7f0100ac;
+        public static final int autoCompleteTextViewStyle=0x7f010094;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -229,7 +277,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int backgroundTint=0x7f0100c5;
+        public static final int backgroundTint=0x7f010138;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -243,7 +291,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
          */
-        public static final int backgroundTintMode=0x7f0100c6;
+        public static final int backgroundTintMode=0x7f010139;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -253,55 +301,163 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int barSize=0x7f01002b;
+        public static final int barLength=0x7f0100cb;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int behavior_autoHide=0x7f0100d2;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int behavior_hideable=0x7f0100a3;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int behavior_overlapTop=0x7f0100ec;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto</code></td><td>-1</td><td></td></tr>
+</table>
+         */
+        public static final int behavior_peekHeight=0x7f0100a2;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int behavior_skipCollapsed=0x7f0100a4;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int borderWidth=0x7f0100d0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarButtonStyle=0x7f01007f;
+        public static final int borderlessButtonStyle=0x7f010066;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarNegativeButtonStyle=0x7f0100aa;
+        public static final int bottomSheetDialogTheme=0x7f0100c2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarNeutralButtonStyle=0x7f0100ab;
+        public static final int bottomSheetStyle=0x7f0100c3;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarPositiveButtonStyle=0x7f0100a9;
+        public static final int buttonBarButtonStyle=0x7f010063;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarStyle=0x7f01007e;
+        public static final int buttonBarNegativeButtonStyle=0x7f010092;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonPanelSideLayout=0x7f01001f;
+        public static final int buttonBarNeutralButtonStyle=0x7f010093;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonStyle=0x7f0100ad;
+        public static final int buttonBarPositiveButtonStyle=0x7f010091;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonStyleSmall=0x7f0100ae;
+        public static final int buttonBarStyle=0x7f010062;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+</table>
+         */
+        public static final int buttonGravity=0x7f01012d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int checkboxStyle=0x7f0100af;
+        public static final int buttonPanelSideLayout=0x7f010021;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int checkedTextViewStyle=0x7f0100b0;
+        public static final int buttonStyle=0x7f010095;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int closeIcon=0x7f01003a;
+        public static final int buttonStyleSmall=0x7f010096;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int buttonTint=0x7f0100b8;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+</table>
+         */
+        public static final int buttonTintMode=0x7f0100b9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int closeItemLayout=0x7f01001c;
+        public static final int checkboxStyle=0x7f010097;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int checkedTextViewStyle=0x7f010098;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int closeIcon=0x7f0100f1;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int closeItemLayout=0x7f01001e;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -309,96 +465,128 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int collapseContentDescription=0x7f0100bf;
+        public static final int collapseContentDescription=0x7f01012f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int collapseIcon=0x7f0100be;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+        public static final int collapseIcon=0x7f01012e;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
          */
-        public static final int color=0x7f010025;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorAccent=0x7f01009e;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorButtonNormal=0x7f0100a2;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlActivated=0x7f0100a0;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlHighlight=0x7f0100a1;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlNormal=0x7f01009f;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorPrimary=0x7f01009c;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorPrimaryDark=0x7f01009d;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorSwitchThumbNormal=0x7f0100a3;
+        public static final int collapsedTitleGravity=0x7f0100b2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int commitIcon=0x7f01003f;
+        public static final int collapsedTitleTextAppearance=0x7f0100ac;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int color=0x7f0100c5;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorAccent=0x7f010084;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorBackgroundFloating=0x7f01008b;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorButtonNormal=0x7f010088;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlActivated=0x7f010086;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlHighlight=0x7f010087;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlNormal=0x7f010085;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorPrimary=0x7f010082;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorPrimaryDark=0x7f010083;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorSwitchThumbNormal=0x7f010089;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int commitIcon=0x7f0100f6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -409,6 +597,16 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int contentInsetEnd=0x7f010017;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentInsetEndWithActions=0x7f01001b;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -439,10 +637,6 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int contentInsetStart=0x7f010016;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int customNavigationLayout=0x7f01000f;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -452,11 +646,20 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dialogPreferredPadding=0x7f010077;
+        public static final int contentInsetStartWithNavigation=0x7f01001a;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentScrim=0x7f0100ad;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dialogTheme=0x7f010076;
+        public static final int controlBackground=0x7f01008a;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -464,7 +667,49 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int disableChildrenWhenDisabled=0x7f010046;
+        public static final int counterEnabled=0x7f01011a;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int counterMaxLength=0x7f01011b;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int counterOverflowTextAppearance=0x7f01011d;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int counterTextAppearance=0x7f01011c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int customNavigationLayout=0x7f01000f;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int defaultQueryHint=0x7f0100f0;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dialogPreferredPadding=0x7f01005b;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int dialogTheme=0x7f01005a;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -488,7 +733,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dividerHorizontal=0x7f010083;
+        public static final int dividerHorizontal=0x7f010068;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -498,11 +743,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dividerPadding=0x7f01002f;
+        public static final int dividerPadding=0x7f0100d6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dividerVertical=0x7f010082;
+        public static final int dividerVertical=0x7f010067;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -512,7 +757,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int drawableSize=0x7f010027;
+        public static final int drawableSize=0x7f0100c7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -520,7 +765,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dropDownListViewStyle=0x7f010094;
+        public static final int dropDownListViewStyle=0x7f01007a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -530,21 +775,21 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dropdownListPreferredItemHeight=0x7f01007a;
+        public static final int dropdownListPreferredItemHeight=0x7f01005e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int editTextBackground=0x7f01008a;
+        public static final int editTextBackground=0x7f01006f;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int editTextColor=0x7f010089;
+        public static final int editTextColor=0x7f01006e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int editTextStyle=0x7f0100b1;
+        public static final int editTextStyle=0x7f010099;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -554,11 +799,50 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int elevation=0x7f01001a;
+        public static final int elevation=0x7f01001c;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int errorEnabled=0x7f010118;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int expandActivityOverflowButtonDrawable=0x7f01001e;
+        public static final int errorTextAppearance=0x7f010119;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int expandActivityOverflowButtonDrawable=0x7f010020;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expanded=0x7f010027;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+         */
+        public static final int expandedTitleGravity=0x7f0100b3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -568,11 +852,89 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int gapBetweenBars=0x7f010028;
+        public static final int expandedTitleMargin=0x7f0100a6;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginBottom=0x7f0100aa;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginEnd=0x7f0100a9;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginStart=0x7f0100a7;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginTop=0x7f0100a8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int goIcon=0x7f01003b;
+        public static final int expandedTitleTextAppearance=0x7f0100ab;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto</code></td><td>-1</td><td></td></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>mini</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int fabSize=0x7f0100ce;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int foregroundInsidePadding=0x7f0100d3;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int gapBetweenBars=0x7f0100c8;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int goIcon=0x7f0100f2;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int headerLayout=0x7f0100e2;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -591,10 +953,30 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int hideOnContentScroll=0x7f010015;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int hintAnimationEnabled=0x7f01011e;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int hintEnabled=0x7f010117;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int homeAsUpIndicator=0x7f01007c;
+        public static final int hintTextAppearance=0x7f010116;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int homeAsUpIndicator=0x7f010060;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -610,7 +992,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int iconifiedByDefault=0x7f010038;
+        public static final int iconifiedByDefault=0x7f0100ee;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int imageButtonStyle=0x7f010070;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -622,7 +1008,13 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int initialActivityCount=0x7f01001d;
+        public static final int initialActivityCount=0x7f01001f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int insetForeground=0x7f0100eb;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -631,6 +1023,19 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int isLightTheme=0x7f010002;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int itemBackground=0x7f0100e0;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int itemIconTint=0x7f0100de;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -644,113 +1049,24 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int layout=0x7f010037;
+        public static final int itemTextAppearance=0x7f0100e1;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int itemTextColor=0x7f0100df;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listChoiceBackgroundIndicator=0x7f01009b;
+        public static final int keylines=0x7f0100ba;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listDividerAlertDialog=0x7f010078;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int listItemLayout=0x7f010023;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int listLayout=0x7f010020;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int listPopupWindowStyle=0x7f010095;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int listPreferredItemHeight=0x7f01008f;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int listPreferredItemHeightLarge=0x7f010091;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int listPreferredItemHeightSmall=0x7f010090;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int listPreferredItemPaddingLeft=0x7f010092;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int listPreferredItemPaddingRight=0x7f010093;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int logo=0x7f01000a;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int maxButtonHeight=0x7f0100bd;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int measureWithLargestChild=0x7f01002d;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int middleBarArrowSize=0x7f01002a;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int multiChoiceItemLayout=0x7f010021;
+        public static final int layout=0x7f0100ed;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -758,11 +1074,255 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int navigationContentDescription=0x7f0100c1;
+        public static final int layoutManager=0x7f0100e7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int navigationIcon=0x7f0100c0;
+        public static final int layout_anchor=0x7f0100bd;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>fill_horizontal</code></td><td>0x07</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>fill</code></td><td>0x77</td><td></td></tr>
+<tr><td><code>clip_vertical</code></td><td>0x80</td><td></td></tr>
+<tr><td><code>clip_horizontal</code></td><td>0x08</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+         */
+        public static final int layout_anchorGravity=0x7f0100bf;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layout_behavior=0x7f0100bc;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>pin</code></td><td>1</td><td></td></tr>
+<tr><td><code>parallax</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static final int layout_collapseMode=0x7f0100b5;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layout_collapseParallaxMultiplier=0x7f0100b6;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x0</td><td></td></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+<tr><td><code>all</code></td><td>0x77</td><td></td></tr>
+</table>
+         */
+        public static final int layout_dodgeInsetEdges=0x7f0100c1;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x0</td><td></td></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+         */
+        public static final int layout_insetEdge=0x7f0100c0;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layout_keyline=0x7f0100be;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scroll</code></td><td>0x1</td><td></td></tr>
+<tr><td><code>exitUntilCollapsed</code></td><td>0x2</td><td></td></tr>
+<tr><td><code>enterAlways</code></td><td>0x4</td><td></td></tr>
+<tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
+<tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
+</table>
+         */
+        public static final int layout_scrollFlags=0x7f01002a;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int layout_scrollInterpolator=0x7f01002b;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listChoiceBackgroundIndicator=0x7f010081;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listDividerAlertDialog=0x7f01005c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listItemLayout=0x7f010025;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listLayout=0x7f010022;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listMenuViewStyle=0x7f0100a1;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listPopupWindowStyle=0x7f01007b;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int listPreferredItemHeight=0x7f010075;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int listPreferredItemHeightLarge=0x7f010077;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int listPreferredItemHeightSmall=0x7f010076;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int listPreferredItemPaddingLeft=0x7f010078;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int listPreferredItemPaddingRight=0x7f010079;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int logo=0x7f01000a;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int logoDescription=0x7f010132;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int maxActionInlineWidth=0x7f0100fa;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int maxButtonHeight=0x7f01012c;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int measureWithLargestChild=0x7f0100d4;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int menu=0x7f0100dd;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int multiChoiceItemLayout=0x7f010023;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int navigationContentDescription=0x7f010131;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int navigationIcon=0x7f010130;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -782,7 +1342,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int overlapAnchor=0x7f010035;
+        public static final int overlapAnchor=0x7f0100e3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -792,7 +1352,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingEnd=0x7f0100c3;
+        public static final int paddingBottomNoButtons=0x7f0100e5;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -802,15 +1362,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingStart=0x7f0100c2;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int panelBackground=0x7f010098;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int panelMenuListTheme=0x7f01009a;
+        public static final int paddingEnd=0x7f010136;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -820,23 +1372,47 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int panelMenuListWidth=0x7f010099;
+        public static final int paddingStart=0x7f010135;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int paddingTopNoTitle=0x7f0100e6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupMenuStyle=0x7f010087;
+        public static final int panelBackground=0x7f01007e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupPromptView=0x7f010045;
+        public static final int panelMenuListTheme=0x7f010080;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int panelMenuListWidth=0x7f01007f;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int passwordToggleContentDescription=0x7f010121;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupTheme=0x7f01001b;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int popupWindowStyle=0x7f010088;
+        public static final int passwordToggleDrawable=0x7f010120;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -844,7 +1420,60 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int preserveIconSpacing=0x7f010034;
+        public static final int passwordToggleEnabled=0x7f01011f;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int passwordToggleTint=0x7f010122;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+</table>
+         */
+        public static final int passwordToggleTintMode=0x7f010123;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int popupMenuStyle=0x7f01006c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int popupTheme=0x7f01001d;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int popupWindowStyle=0x7f01006d;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int preserveIconSpacing=0x7f0100db;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pressedTranslationZ=0x7f0100cf;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -862,11 +1491,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int prompt=0x7f010043;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int queryBackground=0x7f010041;
+        public static final int queryBackground=0x7f0100f8;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -874,35 +1499,82 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int queryHint=0x7f010039;
+        public static final int queryHint=0x7f0100ef;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int radioButtonStyle=0x7f0100b2;
+        public static final int radioButtonStyle=0x7f01009a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int ratingBarStyle=0x7f0100b3;
+        public static final int ratingBarStyle=0x7f01009b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchHintIcon=0x7f01003d;
+        public static final int ratingBarStyleIndicator=0x7f01009c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchIcon=0x7f01003c;
+        public static final int ratingBarStyleSmall=0x7f01009d;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int reverseLayout=0x7f0100e9;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int rippleColor=0x7f0100cd;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int scrimAnimationDuration=0x7f0100b1;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int scrimVisibleHeightTrigger=0x7f0100b0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchViewStyle=0x7f01008e;
+        public static final int searchHintIcon=0x7f0100f4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectableItemBackground=0x7f010080;
+        public static final int searchIcon=0x7f0100f3;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectableItemBackgroundBorderless=0x7f010081;
+        public static final int searchViewStyle=0x7f010074;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int seekBarStyle=0x7f01009e;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int selectableItemBackground=0x7f010064;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int selectableItemBackgroundBorderless=0x7f010065;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -916,7 +1588,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
          */
-        public static final int showAsAction=0x7f010030;
+        public static final int showAsAction=0x7f0100d7;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -929,7 +1601,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
          */
-        public static final int showDividers=0x7f01002e;
+        public static final int showDividers=0x7f0100d5;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -937,11 +1609,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int showText=0x7f01004d;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int singleChoiceItemLayout=0x7f010022;
+        public static final int showText=0x7f010105;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -949,26 +1617,19 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int spinBars=0x7f010026;
+        public static final int showTitle=0x7f010026;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int spinnerDropDownItemStyle=0x7f01007b;
-        /** <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>dialog</code></td><td>0</td><td></td></tr>
-<tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
-</table>
+        public static final int singleChoiceItemLayout=0x7f010024;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
          */
-        public static final int spinnerMode=0x7f010044;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int spinnerStyle=0x7f0100b4;
+        public static final int spanCount=0x7f0100e8;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -976,7 +1637,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int splitTrack=0x7f01004c;
+        public static final int spinBars=0x7f0100c6;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int spinnerDropDownItemStyle=0x7f01005f;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int spinnerStyle=0x7f01009f;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -984,11 +1653,64 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int state_above_anchor=0x7f010036;
+        public static final int splitTrack=0x7f010104;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int submitBackground=0x7f010042;
+        public static final int srcCompat=0x7f01002c;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stackFromEnd=0x7f0100ea;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int state_above_anchor=0x7f0100e4;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int state_collapsed=0x7f010028;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int state_collapsible=0x7f010029;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int statusBarBackground=0x7f0100bb;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int statusBarScrim=0x7f0100ae;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int subMenuArrow=0x7f0100dc;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int submitBackground=0x7f0100f9;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1000,7 +1722,16 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int subtitleTextAppearance=0x7f0100b7;
+        public static final int subtitleTextAppearance=0x7f010125;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int subtitleTextColor=0x7f010134;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1008,7 +1739,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int suggestionRowLayout=0x7f010040;
+        public static final int suggestionRowLayout=0x7f0100f7;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1018,7 +1749,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchMinWidth=0x7f01004a;
+        public static final int switchMinWidth=0x7f010102;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1028,60 +1759,220 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchPadding=0x7f01004b;
+        public static final int switchPadding=0x7f010103;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchStyle=0x7f0100b5;
+        public static final int switchStyle=0x7f0100a0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchTextAppearance=0x7f010049;
+        public static final int switchTextAppearance=0x7f010101;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tabBackground=0x7f010109;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabContentStart=0x7f010108;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>fill</code></td><td>0</td><td></td></tr>
+<tr><td><code>center</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int tabGravity=0x7f01010b;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabIndicatorColor=0x7f010106;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabIndicatorHeight=0x7f010107;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabMaxWidth=0x7f01010d;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabMinWidth=0x7f01010c;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
+<tr><td><code>fixed</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int tabMode=0x7f01010a;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPadding=0x7f010115;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingBottom=0x7f010114;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingEnd=0x7f010113;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingStart=0x7f010111;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingTop=0x7f010112;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabSelectedTextColor=0x7f010110;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tabTextAppearance=0x7f01010e;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabTextColor=0x7f01010f;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
          */
-        public static final int textAllCaps=0x7f010024;
+        public static final int textAllCaps=0x7f010030;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceLargePopupMenu=0x7f010074;
+        public static final int textAppearanceLargePopupMenu=0x7f010057;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceListItem=0x7f010096;
+        public static final int textAppearanceListItem=0x7f01007c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceListItemSmall=0x7f010097;
+        public static final int textAppearanceListItemSmall=0x7f01007d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSearchResultSubtitle=0x7f01008c;
+        public static final int textAppearancePopupMenuHeader=0x7f010059;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSearchResultTitle=0x7f01008b;
+        public static final int textAppearanceSearchResultSubtitle=0x7f010072;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSmallPopupMenu=0x7f010075;
+        public static final int textAppearanceSearchResultTitle=0x7f010071;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int textAppearanceSmallPopupMenu=0x7f010058;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int textColorAlertDialogListItem=0x7f0100a8;
+        public static final int textColorAlertDialogListItem=0x7f010090;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int textColorError=0x7f0100c4;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int textColorSearchUrl=0x7f01008d;
+        public static final int textColorSearchUrl=0x7f010073;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int theme=0x7f0100c4;
+        public static final int theme=0x7f010137;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1091,7 +1982,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thickness=0x7f01002c;
+        public static final int thickness=0x7f0100cc;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1101,7 +1992,59 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thumbTextPadding=0x7f010048;
+        public static final int thumbTextPadding=0x7f010100;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int thumbTint=0x7f0100fb;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>add</code></td><td>16</td><td></td></tr>
+</table>
+         */
+        public static final int thumbTintMode=0x7f0100fc;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tickMark=0x7f01002d;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tickMarkTint=0x7f01002e;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>add</code></td><td>16</td><td></td></tr>
+</table>
+         */
+        public static final int tickMarkTintMode=0x7f01002f;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1110,6 +2053,14 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int title=0x7f010003;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int titleEnabled=0x7f0100b4;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1119,7 +2070,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginBottom=0x7f0100bc;
+        public static final int titleMargin=0x7f010126;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1129,7 +2080,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginEnd=0x7f0100ba;
+        public static final int titleMarginBottom=0x7f01012a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1139,7 +2090,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginStart=0x7f0100b9;
+        public static final int titleMarginEnd=0x7f010128;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1149,7 +2100,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginTop=0x7f0100bb;
+        public static final int titleMarginStart=0x7f010127;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1159,11 +2110,30 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMargins=0x7f0100b8;
+        public static final int titleMarginTop=0x7f010129;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int titleMargins=0x7f01012b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int titleTextAppearance=0x7f0100b6;
+        public static final int titleTextAppearance=0x7f010124;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int titleTextColor=0x7f010133;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1171,29 +2141,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int toolbarNavigationButtonStyle=0x7f010086;
+        public static final int toolbarId=0x7f0100af;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int toolbarStyle=0x7f010085;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int topBottomBarArrowSize=0x7f010029;
+        public static final int toolbarNavigationButtonStyle=0x7f01006b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int track=0x7f010047;
+        public static final int toolbarStyle=0x7f01006a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int voiceIcon=0x7f01003e;
+        public static final int track=0x7f0100fd;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int trackTint=0x7f0100fe;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>add</code></td><td>16</td><td></td></tr>
+</table>
+         */
+        public static final int trackTintMode=0x7f0100ff;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1201,7 +2185,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionBar=0x7f01004e;
+        public static final int useCompatPadding=0x7f0100d1;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int voiceIcon=0x7f0100f5;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1209,7 +2197,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionBarOverlay=0x7f010050;
+        public static final int windowActionBar=0x7f010031;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1217,85 +2205,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionModeOverlay=0x7f010051;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedHeightMajor=0x7f010055;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedHeightMinor=0x7f010053;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedWidthMajor=0x7f010052;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedWidthMinor=0x7f010054;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowMinWidthMajor=0x7f010056;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowMinWidthMinor=0x7f010057;
+        public static final int windowActionBarOverlay=0x7f010033;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1303,305 +2213,1832 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowNoTitle=0x7f01004f;
+        public static final int windowActionModeOverlay=0x7f010034;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedHeightMajor=0x7f010038;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedHeightMinor=0x7f010036;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedWidthMajor=0x7f010035;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedWidthMinor=0x7f010037;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowMinWidthMajor=0x7f010039;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowMinWidthMinor=0x7f01003a;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowNoTitle=0x7f010032;
     }
     public static final class bool {
-        public static final int abc_action_bar_embed_tabs=0x7f090002;
-        public static final int abc_action_bar_embed_tabs_pre_jb=0x7f090000;
-        public static final int abc_action_bar_expanded_action_views_exclusive=0x7f090003;
-        public static final int abc_config_actionMenuItemAllCaps=0x7f090004;
-        public static final int abc_config_allowActionMenuItemTextWithIcon=0x7f090001;
-        public static final int abc_config_closeDialogWhenTouchOutside=0x7f090005;
-        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f090006;
+        public static final int abc_action_bar_embed_tabs=0x7f0a0000;
+        public static final int abc_allow_stacked_button_bar=0x7f0a0001;
+        public static final int abc_config_actionMenuItemAllCaps=0x7f0a0002;
+        public static final int abc_config_closeDialogWhenTouchOutside=0x7f0a0003;
+        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f0a0004;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f0b0033;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f0b0034;
-        public static final int abc_input_method_navigation_guard=0x7f0b0000;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f0b0035;
-        public static final int abc_primary_text_disable_only_material_light=0x7f0b0036;
-        public static final int abc_primary_text_material_dark=0x7f0b0037;
-        public static final int abc_primary_text_material_light=0x7f0b0038;
-        public static final int abc_search_url_text=0x7f0b0039;
-        public static final int abc_search_url_text_normal=0x7f0b0001;
-        public static final int abc_search_url_text_pressed=0x7f0b0002;
-        public static final int abc_search_url_text_selected=0x7f0b0003;
-        public static final int abc_secondary_text_material_dark=0x7f0b003a;
-        public static final int abc_secondary_text_material_light=0x7f0b003b;
-        public static final int accent_material_dark=0x7f0b0004;
-        public static final int accent_material_light=0x7f0b0005;
-        public static final int background_floating_material_dark=0x7f0b0006;
-        public static final int background_floating_material_light=0x7f0b0007;
-        public static final int background_material_dark=0x7f0b0008;
-        public static final int background_material_light=0x7f0b0009;
-        public static final int bright_foreground_disabled_material_dark=0x7f0b000a;
-        public static final int bright_foreground_disabled_material_light=0x7f0b000b;
-        public static final int bright_foreground_inverse_material_dark=0x7f0b000c;
-        public static final int bright_foreground_inverse_material_light=0x7f0b000d;
-        public static final int bright_foreground_material_dark=0x7f0b000e;
-        public static final int bright_foreground_material_light=0x7f0b000f;
-        public static final int button_material_dark=0x7f0b0010;
-        public static final int button_material_light=0x7f0b0011;
-        public static final int dim_foreground_disabled_material_dark=0x7f0b0012;
-        public static final int dim_foreground_disabled_material_light=0x7f0b0013;
-        public static final int dim_foreground_material_dark=0x7f0b0014;
-        public static final int dim_foreground_material_light=0x7f0b0015;
-        public static final int highlighted_text_material_dark=0x7f0b0016;
-        public static final int highlighted_text_material_light=0x7f0b0017;
-        public static final int hint_foreground_material_dark=0x7f0b0018;
-        public static final int hint_foreground_material_light=0x7f0b0019;
-        public static final int link_text_material_dark=0x7f0b001a;
-        public static final int link_text_material_light=0x7f0b001b;
-        public static final int material_blue_grey_800=0x7f0b001c;
-        public static final int material_blue_grey_900=0x7f0b001d;
-        public static final int material_blue_grey_950=0x7f0b001e;
-        public static final int material_deep_teal_200=0x7f0b001f;
-        public static final int material_deep_teal_500=0x7f0b0020;
-        public static final int primary_dark_material_dark=0x7f0b0021;
-        public static final int primary_dark_material_light=0x7f0b0022;
-        public static final int primary_material_dark=0x7f0b0023;
-        public static final int primary_material_light=0x7f0b0024;
-        public static final int primary_text_default_material_dark=0x7f0b0025;
-        public static final int primary_text_default_material_light=0x7f0b0026;
-        public static final int primary_text_disabled_material_dark=0x7f0b0027;
-        public static final int primary_text_disabled_material_light=0x7f0b0028;
-        public static final int ripple_material_dark=0x7f0b0029;
-        public static final int ripple_material_light=0x7f0b002a;
-        public static final int secondary_text_default_material_dark=0x7f0b002b;
-        public static final int secondary_text_default_material_light=0x7f0b002c;
-        public static final int secondary_text_disabled_material_dark=0x7f0b002d;
-        public static final int secondary_text_disabled_material_light=0x7f0b002e;
-        public static final int switch_thumb_disabled_material_dark=0x7f0b002f;
-        public static final int switch_thumb_disabled_material_light=0x7f0b0030;
-        public static final int switch_thumb_material_dark=0x7f0b003c;
-        public static final int switch_thumb_material_light=0x7f0b003d;
-        public static final int switch_thumb_normal_material_dark=0x7f0b0031;
-        public static final int switch_thumb_normal_material_light=0x7f0b0032;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f0c01e2;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f0c01e3;
+        public static final int abc_btn_colored_borderless_text_material=0x7f0c01e4;
+        public static final int abc_btn_colored_text_material=0x7f0c01e5;
+        public static final int abc_color_highlight_material=0x7f0c01e6;
+        public static final int abc_hint_foreground_material_dark=0x7f0c01e7;
+        public static final int abc_hint_foreground_material_light=0x7f0c01e8;
+        public static final int abc_input_method_navigation_guard=0x7f0c0001;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f0c01e9;
+        public static final int abc_primary_text_disable_only_material_light=0x7f0c01ea;
+        public static final int abc_primary_text_material_dark=0x7f0c01eb;
+        public static final int abc_primary_text_material_light=0x7f0c01ec;
+        public static final int abc_search_url_text=0x7f0c01ed;
+        public static final int abc_search_url_text_normal=0x7f0c0002;
+        public static final int abc_search_url_text_pressed=0x7f0c0003;
+        public static final int abc_search_url_text_selected=0x7f0c0004;
+        public static final int abc_secondary_text_material_dark=0x7f0c01ee;
+        public static final int abc_secondary_text_material_light=0x7f0c01ef;
+        public static final int abc_tint_btn_checkable=0x7f0c01f0;
+        public static final int abc_tint_default=0x7f0c01f1;
+        public static final int abc_tint_edittext=0x7f0c01f2;
+        public static final int abc_tint_seek_thumb=0x7f0c01f3;
+        public static final int abc_tint_spinner=0x7f0c01f4;
+        public static final int abc_tint_switch_thumb=0x7f0c01f5;
+        public static final int abc_tint_switch_track=0x7f0c01f6;
+        public static final int accent_material_dark=0x7f0c0005;
+        public static final int accent_material_light=0x7f0c0006;
+        public static final int background_floating_material_dark=0x7f0c0007;
+        public static final int background_floating_material_light=0x7f0c0008;
+        public static final int background_material_dark=0x7f0c0009;
+        public static final int background_material_light=0x7f0c000a;
+        public static final int bnav_common_bg=0x7f0c000b;
+        public static final int bnav_common_bg_night=0x7f0c000c;
+        public static final int bnav_common_child_bg=0x7f0c000d;
+        public static final int bnav_common_child_bg_night=0x7f0c000e;
+        public static final int bnav_feedback_text_AboutButtonText=0x7f0c000f;
+        public static final int bnav_feedback_text_Hint=0x7f0c0010;
+        public static final int bnav_feedback_text_Hint_night=0x7f0c0011;
+        public static final int bnav_feedback_text_edit=0x7f0c0012;
+        public static final int bnav_feedback_text_edit_night=0x7f0c0013;
+        public static final int bnav_feedback_text_overmax_color=0x7f0c0014;
+        public static final int bnav_newer_guide_dialog=0x7f0c0015;
+        public static final int bnav_rp_od_bg_bottom_info=0x7f0c0016;
+        public static final int bnav_rp_od_bg_bottom_info_night=0x7f0c0017;
+        public static final int bnav_rp_od_bg_bottom_status=0x7f0c0018;
+        public static final int bnav_rp_od_bg_bottom_status_night=0x7f0c0019;
+        public static final int bnav_rp_od_bg_color=0x7f0c001a;
+        public static final int bnav_rp_od_bg_color_night=0x7f0c001b;
+        public static final int bnav_rp_od_bg_text_color=0x7f0c001c;
+        public static final int bnav_rp_od_bg_text_color_night=0x7f0c001d;
+        public static final int bnav_rp_tc_title_scheme_name=0x7f0c001e;
+        public static final int bnav_rp_tc_title_scheme_name_night=0x7f0c001f;
+        public static final int bnav_titlebar_bg=0x7f0c0020;
+        public static final int bnav_titlebar_bg_night=0x7f0c0021;
+        public static final int bnav_titlebar_middle_text=0x7f0c0022;
+        public static final int bnav_titlebar_middle_text_night=0x7f0c0023;
+        public static final int bnav_voice_square_loading_fail_background=0x7f0c0024;
+        public static final int bnav_voice_square_loading_fail_text=0x7f0c0025;
+        public static final int bnav_voice_square_titlebar_right_text=0x7f0c0026;
+        public static final int bnav_voice_square_titlebar_right_text_night=0x7f0c0027;
+        public static final int bnav_vomit_text_checked=0x7f0c0028;
+        public static final int bnav_vomit_text_checked_night=0x7f0c0029;
+        public static final int bnav_vomit_text_unchecked=0x7f0c002a;
+        public static final int bnav_vomit_text_unchecked_night=0x7f0c002b;
+        public static final int bright_foreground_disabled_material_dark=0x7f0c002c;
+        public static final int bright_foreground_disabled_material_light=0x7f0c002d;
+        public static final int bright_foreground_inverse_material_dark=0x7f0c002e;
+        public static final int bright_foreground_inverse_material_light=0x7f0c002f;
+        public static final int bright_foreground_material_dark=0x7f0c0030;
+        public static final int bright_foreground_material_light=0x7f0c0031;
+        public static final int button_material_dark=0x7f0c0032;
+        public static final int button_material_light=0x7f0c0033;
+        public static final int carmode_blue_text=0x7f0c0034;
+        public static final int carmode_btn_blue_bg_normal=0x7f0c0035;
+        public static final int carmode_btn_blue_bg_pressed=0x7f0c0036;
+        public static final int carmode_common_bg=0x7f0c0037;
+        public static final int carmode_common_divide_line=0x7f0c0038;
+        public static final int carmode_common_main_text=0x7f0c0039;
+        public static final int carmode_common_search_result_child_bg=0x7f0c003a;
+        public static final int carmode_common_second_text=0x7f0c003b;
+        public static final int carmode_home_bg=0x7f0c003c;
+        public static final int carmode_home_text=0x7f0c003d;
+        public static final int carmode_line=0x7f0c003e;
+        public static final int carmode_list_bg_color=0x7f0c003f;
+        public static final int carmode_list_bg_press_color=0x7f0c0040;
+        public static final int carmode_list_child_bg_color=0x7f0c0041;
+        public static final int carmode_offline_diskpace_text=0x7f0c0042;
+        public static final int carmode_offline_item_text=0x7f0c0043;
+        public static final int carmode_offline_status_text=0x7f0c0044;
+        public static final int carmode_offline_title_bg_normal=0x7f0c0045;
+        public static final int carmode_offline_title_bg_pressed=0x7f0c0046;
+        public static final int carmode_offline_title_text_normal=0x7f0c0047;
+        public static final int carmode_offline_title_text_pressed=0x7f0c0048;
+        public static final int carmode_poi_line=0x7f0c0049;
+        public static final int carmode_poig_dialog_bg=0x7f0c004a;
+        public static final int carmode_text_main_color=0x7f0c004b;
+        public static final int carmode_text_second_color=0x7f0c004c;
+        public static final int carmode_titlebar_bg=0x7f0c004d;
+        public static final int carmode_titlebar_btn_bg=0x7f0c004e;
+        public static final int carmode_titlebar_btn_pressed_bg=0x7f0c004f;
+        public static final int carmode_titlebar_input_hint=0x7f0c0050;
+        public static final int carmode_titlebar_intput_bg=0x7f0c0051;
+        public static final int carmode_titlebar_text_bg=0x7f0c0052;
+        public static final int carmode_titlebar_text_bg_blue=0x7f0c0053;
+        public static final int carmode_titlebar_text_pressed_bg=0x7f0c0054;
+        public static final int carmode_titlebar_title=0x7f0c0055;
+        public static final int carmode_track_info_text=0x7f0c0056;
+        public static final int carmode_xheaderview_color=0x7f0c0057;
+        public static final int cl_bg_a=0x7f0c0058;
+        public static final int cl_bg_a_night=0x7f0c0059;
+        public static final int cl_bg_b=0x7f0c005a;
+        public static final int cl_bg_b_night=0x7f0c005b;
+        public static final int cl_bg_c=0x7f0c005c;
+        public static final int cl_bg_c_night=0x7f0c005d;
+        public static final int cl_bg_d=0x7f0c005e;
+        public static final int cl_bg_d_night=0x7f0c005f;
+        public static final int cl_bg_e=0x7f0c0060;
+        public static final int cl_bg_e_night=0x7f0c0061;
+        public static final int cl_click_a=0x7f0c0062;
+        public static final int cl_click_a_night=0x7f0c0063;
+        public static final int cl_click_b=0x7f0c0064;
+        public static final int cl_click_b_night=0x7f0c0065;
+        public static final int cl_click_c=0x7f0c0066;
+        public static final int cl_click_c_night=0x7f0c0067;
+        public static final int cl_link_a=0x7f0c0068;
+        public static final int cl_link_a_night=0x7f0c0069;
+        public static final int cl_link_b=0x7f0c006a;
+        public static final int cl_link_b_night=0x7f0c006b;
+        public static final int cl_other_a=0x7f0c006c;
+        public static final int cl_other_a_night=0x7f0c006d;
+        public static final int cl_text_a=0x7f0c006e;
+        public static final int cl_text_a_night=0x7f0c006f;
+        public static final int cl_text_b=0x7f0c0070;
+        public static final int cl_text_b_night=0x7f0c0071;
+        public static final int cl_text_c=0x7f0c0072;
+        public static final int cl_text_c_night=0x7f0c0073;
+        public static final int cl_text_d=0x7f0c0074;
+        public static final int cl_text_d_night=0x7f0c0075;
+        public static final int cl_text_e=0x7f0c0076;
+        public static final int cl_text_e_night=0x7f0c0077;
+        public static final int cl_text_experience_e=0x7f0c0078;
+        public static final int cl_text_experience_e_night=0x7f0c0079;
+        public static final int cl_text_experience_unfocus_e=0x7f0c007a;
+        public static final int cl_text_experience_unfocus_e_night=0x7f0c007b;
+        public static final int common_black=0x7f0c007c;
+        public static final int common_bottom_text_blue_color=0x7f0c007d;
+        public static final int common_bottom_text_red_color=0x7f0c007e;
+        public static final int common_list_bg_color=0x7f0c007f;
+        public static final int common_list_bg_color_night=0x7f0c0080;
+        public static final int common_list_divide_color=0x7f0c0081;
+        public static final int common_list_main_text_color=0x7f0c0082;
+        public static final int common_list_main_text_color_night=0x7f0c0083;
+        public static final int common_list_second_text_color=0x7f0c0084;
+        public static final int common_list_second_text_color_night=0x7f0c0085;
+        public static final int design_bottom_navigation_shadow_color=0x7f0c0086;
+        public static final int design_error=0x7f0c01f7;
+        public static final int design_fab_shadow_end_color=0x7f0c0087;
+        public static final int design_fab_shadow_mid_color=0x7f0c0088;
+        public static final int design_fab_shadow_start_color=0x7f0c0089;
+        public static final int design_fab_stroke_end_inner_color=0x7f0c008a;
+        public static final int design_fab_stroke_end_outer_color=0x7f0c008b;
+        public static final int design_fab_stroke_top_inner_color=0x7f0c008c;
+        public static final int design_fab_stroke_top_outer_color=0x7f0c008d;
+        public static final int design_snackbar_background_color=0x7f0c008e;
+        public static final int design_textinput_error_color_dark=0x7f0c008f;
+        public static final int design_textinput_error_color_light=0x7f0c0090;
+        public static final int design_tint_password_toggle=0x7f0c01f8;
+        public static final int dim_foreground_disabled_material_dark=0x7f0c0091;
+        public static final int dim_foreground_disabled_material_light=0x7f0c0092;
+        public static final int dim_foreground_material_dark=0x7f0c0093;
+        public static final int dim_foreground_material_light=0x7f0c0094;
+        public static final int encode_view=0x7f0c0095;
+        public static final int fellow_speak_layout_backgroud=0x7f0c0096;
+        public static final int fellow_speak_layout_backgroud_night=0x7f0c0097;
+        public static final int fellow_speak_progress_backgroud=0x7f0c0098;
+        public static final int foreground_material_dark=0x7f0c0099;
+        public static final int foreground_material_light=0x7f0c009a;
+        public static final int help_button_view=0x7f0c009b;
+        public static final int help_view=0x7f0c009c;
+        public static final int highlighted_text_material_dark=0x7f0c009d;
+        public static final int highlighted_text_material_light=0x7f0c009e;
+        public static final int list_item_normal=0x7f0c009f;
+        public static final int list_item_pressed=0x7f0c00a0;
+        public static final int material_blue_grey_800=0x7f0c00a1;
+        public static final int material_blue_grey_900=0x7f0c00a2;
+        public static final int material_blue_grey_950=0x7f0c00a3;
+        public static final int material_deep_teal_200=0x7f0c00a4;
+        public static final int material_deep_teal_500=0x7f0c00a5;
+        public static final int material_grey_100=0x7f0c00a6;
+        public static final int material_grey_300=0x7f0c00a7;
+        public static final int material_grey_50=0x7f0c00a8;
+        public static final int material_grey_600=0x7f0c00a9;
+        public static final int material_grey_800=0x7f0c00aa;
+        public static final int material_grey_850=0x7f0c00ab;
+        public static final int material_grey_900=0x7f0c00ac;
+        public static final int navi_dialog_high_light=0x7f0c00ad;
+        public static final int notification_action_color_filter=0x7f0c0000;
+        public static final int notification_icon_bg_color=0x7f0c00ae;
+        public static final int notification_material_background_media_default_color=0x7f0c00af;
+        public static final int nsdk_carmode_common_divide_line=0x7f0c00b0;
+        public static final int nsdk_carmode_titlebar_bg=0x7f0c00b1;
+        public static final int nsdk_carmode_titlebar_btn_bg=0x7f0c00b2;
+        public static final int nsdk_carmode_titlebar_btn_pressed_bg=0x7f0c00b3;
+        public static final int nsdk_carmode_titlebar_input_hint=0x7f0c00b4;
+        public static final int nsdk_carmode_titlebar_intput_bg=0x7f0c00b5;
+        public static final int nsdk_carmode_titlebar_text_bg=0x7f0c00b6;
+        public static final int nsdk_carmode_titlebar_text_bg_blue=0x7f0c00b7;
+        public static final int nsdk_carmode_titlebar_text_pressed_bg=0x7f0c00b8;
+        public static final int nsdk_carmode_titlebar_title=0x7f0c00b9;
+        public static final int nsdk_carmode_voice_category_bg_color=0x7f0c00ba;
+        public static final int nsdk_carmode_voice_category_text_color=0x7f0c00bb;
+        public static final int nsdk_carmode_voice_common_background=0x7f0c00bc;
+        public static final int nsdk_carmode_voice_list_select_color=0x7f0c00bd;
+        public static final int nsdk_carmode_voice_list_unselect_color=0x7f0c00be;
+        public static final int nsdk_carmode_voice_local_edit_disable_color=0x7f0c00bf;
+        public static final int nsdk_carmode_voice_local_edit_enable_color=0x7f0c00c0;
+        public static final int nsdk_carmode_voice_local_info_bg_color=0x7f0c00c1;
+        public static final int nsdk_carmode_voice_main_bootom_newrecord_bg=0x7f0c00c2;
+        public static final int nsdk_carmode_voice_main_bootom_newrecord_press_bg=0x7f0c00c3;
+        public static final int nsdk_carmode_voice_main_text_name_color=0x7f0c00c4;
+        public static final int nsdk_carmode_voice_main_text_size_color=0x7f0c00c5;
+        public static final int nsdk_carmode_voice_main_text_used_color=0x7f0c00c6;
+        public static final int nsdk_cl_asr_voice_wave=0x7f0c00c7;
+        public static final int nsdk_color_common_black=0x7f0c00c8;
+        public static final int nsdk_color_dialog_cancel_sure_text=0x7f0c00c9;
+        public static final int nsdk_color_dialog_cancel_sure_text_night=0x7f0c00ca;
+        public static final int nsdk_color_dialog_content_text=0x7f0c00cb;
+        public static final int nsdk_color_dialog_content_text_night=0x7f0c00cc;
+        public static final int nsdk_color_dialog_other_btn_text=0x7f0c00cd;
+        public static final int nsdk_color_download_error=0x7f0c00ce;
+        public static final int nsdk_color_download_list_def=0x7f0c00cf;
+        public static final int nsdk_color_download_list_press=0x7f0c00d0;
+        public static final int nsdk_color_download_newversion=0x7f0c00d1;
+        public static final int nsdk_color_download_normal=0x7f0c00d2;
+        public static final int nsdk_color_download_suspend=0x7f0c00d3;
+        public static final int nsdk_color_downloaded=0x7f0c00d4;
+        public static final int nsdk_color_downloading=0x7f0c00d5;
+        public static final int nsdk_color_list_section_color=0x7f0c00d6;
+        public static final int nsdk_color_od_bg_list_test=0x7f0c00d7;
+        public static final int nsdk_color_od_bg_list_transparent=0x7f0c00d8;
+        public static final int nsdk_color_od_bg_progressbar_blue=0x7f0c00d9;
+        public static final int nsdk_color_od_home_card_text=0x7f0c00da;
+        public static final int nsdk_color_od_home_card_text_night=0x7f0c00db;
+        public static final int nsdk_color_route_detail_common_text=0x7f0c00dc;
+        public static final int nsdk_color_setting_list_item_text_main=0x7f0c00dd;
+        public static final int nsdk_color_setting_list_item_text_main_night=0x7f0c00de;
+        public static final int nsdk_color_setting_list_item_text_sub=0x7f0c00df;
+        public static final int nsdk_color_setting_list_item_text_sub_night=0x7f0c00e0;
+        public static final int nsdk_color_voice_title=0x7f0c00e1;
+        public static final int nsdk_common_rd_start_navi_inner_normal=0x7f0c00e2;
+        public static final int nsdk_common_rd_start_navi_inner_press=0x7f0c00e3;
+        public static final int nsdk_cruise_bg_bar=0x7f0c00e4;
+        public static final int nsdk_cruise_bg_bar_night=0x7f0c00e5;
+        public static final int nsdk_cruise_mask=0x7f0c00e6;
+        public static final int nsdk_cruise_satellite_text_red=0x7f0c00e7;
+        public static final int nsdk_cruise_text_assis=0x7f0c00e8;
+        public static final int nsdk_cruise_text_main=0x7f0c00e9;
+        public static final int nsdk_cruise_text_road_name=0x7f0c00ea;
+        public static final int nsdk_cruise_text_road_name_night=0x7f0c00eb;
+        public static final int nsdk_cruise_text_road_title=0x7f0c00ec;
+        public static final int nsdk_cruise_text_road_title_night=0x7f0c00ed;
+        public static final int nsdk_default_title_text_normal=0x7f0c00ee;
+        public static final int nsdk_default_title_text_normal_night=0x7f0c00ef;
+        public static final int nsdk_default_title_text_press=0x7f0c00f0;
+        public static final int nsdk_default_title_text_press_night=0x7f0c00f1;
+        public static final int nsdk_rg_assist_limit_speed=0x7f0c00f2;
+        public static final int nsdk_rg_assist_limit_speed_night=0x7f0c00f3;
+        public static final int nsdk_rg_assist_normal_speed=0x7f0c00f4;
+        public static final int nsdk_rg_assist_normal_speed_night=0x7f0c00f5;
+        public static final int nsdk_rg_assist_over_speed=0x7f0c00f6;
+        public static final int nsdk_rg_assist_over_speed_night=0x7f0c00f7;
+        public static final int nsdk_rg_common_line=0x7f0c00f8;
+        public static final int nsdk_rg_common_line_night=0x7f0c00f9;
+        public static final int nsdk_rg_common_view_bg=0x7f0c00fa;
+        public static final int nsdk_rg_cp_anolog_navi=0x7f0c00fb;
+        public static final int nsdk_rg_cp_anolog_navi_night=0x7f0c00fc;
+        public static final int nsdk_rg_cp_bottom_panel=0x7f0c00fd;
+        public static final int nsdk_rg_cp_bottom_panel_night=0x7f0c00fe;
+        public static final int nsdk_rg_cp_fullview_text=0x7f0c00ff;
+        public static final int nsdk_rg_cp_fullview_text_night=0x7f0c0100;
+        public static final int nsdk_rg_cp_total_dist_time_text=0x7f0c0101;
+        public static final int nsdk_rg_cp_total_dist_time_text_night=0x7f0c0102;
+        public static final int nsdk_rg_fullview_continue_nav=0x7f0c0103;
+        public static final int nsdk_rg_hud_second_info=0x7f0c0104;
+        public static final int nsdk_rg_hw_service_info=0x7f0c0105;
+        public static final int nsdk_rg_hw_service_info_night=0x7f0c0106;
+        public static final int nsdk_rg_hw_service_panel=0x7f0c0107;
+        public static final int nsdk_rg_hw_service_panel_night=0x7f0c0108;
+        public static final int nsdk_rg_main_info=0x7f0c0109;
+        public static final int nsdk_rg_main_info_night=0x7f0c010a;
+        public static final int nsdk_rg_menu_catalog_text_color=0x7f0c010b;
+        public static final int nsdk_rg_menu_catalog_text_color_night=0x7f0c010c;
+        public static final int nsdk_rg_menu_category_color=0x7f0c010d;
+        public static final int nsdk_rg_menu_category_color_night=0x7f0c010e;
+        public static final int nsdk_rg_menu_category_text_bg_color=0x7f0c010f;
+        public static final int nsdk_rg_menu_category_text_bg_color_night=0x7f0c0110;
+        public static final int nsdk_rg_menu_category_text_color=0x7f0c0111;
+        public static final int nsdk_rg_menu_category_text_color_night=0x7f0c0112;
+        public static final int nsdk_rg_menu_close_view_color=0x7f0c0113;
+        public static final int nsdk_rg_menu_close_view_color_night=0x7f0c0114;
+        public static final int nsdk_rg_menu_close_view_selected=0x7f0c0115;
+        public static final int nsdk_rg_menu_close_view_selected_night=0x7f0c0116;
+        public static final int nsdk_rg_menu_close_view_unselected=0x7f0c0117;
+        public static final int nsdk_rg_menu_close_view_unselected_night=0x7f0c0118;
+        public static final int nsdk_rg_menu_normal_view_text_color=0x7f0c0119;
+        public static final int nsdk_rg_menu_normal_view_text_color_night=0x7f0c011a;
+        public static final int nsdk_rg_menu_panel=0x7f0c011b;
+        public static final int nsdk_rg_menu_panel_h_line=0x7f0c011c;
+        public static final int nsdk_rg_menu_panel_night=0x7f0c011d;
+        public static final int nsdk_rg_menu_text_color=0x7f0c011e;
+        public static final int nsdk_rg_menu_text_color_night=0x7f0c011f;
+        public static final int nsdk_rg_menu_view_text_color=0x7f0c0120;
+        public static final int nsdk_rg_menu_view_text_color_night=0x7f0c0121;
+        public static final int nsdk_rg_navi_frame=0x7f0c0122;
+        public static final int nsdk_rg_navi_frame_transparent=0x7f0c0123;
+        public static final int nsdk_rg_park_detail_main=0x7f0c0124;
+        public static final int nsdk_rg_park_detail_panel=0x7f0c0125;
+        public static final int nsdk_rg_park_detail_panel_night=0x7f0c0126;
+        public static final int nsdk_rg_park_detail_sub_title=0x7f0c0127;
+        public static final int nsdk_rg_park_detail_sub_title_night=0x7f0c0128;
+        public static final int nsdk_rg_park_detail_title=0x7f0c0129;
+        public static final int nsdk_rg_park_detail_title_night=0x7f0c012a;
+        public static final int nsdk_rg_park_index=0x7f0c012b;
+        public static final int nsdk_rg_park_index_night=0x7f0c012c;
+        public static final int nsdk_rg_park_item_focus=0x7f0c012d;
+        public static final int nsdk_rg_park_item_unfocus=0x7f0c012e;
+        public static final int nsdk_rg_park_poi_info_blue=0x7f0c012f;
+        public static final int nsdk_rg_park_poi_line=0x7f0c0130;
+        public static final int nsdk_rg_park_poi_line_night=0x7f0c0131;
+        public static final int nsdk_rg_quit_navi_add_integral=0x7f0c0132;
+        public static final int nsdk_rg_quit_navi_add_integral_night=0x7f0c0133;
+        public static final int nsdk_rg_quit_navi_integral_default=0x7f0c0134;
+        public static final int nsdk_rg_quit_navi_integral_default_night=0x7f0c0135;
+        public static final int nsdk_rg_second_info=0x7f0c0136;
+        public static final int nsdk_rg_second_info_night=0x7f0c0137;
+        public static final int nsdk_rg_second_text_info=0x7f0c0138;
+        public static final int nsdk_rg_top_panel=0x7f0c0139;
+        public static final int nsdk_rg_top_panel_night=0x7f0c013a;
+        public static final int nsdk_rg_total_dist_time_text=0x7f0c013b;
+        public static final int nsdk_route_detail_line=0x7f0c013c;
+        public static final int nsdk_route_detail_line_night=0x7f0c013d;
+        public static final int nsdk_route_detial_analog_start_navi_text=0x7f0c013e;
+        public static final int nsdk_route_detial_analog_start_navi_text_night=0x7f0c013f;
+        public static final int nsdk_route_detial_clear=0x7f0c0140;
+        public static final int nsdk_route_detial_crowed=0x7f0c0141;
+        public static final int nsdk_route_detial_divider=0x7f0c0142;
+        public static final int nsdk_route_detial_divider_night=0x7f0c0143;
+        public static final int nsdk_route_detial_drive_axix=0x7f0c0144;
+        public static final int nsdk_route_detial_drive_axix_night=0x7f0c0145;
+        public static final int nsdk_route_detial_drive_data_line=0x7f0c0146;
+        public static final int nsdk_route_detial_drive_inner=0x7f0c0147;
+        public static final int nsdk_route_detial_drive_inner_transparent=0x7f0c0148;
+        public static final int nsdk_route_detial_drive_max=0x7f0c0149;
+        public static final int nsdk_route_detial_drive_min=0x7f0c014a;
+        public static final int nsdk_route_detial_drive_text=0x7f0c014b;
+        public static final int nsdk_route_detial_drive_title=0x7f0c014c;
+        public static final int nsdk_route_detial_drive_title_night=0x7f0c014d;
+        public static final int nsdk_route_detial_none=0x7f0c014e;
+        public static final int nsdk_route_detial_normal=0x7f0c014f;
+        public static final int nsdk_route_detial_outline_panel=0x7f0c0150;
+        public static final int nsdk_route_detial_outline_panel_night=0x7f0c0151;
+        public static final int nsdk_route_detial_panel=0x7f0c0152;
+        public static final int nsdk_route_detial_panel_night=0x7f0c0153;
+        public static final int nsdk_route_detial_preference_btn=0x7f0c0154;
+        public static final int nsdk_route_detial_preference_focus=0x7f0c0155;
+        public static final int nsdk_route_detial_preference_unfocus=0x7f0c0156;
+        public static final int nsdk_route_detial_snail=0x7f0c0157;
+        public static final int nsdk_route_detial_text_main_focuse=0x7f0c0158;
+        public static final int nsdk_route_detial_text_main_unfocus=0x7f0c0159;
+        public static final int nsdk_route_detial_text_main_unfocus_night=0x7f0c015a;
+        public static final int nsdk_route_detial_text_sub_unfocus=0x7f0c015b;
+        public static final int nsdk_route_detial_text_sub_unfocus_night=0x7f0c015c;
+        public static final int nsdk_route_plan_preference_background=0x7f0c015d;
+        public static final int nsdk_route_plan_preference_background_night=0x7f0c015e;
+        public static final int nsdk_route_plan_preference_carmode=0x7f0c015f;
+        public static final int nsdk_route_plan_preference_disable_text=0x7f0c0160;
+        public static final int nsdk_route_plan_preference_disable_text_night=0x7f0c0161;
+        public static final int nsdk_route_plan_preference_foreground=0x7f0c0162;
+        public static final int nsdk_route_plan_preference_foreground_night=0x7f0c0163;
+        public static final int nsdk_route_plan_preference_text=0x7f0c0164;
+        public static final int nsdk_route_plan_preference_text_night=0x7f0c0165;
+        public static final int nsdk_rp_bg_list_item_pressed=0x7f0c0166;
+        public static final int nsdk_rp_bg_list_item_pressed_night=0x7f0c0167;
+        public static final int nsdk_rp_tc_list_scheme_name=0x7f0c0168;
+        public static final int nsdk_rp_tc_list_scheme_name_night=0x7f0c0169;
+        public static final int nsdk_rp_tc_title_scheme_name=0x7f0c016a;
+        public static final int nsdk_rp_tc_title_scheme_name_night=0x7f0c016b;
+        public static final int nsdk_statusbutton_tc_default=0x7f0c016c;
+        public static final int nsdk_statusbutton_tc_default_night=0x7f0c016d;
+        public static final int nsdk_statusbutton_tc_pressed=0x7f0c016e;
+        public static final int nsdk_statusbutton_tc_pressed_night=0x7f0c016f;
+        public static final int nsdk_string_rg_comment_dialog_content=0x7f0c0170;
+        public static final int nsdk_string_rg_comment_dialog_content_night=0x7f0c0171;
+        public static final int nsdk_string_rg_comment_dialog_title=0x7f0c0172;
+        public static final int nsdk_string_rg_comment_dialog_title_night=0x7f0c0173;
+        public static final int nsdk_string_rg_rpc_text_content=0x7f0c0174;
+        public static final int nsdk_string_rg_rpc_text_overmax_color=0x7f0c0175;
+        public static final int nsdk_voice_category_bg_color=0x7f0c0176;
+        public static final int nsdk_voice_category_bg_color_night=0x7f0c0177;
+        public static final int nsdk_voice_category_text_color=0x7f0c0178;
+        public static final int nsdk_voice_category_text_color_night=0x7f0c0179;
+        public static final int nsdk_voice_color_record_title_bar_bg=0x7f0c017a;
+        public static final int nsdk_voice_color_title_bar_bg=0x7f0c017b;
+        public static final int nsdk_voice_common_background=0x7f0c017c;
+        public static final int nsdk_voice_common_background_night=0x7f0c017d;
+        public static final int nsdk_voice_list_select_color=0x7f0c017e;
+        public static final int nsdk_voice_list_select_color_night=0x7f0c017f;
+        public static final int nsdk_voice_list_unselect_color=0x7f0c0180;
+        public static final int nsdk_voice_list_unselect_color_night=0x7f0c0181;
+        public static final int nsdk_voice_local_edit_disable_color=0x7f0c0182;
+        public static final int nsdk_voice_local_edit_enable_color=0x7f0c0183;
+        public static final int nsdk_voice_local_info_bg_color=0x7f0c0184;
+        public static final int nsdk_voice_local_info_bg_color_night=0x7f0c0185;
+        public static final int nsdk_voice_local_info_show_bg_color=0x7f0c0186;
+        public static final int nsdk_voice_local_info_show_bg_color_night=0x7f0c0187;
+        public static final int nsdk_voice_main_bootom_newrecord_bg=0x7f0c0188;
+        public static final int nsdk_voice_main_bootom_newrecord_bg_night=0x7f0c0189;
+        public static final int nsdk_voice_main_bootom_newrecord_bg_pressed=0x7f0c018a;
+        public static final int nsdk_voice_main_bootom_newrecord_bg_pressed_night=0x7f0c018b;
+        public static final int nsdk_voice_main_new_record_text_color=0x7f0c018c;
+        public static final int nsdk_voice_main_new_record_text_color_night=0x7f0c018d;
+        public static final int nsdk_voice_main_progress_bar_bg_color=0x7f0c018e;
+        public static final int nsdk_voice_main_progress_bar_color=0x7f0c018f;
+        public static final int nsdk_voice_main_progress_percent_color=0x7f0c0190;
+        public static final int nsdk_voice_main_text_name_color=0x7f0c0191;
+        public static final int nsdk_voice_main_text_name_color_night=0x7f0c0192;
+        public static final int nsdk_voice_main_text_size_color=0x7f0c0193;
+        public static final int nsdk_voice_main_text_size_color_night=0x7f0c0194;
+        public static final int nsdk_voice_main_text_use_color=0x7f0c0195;
+        public static final int nsdk_voice_main_use_btn_text_color=0x7f0c0196;
+        public static final int nsdk_voice_main_use_btn_text_color_night=0x7f0c0197;
+        public static final int nsdk_voice_record_time_alert_color=0x7f0c0198;
+        public static final int nsdk_voice_record_time_color=0x7f0c0199;
+        public static final int nsdk_voice_record_voice_Record_detail=0x7f0c019a;
+        public static final int nsdk_voice_record_voice_Record_detail_night=0x7f0c019b;
+        public static final int nsdk_voice_record_voice_textview_voice_info=0x7f0c019c;
+        public static final int nsdk_voice_record_voice_textview_voice_info_night=0x7f0c019d;
+        public static final int nsdk_voice_record_voice_textview_voice_info_record=0x7f0c019e;
+        public static final int nsdk_voice_titlbar_enable_save_bg_color=0x7f0c019f;
+        public static final int nsdk_voice_titlbar_pressed_save_bg_color=0x7f0c01a0;
+        public static final int nsdk_voice_titlebar_disable_save_color=0x7f0c01a1;
+        public static final int poi_addr=0x7f0c01a2;
+        public static final int poi_addr_night=0x7f0c01a3;
+        public static final int poi_city_list_title=0x7f0c01a4;
+        public static final int poi_detail_addr=0x7f0c01a5;
+        public static final int poi_detail_addr_night=0x7f0c01a6;
+        public static final int poi_distance=0x7f0c01a7;
+        public static final int poi_distance_night=0x7f0c01a8;
+        public static final int poi_gonavi=0x7f0c01a9;
+        public static final int poi_gonavi_night=0x7f0c01aa;
+        public static final int poi_item=0x7f0c01ab;
+        public static final int poi_item_night=0x7f0c01ac;
+        public static final int poi_line=0x7f0c01ad;
+        public static final int poi_line_night=0x7f0c01ae;
+        public static final int poi_name=0x7f0c01af;
+        public static final int poi_name_night=0x7f0c01b0;
+        public static final int poi_num=0x7f0c01b1;
+        public static final int poi_num_night=0x7f0c01b2;
+        public static final int poi_result_layout_background=0x7f0c01b3;
+        public static final int poi_search_default_text=0x7f0c01b4;
+        public static final int poi_search_line=0x7f0c01b5;
+        public static final int poi_search_text=0x7f0c01b6;
+        public static final int possible_result_points=0x7f0c01b7;
+        public static final int primary_dark_material_dark=0x7f0c01b8;
+        public static final int primary_dark_material_light=0x7f0c01b9;
+        public static final int primary_material_dark=0x7f0c01ba;
+        public static final int primary_material_light=0x7f0c01bb;
+        public static final int primary_text_default_material_dark=0x7f0c01bc;
+        public static final int primary_text_default_material_light=0x7f0c01bd;
+        public static final int primary_text_disabled_material_dark=0x7f0c01be;
+        public static final int primary_text_disabled_material_light=0x7f0c01bf;
+        public static final int result_image_border=0x7f0c01c0;
+        public static final int result_minor_text=0x7f0c01c1;
+        public static final int result_points=0x7f0c01c2;
+        public static final int result_text=0x7f0c01c3;
+        public static final int result_view=0x7f0c01c4;
+        public static final int ripple_material_dark=0x7f0c01c5;
+        public static final int ripple_material_light=0x7f0c01c6;
+        public static final int route_custom_push_time_value=0x7f0c01c7;
+        public static final int route_custom_push_title_value=0x7f0c01c8;
+        public static final int route_custom_push_title_value_night=0x7f0c01c9;
+        public static final int sbc_header_text=0x7f0c01ca;
+        public static final int sbc_header_view=0x7f0c01cb;
+        public static final int sbc_layout_view=0x7f0c01cc;
+        public static final int sbc_list_item=0x7f0c01cd;
+        public static final int sbc_page_number_text=0x7f0c01ce;
+        public static final int sbc_snippet_text=0x7f0c01cf;
+        public static final int search_sort_selected_text_color=0x7f0c01d0;
+        public static final int search_sort_unselected_text_color=0x7f0c01d1;
+        public static final int secondary_text_default_material_dark=0x7f0c01d2;
+        public static final int secondary_text_default_material_light=0x7f0c01d3;
+        public static final int secondary_text_disabled_material_dark=0x7f0c01d4;
+        public static final int secondary_text_disabled_material_light=0x7f0c01d5;
+        public static final int share_text=0x7f0c01d6;
+        public static final int share_view=0x7f0c01d7;
+        public static final int status_text=0x7f0c01d8;
+        public static final int status_view=0x7f0c01d9;
+        public static final int switch_thumb_disabled_material_dark=0x7f0c01da;
+        public static final int switch_thumb_disabled_material_light=0x7f0c01db;
+        public static final int switch_thumb_material_dark=0x7f0c01f9;
+        public static final int switch_thumb_material_light=0x7f0c01fa;
+        public static final int switch_thumb_normal_material_dark=0x7f0c01dc;
+        public static final int switch_thumb_normal_material_light=0x7f0c01dd;
+        public static final int transparent=0x7f0c01de;
+        public static final int viewfinder_frame=0x7f0c01df;
+        public static final int viewfinder_laser=0x7f0c01e0;
+        public static final int viewfinder_mask=0x7f0c01e1;
     }
     public static final class dimen {
-        public static final int abc_action_bar_content_inset_material=0x7f07000c;
-        public static final int abc_action_bar_default_height_material=0x7f070001;
-        public static final int abc_action_bar_default_padding_material=0x7f070002;
-        public static final int abc_action_bar_icon_vertical_padding_material=0x7f070011;
-        public static final int abc_action_bar_navigation_padding_start_material=0x7f07000d;
-        public static final int abc_action_bar_overflow_padding_end_material=0x7f07000e;
-        public static final int abc_action_bar_overflow_padding_start_material=0x7f070012;
-        public static final int abc_action_bar_progress_bar_size=0x7f070003;
-        public static final int abc_action_bar_stacked_max_height=0x7f070013;
-        public static final int abc_action_bar_stacked_tab_max_width=0x7f070014;
-        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f070015;
-        public static final int abc_action_bar_subtitle_top_margin_material=0x7f070016;
-        public static final int abc_action_button_min_height_material=0x7f070017;
-        public static final int abc_action_button_min_width_material=0x7f070018;
-        public static final int abc_action_button_min_width_overflow_material=0x7f070019;
-        public static final int abc_alert_dialog_button_bar_height=0x7f070000;
-        public static final int abc_button_inset_horizontal_material=0x7f07001a;
-        public static final int abc_button_inset_vertical_material=0x7f07001b;
-        public static final int abc_button_padding_horizontal_material=0x7f07001c;
-        public static final int abc_button_padding_vertical_material=0x7f07001d;
-        public static final int abc_config_prefDialogWidth=0x7f070006;
-        public static final int abc_control_corner_material=0x7f07001e;
-        public static final int abc_control_inset_material=0x7f07001f;
-        public static final int abc_control_padding_material=0x7f070020;
-        public static final int abc_dialog_list_padding_vertical_material=0x7f070021;
-        public static final int abc_dialog_min_width_major=0x7f070022;
-        public static final int abc_dialog_min_width_minor=0x7f070023;
-        public static final int abc_dialog_padding_material=0x7f070024;
-        public static final int abc_dialog_padding_top_material=0x7f070025;
-        public static final int abc_disabled_alpha_material_dark=0x7f070026;
-        public static final int abc_disabled_alpha_material_light=0x7f070027;
-        public static final int abc_dropdownitem_icon_width=0x7f070028;
-        public static final int abc_dropdownitem_text_padding_left=0x7f070029;
-        public static final int abc_dropdownitem_text_padding_right=0x7f07002a;
-        public static final int abc_edit_text_inset_bottom_material=0x7f07002b;
-        public static final int abc_edit_text_inset_horizontal_material=0x7f07002c;
-        public static final int abc_edit_text_inset_top_material=0x7f07002d;
-        public static final int abc_floating_window_z=0x7f07002e;
-        public static final int abc_list_item_padding_horizontal_material=0x7f07002f;
-        public static final int abc_panel_menu_list_width=0x7f070030;
-        public static final int abc_search_view_preferred_width=0x7f070031;
-        public static final int abc_search_view_text_min_width=0x7f070007;
-        public static final int abc_switch_padding=0x7f07000f;
-        public static final int abc_text_size_body_1_material=0x7f070032;
-        public static final int abc_text_size_body_2_material=0x7f070033;
-        public static final int abc_text_size_button_material=0x7f070034;
-        public static final int abc_text_size_caption_material=0x7f070035;
-        public static final int abc_text_size_display_1_material=0x7f070036;
-        public static final int abc_text_size_display_2_material=0x7f070037;
-        public static final int abc_text_size_display_3_material=0x7f070038;
-        public static final int abc_text_size_display_4_material=0x7f070039;
-        public static final int abc_text_size_headline_material=0x7f07003a;
-        public static final int abc_text_size_large_material=0x7f07003b;
-        public static final int abc_text_size_medium_material=0x7f07003c;
-        public static final int abc_text_size_menu_material=0x7f07003d;
-        public static final int abc_text_size_small_material=0x7f07003e;
-        public static final int abc_text_size_subhead_material=0x7f07003f;
-        public static final int abc_text_size_subtitle_material_toolbar=0x7f070004;
-        public static final int abc_text_size_title_material=0x7f070040;
-        public static final int abc_text_size_title_material_toolbar=0x7f070005;
-        public static final int activity_horizontal_margin=0x7f070010;
-        public static final int activity_vertical_margin=0x7f070041;
-        public static final int dialog_fixed_height_major=0x7f070008;
-        public static final int dialog_fixed_height_minor=0x7f070009;
-        public static final int dialog_fixed_width_major=0x7f07000a;
-        public static final int dialog_fixed_width_minor=0x7f07000b;
-        public static final int disabled_alpha_material_dark=0x7f070042;
-        public static final int disabled_alpha_material_light=0x7f070043;
+        public static final int abc_action_bar_content_inset_material=0x7f08000c;
+        public static final int abc_action_bar_content_inset_with_nav=0x7f08000d;
+        public static final int abc_action_bar_default_height_material=0x7f080001;
+        public static final int abc_action_bar_default_padding_end_material=0x7f08000e;
+        public static final int abc_action_bar_default_padding_start_material=0x7f08000f;
+        public static final int abc_action_bar_elevation_material=0x7f08001e;
+        public static final int abc_action_bar_icon_vertical_padding_material=0x7f08001f;
+        public static final int abc_action_bar_overflow_padding_end_material=0x7f080020;
+        public static final int abc_action_bar_overflow_padding_start_material=0x7f080021;
+        public static final int abc_action_bar_progress_bar_size=0x7f080002;
+        public static final int abc_action_bar_stacked_max_height=0x7f080022;
+        public static final int abc_action_bar_stacked_tab_max_width=0x7f080023;
+        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f080024;
+        public static final int abc_action_bar_subtitle_top_margin_material=0x7f080025;
+        public static final int abc_action_button_min_height_material=0x7f080026;
+        public static final int abc_action_button_min_width_material=0x7f080027;
+        public static final int abc_action_button_min_width_overflow_material=0x7f080028;
+        public static final int abc_alert_dialog_button_bar_height=0x7f080000;
+        public static final int abc_button_inset_horizontal_material=0x7f080029;
+        public static final int abc_button_inset_vertical_material=0x7f08002a;
+        public static final int abc_button_padding_horizontal_material=0x7f08002b;
+        public static final int abc_button_padding_vertical_material=0x7f08002c;
+        public static final int abc_cascading_menus_min_smallest_width=0x7f08002d;
+        public static final int abc_config_prefDialogWidth=0x7f080005;
+        public static final int abc_control_corner_material=0x7f08002e;
+        public static final int abc_control_inset_material=0x7f08002f;
+        public static final int abc_control_padding_material=0x7f080030;
+        public static final int abc_dialog_fixed_height_major=0x7f080006;
+        public static final int abc_dialog_fixed_height_minor=0x7f080007;
+        public static final int abc_dialog_fixed_width_major=0x7f080008;
+        public static final int abc_dialog_fixed_width_minor=0x7f080009;
+        public static final int abc_dialog_list_padding_bottom_no_buttons=0x7f080031;
+        public static final int abc_dialog_list_padding_top_no_title=0x7f080032;
+        public static final int abc_dialog_min_width_major=0x7f08000a;
+        public static final int abc_dialog_min_width_minor=0x7f08000b;
+        public static final int abc_dialog_padding_material=0x7f080033;
+        public static final int abc_dialog_padding_top_material=0x7f080034;
+        public static final int abc_dialog_title_divider_material=0x7f080035;
+        public static final int abc_disabled_alpha_material_dark=0x7f080036;
+        public static final int abc_disabled_alpha_material_light=0x7f080037;
+        public static final int abc_dropdownitem_icon_width=0x7f080038;
+        public static final int abc_dropdownitem_text_padding_left=0x7f080039;
+        public static final int abc_dropdownitem_text_padding_right=0x7f08003a;
+        public static final int abc_edit_text_inset_bottom_material=0x7f08003b;
+        public static final int abc_edit_text_inset_horizontal_material=0x7f08003c;
+        public static final int abc_edit_text_inset_top_material=0x7f08003d;
+        public static final int abc_floating_window_z=0x7f08003e;
+        public static final int abc_list_item_padding_horizontal_material=0x7f08003f;
+        public static final int abc_panel_menu_list_width=0x7f080040;
+        public static final int abc_progress_bar_height_material=0x7f080041;
+        public static final int abc_search_view_preferred_height=0x7f080042;
+        public static final int abc_search_view_preferred_width=0x7f080043;
+        public static final int abc_seekbar_track_background_height_material=0x7f080044;
+        public static final int abc_seekbar_track_progress_height_material=0x7f080045;
+        public static final int abc_select_dialog_padding_start_material=0x7f080046;
+        public static final int abc_switch_padding=0x7f080019;
+        public static final int abc_text_size_body_1_material=0x7f080047;
+        public static final int abc_text_size_body_2_material=0x7f080048;
+        public static final int abc_text_size_button_material=0x7f080049;
+        public static final int abc_text_size_caption_material=0x7f08004a;
+        public static final int abc_text_size_display_1_material=0x7f08004b;
+        public static final int abc_text_size_display_2_material=0x7f08004c;
+        public static final int abc_text_size_display_3_material=0x7f08004d;
+        public static final int abc_text_size_display_4_material=0x7f08004e;
+        public static final int abc_text_size_headline_material=0x7f08004f;
+        public static final int abc_text_size_large_material=0x7f080050;
+        public static final int abc_text_size_medium_material=0x7f080051;
+        public static final int abc_text_size_menu_header_material=0x7f080052;
+        public static final int abc_text_size_menu_material=0x7f080053;
+        public static final int abc_text_size_small_material=0x7f080054;
+        public static final int abc_text_size_subhead_material=0x7f080055;
+        public static final int abc_text_size_subtitle_material_toolbar=0x7f080003;
+        public static final int abc_text_size_title_material=0x7f080056;
+        public static final int abc_text_size_title_material_toolbar=0x7f080004;
+        public static final int activity_horizontal_margin=0x7f08001d;
+        public static final int activity_vertical_margin=0x7f080057;
+        public static final int design_appbar_elevation=0x7f080058;
+        public static final int design_bottom_navigation_active_item_max_width=0x7f080059;
+        public static final int design_bottom_navigation_active_text_size=0x7f08005a;
+        public static final int design_bottom_navigation_elevation=0x7f08005b;
+        public static final int design_bottom_navigation_height=0x7f08005c;
+        public static final int design_bottom_navigation_item_max_width=0x7f08005d;
+        public static final int design_bottom_navigation_item_min_width=0x7f08005e;
+        public static final int design_bottom_navigation_margin=0x7f08005f;
+        public static final int design_bottom_navigation_shadow_height=0x7f080060;
+        public static final int design_bottom_navigation_text_size=0x7f080061;
+        public static final int design_bottom_sheet_modal_elevation=0x7f080062;
+        public static final int design_bottom_sheet_peek_height_min=0x7f080063;
+        public static final int design_fab_border_width=0x7f080064;
+        public static final int design_fab_elevation=0x7f080065;
+        public static final int design_fab_image_size=0x7f080066;
+        public static final int design_fab_size_mini=0x7f080067;
+        public static final int design_fab_size_normal=0x7f080068;
+        public static final int design_fab_translation_z_pressed=0x7f080069;
+        public static final int design_navigation_elevation=0x7f08006a;
+        public static final int design_navigation_icon_padding=0x7f08006b;
+        public static final int design_navigation_icon_size=0x7f08006c;
+        public static final int design_navigation_max_width=0x7f080010;
+        public static final int design_navigation_padding_bottom=0x7f08006d;
+        public static final int design_navigation_separator_vertical_padding=0x7f08006e;
+        public static final int design_snackbar_action_inline_max_width=0x7f080011;
+        public static final int design_snackbar_background_corner_radius=0x7f080012;
+        public static final int design_snackbar_elevation=0x7f08006f;
+        public static final int design_snackbar_extra_spacing_horizontal=0x7f080013;
+        public static final int design_snackbar_max_width=0x7f080014;
+        public static final int design_snackbar_min_width=0x7f080015;
+        public static final int design_snackbar_padding_horizontal=0x7f080070;
+        public static final int design_snackbar_padding_vertical=0x7f080071;
+        public static final int design_snackbar_padding_vertical_2lines=0x7f080016;
+        public static final int design_snackbar_text_size=0x7f080072;
+        public static final int design_tab_max_width=0x7f080073;
+        public static final int design_tab_scrollable_min_width=0x7f080017;
+        public static final int design_tab_text_size=0x7f080074;
+        public static final int design_tab_text_size_2line=0x7f080075;
+        public static final int disabled_alpha_material_dark=0x7f080076;
+        public static final int disabled_alpha_material_light=0x7f080077;
+        public static final int highlight_alpha_material_colored=0x7f080078;
+        public static final int highlight_alpha_material_dark=0x7f080079;
+        public static final int highlight_alpha_material_light=0x7f08007a;
+        public static final int hint_alpha_material_dark=0x7f08007b;
+        public static final int hint_alpha_material_light=0x7f08007c;
+        public static final int hint_pressed_alpha_material_dark=0x7f08007d;
+        public static final int hint_pressed_alpha_material_light=0x7f08007e;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f08007f;
+        public static final int item_touch_helper_swipe_escape_max_velocity=0x7f080080;
+        public static final int item_touch_helper_swipe_escape_velocity=0x7f080081;
+        public static final int notification_action_icon_size=0x7f080082;
+        public static final int notification_action_text_size=0x7f080083;
+        public static final int notification_big_circle_margin=0x7f080084;
+        public static final int notification_content_margin_start=0x7f08001a;
+        public static final int notification_large_icon_height=0x7f080085;
+        public static final int notification_large_icon_width=0x7f080086;
+        public static final int notification_main_column_padding_top=0x7f08001b;
+        public static final int notification_media_narrow_margin=0x7f08001c;
+        public static final int notification_right_icon_size=0x7f080087;
+        public static final int notification_right_side_padding_top=0x7f080018;
+        public static final int notification_small_icon_background_padding=0x7f080088;
+        public static final int notification_small_icon_size_as_large=0x7f080089;
+        public static final int notification_subtext_size=0x7f08008a;
+        public static final int notification_top_pad=0x7f08008b;
+        public static final int notification_top_pad_large_text=0x7f08008c;
+        public static final int nsdk_rg_text_margin=0x7f08008d;
+        public static final int nsdk_text_size_rg_main_info=0x7f08008e;
+        public static final int nsdk_text_size_rg_second_info=0x7f08008f;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
-        public static final int abc_btn_borderless_material=0x7f020001;
-        public static final int abc_btn_check_material=0x7f020002;
-        public static final int abc_btn_check_to_on_mtrl_000=0x7f020003;
-        public static final int abc_btn_check_to_on_mtrl_015=0x7f020004;
-        public static final int abc_btn_default_mtrl_shape=0x7f020005;
-        public static final int abc_btn_radio_material=0x7f020006;
-        public static final int abc_btn_radio_to_on_mtrl_000=0x7f020007;
-        public static final int abc_btn_radio_to_on_mtrl_015=0x7f020008;
-        public static final int abc_btn_rating_star_off_mtrl_alpha=0x7f020009;
-        public static final int abc_btn_rating_star_on_mtrl_alpha=0x7f02000a;
+        public static final int abc_action_bar_item_background_material=0x7f020001;
+        public static final int abc_btn_borderless_material=0x7f020002;
+        public static final int abc_btn_check_material=0x7f020003;
+        public static final int abc_btn_check_to_on_mtrl_000=0x7f020004;
+        public static final int abc_btn_check_to_on_mtrl_015=0x7f020005;
+        public static final int abc_btn_colored_material=0x7f020006;
+        public static final int abc_btn_default_mtrl_shape=0x7f020007;
+        public static final int abc_btn_radio_material=0x7f020008;
+        public static final int abc_btn_radio_to_on_mtrl_000=0x7f020009;
+        public static final int abc_btn_radio_to_on_mtrl_015=0x7f02000a;
         public static final int abc_btn_switch_to_on_mtrl_00001=0x7f02000b;
         public static final int abc_btn_switch_to_on_mtrl_00012=0x7f02000c;
         public static final int abc_cab_background_internal_bg=0x7f02000d;
         public static final int abc_cab_background_top_material=0x7f02000e;
         public static final int abc_cab_background_top_mtrl_alpha=0x7f02000f;
-        public static final int abc_dialog_material_background_dark=0x7f020010;
-        public static final int abc_dialog_material_background_light=0x7f020011;
+        public static final int abc_control_background_material=0x7f020010;
+        public static final int abc_dialog_material_background=0x7f020011;
         public static final int abc_edit_text_material=0x7f020012;
-        public static final int abc_ic_ab_back_mtrl_am_alpha=0x7f020013;
-        public static final int abc_ic_clear_mtrl_alpha=0x7f020014;
-        public static final int abc_ic_commit_search_api_mtrl_alpha=0x7f020015;
-        public static final int abc_ic_go_search_api_mtrl_alpha=0x7f020016;
-        public static final int abc_ic_menu_copy_mtrl_am_alpha=0x7f020017;
-        public static final int abc_ic_menu_cut_mtrl_alpha=0x7f020018;
-        public static final int abc_ic_menu_moreoverflow_mtrl_alpha=0x7f020019;
-        public static final int abc_ic_menu_paste_mtrl_am_alpha=0x7f02001a;
-        public static final int abc_ic_menu_selectall_mtrl_alpha=0x7f02001b;
-        public static final int abc_ic_menu_share_mtrl_alpha=0x7f02001c;
-        public static final int abc_ic_search_api_mtrl_alpha=0x7f02001d;
-        public static final int abc_ic_voice_search_api_mtrl_alpha=0x7f02001e;
-        public static final int abc_item_background_holo_dark=0x7f02001f;
-        public static final int abc_item_background_holo_light=0x7f020020;
-        public static final int abc_list_divider_mtrl_alpha=0x7f020021;
-        public static final int abc_list_focused_holo=0x7f020022;
-        public static final int abc_list_longpressed_holo=0x7f020023;
-        public static final int abc_list_pressed_holo_dark=0x7f020024;
-        public static final int abc_list_pressed_holo_light=0x7f020025;
-        public static final int abc_list_selector_background_transition_holo_dark=0x7f020026;
-        public static final int abc_list_selector_background_transition_holo_light=0x7f020027;
-        public static final int abc_list_selector_disabled_holo_dark=0x7f020028;
-        public static final int abc_list_selector_disabled_holo_light=0x7f020029;
-        public static final int abc_list_selector_holo_dark=0x7f02002a;
-        public static final int abc_list_selector_holo_light=0x7f02002b;
-        public static final int abc_menu_hardkey_panel_mtrl_mult=0x7f02002c;
-        public static final int abc_popup_background_mtrl_mult=0x7f02002d;
-        public static final int abc_ratingbar_full_material=0x7f02002e;
-        public static final int abc_spinner_mtrl_am_alpha=0x7f02002f;
-        public static final int abc_spinner_textfield_background_material=0x7f020030;
-        public static final int abc_switch_thumb_material=0x7f020031;
-        public static final int abc_switch_track_mtrl_alpha=0x7f020032;
-        public static final int abc_tab_indicator_material=0x7f020033;
-        public static final int abc_tab_indicator_mtrl_alpha=0x7f020034;
-        public static final int abc_text_cursor_mtrl_alpha=0x7f020035;
-        public static final int abc_textfield_activated_mtrl_alpha=0x7f020036;
-        public static final int abc_textfield_default_mtrl_alpha=0x7f020037;
-        public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020038;
-        public static final int abc_textfield_search_default_mtrl_alpha=0x7f020039;
-        public static final int abc_textfield_search_material=0x7f02003a;
-        public static final int null_map=0x7f02003b;
+        public static final int abc_ic_ab_back_material=0x7f020013;
+        public static final int abc_ic_arrow_drop_right_black_24dp=0x7f020014;
+        public static final int abc_ic_clear_material=0x7f020015;
+        public static final int abc_ic_commit_search_api_mtrl_alpha=0x7f020016;
+        public static final int abc_ic_go_search_api_material=0x7f020017;
+        public static final int abc_ic_menu_copy_mtrl_am_alpha=0x7f020018;
+        public static final int abc_ic_menu_cut_mtrl_alpha=0x7f020019;
+        public static final int abc_ic_menu_overflow_material=0x7f02001a;
+        public static final int abc_ic_menu_paste_mtrl_am_alpha=0x7f02001b;
+        public static final int abc_ic_menu_selectall_mtrl_alpha=0x7f02001c;
+        public static final int abc_ic_menu_share_mtrl_alpha=0x7f02001d;
+        public static final int abc_ic_search_api_material=0x7f02001e;
+        public static final int abc_ic_star_black_16dp=0x7f02001f;
+        public static final int abc_ic_star_black_36dp=0x7f020020;
+        public static final int abc_ic_star_black_48dp=0x7f020021;
+        public static final int abc_ic_star_half_black_16dp=0x7f020022;
+        public static final int abc_ic_star_half_black_36dp=0x7f020023;
+        public static final int abc_ic_star_half_black_48dp=0x7f020024;
+        public static final int abc_ic_voice_search_api_material=0x7f020025;
+        public static final int abc_item_background_holo_dark=0x7f020026;
+        public static final int abc_item_background_holo_light=0x7f020027;
+        public static final int abc_list_divider_mtrl_alpha=0x7f020028;
+        public static final int abc_list_focused_holo=0x7f020029;
+        public static final int abc_list_longpressed_holo=0x7f02002a;
+        public static final int abc_list_pressed_holo_dark=0x7f02002b;
+        public static final int abc_list_pressed_holo_light=0x7f02002c;
+        public static final int abc_list_selector_background_transition_holo_dark=0x7f02002d;
+        public static final int abc_list_selector_background_transition_holo_light=0x7f02002e;
+        public static final int abc_list_selector_disabled_holo_dark=0x7f02002f;
+        public static final int abc_list_selector_disabled_holo_light=0x7f020030;
+        public static final int abc_list_selector_holo_dark=0x7f020031;
+        public static final int abc_list_selector_holo_light=0x7f020032;
+        public static final int abc_menu_hardkey_panel_mtrl_mult=0x7f020033;
+        public static final int abc_popup_background_mtrl_mult=0x7f020034;
+        public static final int abc_ratingbar_indicator_material=0x7f020035;
+        public static final int abc_ratingbar_material=0x7f020036;
+        public static final int abc_ratingbar_small_material=0x7f020037;
+        public static final int abc_scrubber_control_off_mtrl_alpha=0x7f020038;
+        public static final int abc_scrubber_control_to_pressed_mtrl_000=0x7f020039;
+        public static final int abc_scrubber_control_to_pressed_mtrl_005=0x7f02003a;
+        public static final int abc_scrubber_primary_mtrl_alpha=0x7f02003b;
+        public static final int abc_scrubber_track_mtrl_alpha=0x7f02003c;
+        public static final int abc_seekbar_thumb_material=0x7f02003d;
+        public static final int abc_seekbar_tick_mark_material=0x7f02003e;
+        public static final int abc_seekbar_track_material=0x7f02003f;
+        public static final int abc_spinner_mtrl_am_alpha=0x7f020040;
+        public static final int abc_spinner_textfield_background_material=0x7f020041;
+        public static final int abc_switch_thumb_material=0x7f020042;
+        public static final int abc_switch_track_mtrl_alpha=0x7f020043;
+        public static final int abc_tab_indicator_material=0x7f020044;
+        public static final int abc_tab_indicator_mtrl_alpha=0x7f020045;
+        public static final int abc_text_cursor_material=0x7f020046;
+        public static final int abc_text_select_handle_left_mtrl_dark=0x7f020047;
+        public static final int abc_text_select_handle_left_mtrl_light=0x7f020048;
+        public static final int abc_text_select_handle_middle_mtrl_dark=0x7f020049;
+        public static final int abc_text_select_handle_middle_mtrl_light=0x7f02004a;
+        public static final int abc_text_select_handle_right_mtrl_dark=0x7f02004b;
+        public static final int abc_text_select_handle_right_mtrl_light=0x7f02004c;
+        public static final int abc_textfield_activated_mtrl_alpha=0x7f02004d;
+        public static final int abc_textfield_default_mtrl_alpha=0x7f02004e;
+        public static final int abc_textfield_search_activated_mtrl_alpha=0x7f02004f;
+        public static final int abc_textfield_search_default_mtrl_alpha=0x7f020050;
+        public static final int abc_textfield_search_material=0x7f020051;
+        public static final int abc_vector_test=0x7f020052;
+        public static final int avd_hide_password=0x7f020053;
+        public static final int avd_hide_password_1=0x7f020360;
+        public static final int avd_hide_password_2=0x7f020361;
+        public static final int avd_hide_password_3=0x7f020362;
+        public static final int avd_show_password=0x7f020054;
+        public static final int avd_show_password_1=0x7f020363;
+        public static final int avd_show_password_2=0x7f020364;
+        public static final int avd_show_password_3=0x7f020365;
+        public static final int banv_fellow_member_speaking_ic=0x7f020055;
+        public static final int bg_progress_downloading=0x7f020056;
+        public static final int bnav_bear_wait_end=0x7f020057;
+        public static final int bnav_bear_wait_middle=0x7f020058;
+        public static final int bnav_bear_wait_start=0x7f020059;
+        public static final int bnav_common_bg_mask_night=0x7f020356;
+        public static final int bnav_common_bg_pressed_mask=0x7f020357;
+        public static final int bnav_common_bg_pressed_mask_night=0x7f020358;
+        public static final int bnav_common_check_box_checked=0x7f02005a;
+        public static final int bnav_common_click_bg_normal=0x7f02005b;
+        public static final int bnav_common_click_bg_normal_night=0x7f02005c;
+        public static final int bnav_common_click_bg_pressed=0x7f02005d;
+        public static final int bnav_common_click_bg_pressed_night=0x7f02005e;
+        public static final int bnav_common_ic_refresh_down=0x7f02005f;
+        public static final int bnav_common_line_horizontal=0x7f020060;
+        public static final int bnav_common_line_horizontal_night=0x7f020061;
+        public static final int bnav_common_line_vertical=0x7f020062;
+        public static final int bnav_common_progress_cycle=0x7f020063;
+        public static final int bnav_fellow_member_ic=0x7f020064;
+        public static final int bnav_pick_in_map_centerpoint=0x7f020065;
+        public static final int bnav_poi_detail_ic_down_normal=0x7f020066;
+        public static final int bnav_poi_detail_ic_down_normal_night=0x7f020067;
+        public static final int bnav_poi_detail_ic_down_pressed=0x7f020068;
+        public static final int bnav_poi_detail_ic_down_pressed_night=0x7f020069;
+        public static final int bnav_poi_detail_ic_tag_normal=0x7f02006a;
+        public static final int bnav_poi_detail_ic_tag_normal_night=0x7f02006b;
+        public static final int bnav_poi_detail_ic_tag_select=0x7f02006c;
+        public static final int bnav_poi_detail_ic_tag_select_night=0x7f02006d;
+        public static final int bnav_poi_detail_ic_up_normal=0x7f02006e;
+        public static final int bnav_poi_detail_ic_up_normal_night=0x7f02006f;
+        public static final int bnav_poi_detail_ic_up_pressed=0x7f020070;
+        public static final int bnav_poi_detail_ic_up_pressed_night=0x7f020071;
+        public static final int bnav_poi_list_drag=0x7f020072;
+        public static final int bnav_route_detail_guide=0x7f020073;
+        public static final int bnav_rp_btn_navi_default=0x7f020074;
+        public static final int bnav_rp_btn_navi_pressed=0x7f020075;
+        public static final int bnav_rp_ic_drag_default_night=0x7f020076;
+        public static final int bnav_titlebar_back_bg_normal=0x7f020077;
+        public static final int bnav_titlebar_back_bg_press=0x7f020078;
+        public static final int bnav_titlebar_btn_bg_normal=0x7f020079;
+        public static final int bnav_titlebar_btn_bg_normal_night=0x7f02007a;
+        public static final int bnav_titlebar_btn_bg_press=0x7f02007b;
+        public static final int bnav_titlebar_btn_bg_press_night=0x7f02007c;
+        public static final int bnav_titlebar_ic_back_normal=0x7f02007d;
+        public static final int bnav_titlebar_ic_back_normal_night=0x7f02007e;
+        public static final int bnavi_titlebar_close_bg_normal=0x7f02007f;
+        public static final int bnavi_titlebar_close_bg_normal_b=0x7f020080;
+        public static final int carmode_maptitlebar_back=0x7f020081;
+        public static final int carmode_ugc_manager_forbid=0x7f020082;
+        public static final int carmode_ugc_manager_forbid_sync=0x7f020083;
+        public static final int carmode_ugc_manager_invalid_road=0x7f020084;
+        public static final int carmode_ugc_manager_invalid_road_sync=0x7f020085;
+        public static final int carmode_ugc_manager_narrow_road=0x7f020086;
+        public static final int carmode_ugc_manager_narrow_road_sync=0x7f020087;
+        public static final int carmode_ugc_manager_other=0x7f020088;
+        public static final int carmode_ugc_manager_other_sync=0x7f020089;
+        public static final int common_checkbox_disable=0x7f02008a;
+        public static final int common_checked=0x7f02008b;
+        public static final int common_checked_night=0x7f02008c;
+        public static final int common_unchecked=0x7f02008d;
+        public static final int common_unchecked_night=0x7f02008e;
+        public static final int data_merge_front=0x7f02008f;
+        public static final int design_bottom_navigation_item_background=0x7f020090;
+        public static final int design_fab_background=0x7f020091;
+        public static final int design_ic_visibility=0x7f020092;
+        public static final int design_ic_visibility_off=0x7f020093;
+        public static final int design_password_eye=0x7f020094;
+        public static final int design_snackbar_background=0x7f020095;
+        public static final int divide_list=0x7f020096;
+        public static final int divide_list_carmode=0x7f020097;
+        public static final int divide_list_night=0x7f020098;
+        public static final int feedback_bg=0x7f020099;
+        public static final int feedback_bg_night=0x7f02009a;
+        public static final int fellow_enter_default_ic=0x7f02009b;
+        public static final int fellow_enter_open_ic=0x7f02009c;
+        public static final int fellow_enter_tips=0x7f02009d;
+        public static final int fellow_enter_tips_hor=0x7f02009e;
+        public static final int fellow_progress_background=0x7f02009f;
+        public static final int fellow_speak_anim_left=0x7f0200a0;
+        public static final int fellow_speak_anim_right=0x7f0200a1;
+        public static final int fellow_speak_status_defalu_ic=0x7f0200a2;
+        public static final int fellow_speak_status_ready_ic=0x7f0200a3;
+        public static final int fellow_speak_status_send_success_ic=0x7f0200a4;
+        public static final int fellow_speak_status_speaking_ic=0x7f0200a5;
+        public static final int ic_launcher=0x7f0200a6;
+        public static final int ic_search_dot=0x7f0200a7;
+        public static final int ic_search_dot_night=0x7f0200a8;
+        public static final int navigation_empty_icon=0x7f0200a9;
+        public static final int notification_action_background=0x7f0200aa;
+        public static final int notification_bg=0x7f0200ab;
+        public static final int notification_bg_low=0x7f0200ac;
+        public static final int notification_bg_low_normal=0x7f0200ad;
+        public static final int notification_bg_low_pressed=0x7f0200ae;
+        public static final int notification_bg_normal=0x7f0200af;
+        public static final int notification_bg_normal_pressed=0x7f0200b0;
+        public static final int notification_icon_background=0x7f0200b1;
+        public static final int notification_template_icon_bg=0x7f020359;
+        public static final int notification_template_icon_low_bg=0x7f02035a;
+        public static final int notification_tile_bg=0x7f0200b2;
+        public static final int notify_panel_notification_icon_bg=0x7f0200b3;
+        public static final int nsdk_asr_disabled=0x7f0200b4;
+        public static final int nsdk_asr_disabled_night=0x7f0200b5;
+        public static final int nsdk_asr_left_tips=0x7f0200b6;
+        public static final int nsdk_asr_normal=0x7f0200b7;
+        public static final int nsdk_asr_normal_night=0x7f0200b8;
+        public static final int nsdk_asr_pressed=0x7f0200b9;
+        public static final int nsdk_asr_pressed_night=0x7f0200ba;
+        public static final int nsdk_asr_process=0x7f0200bb;
+        public static final int nsdk_asr_process_night=0x7f0200bc;
+        public static final int nsdk_asr_right_tips=0x7f0200bd;
+        public static final int nsdk_asr_wave=0x7f0200be;
+        public static final int nsdk_common_bg_prj_card_bottom_disable=0x7f0200bf;
+        public static final int nsdk_common_bg_prj_card_bottom_disable_night=0x7f0200c0;
+        public static final int nsdk_common_bg_prj_card_bottom_normal=0x7f0200c1;
+        public static final int nsdk_common_bg_prj_card_bottom_normal_night=0x7f0200c2;
+        public static final int nsdk_common_bg_prj_card_bottom_pressed=0x7f0200c3;
+        public static final int nsdk_common_bg_prj_card_bottom_pressed_night=0x7f0200c4;
+        public static final int nsdk_common_bg_prj_card_left_normal=0x7f0200c5;
+        public static final int nsdk_common_bg_prj_card_left_normal_night=0x7f0200c6;
+        public static final int nsdk_common_bg_prj_card_left_pressed=0x7f0200c7;
+        public static final int nsdk_common_bg_prj_card_left_pressed_night=0x7f0200c8;
+        public static final int nsdk_common_bg_prj_card_middle_normal=0x7f0200c9;
+        public static final int nsdk_common_bg_prj_card_middle_normal_night=0x7f0200ca;
+        public static final int nsdk_common_bg_prj_card_middle_pressed=0x7f0200cb;
+        public static final int nsdk_common_bg_prj_card_middle_pressed_night=0x7f0200cc;
+        public static final int nsdk_common_bg_prj_card_normal=0x7f0200cd;
+        public static final int nsdk_common_bg_prj_card_normal_night=0x7f0200ce;
+        public static final int nsdk_common_bg_prj_card_pressed=0x7f0200cf;
+        public static final int nsdk_common_bg_prj_card_pressed_night=0x7f0200d0;
+        public static final int nsdk_common_bg_prj_card_right_normal=0x7f0200d1;
+        public static final int nsdk_common_bg_prj_card_right_normal_night=0x7f0200d2;
+        public static final int nsdk_common_bg_prj_card_right_pressed=0x7f0200d3;
+        public static final int nsdk_common_bg_prj_card_right_pressed_night=0x7f0200d4;
+        public static final int nsdk_common_bg_prj_card_top_disable=0x7f0200d5;
+        public static final int nsdk_common_bg_prj_card_top_disable_night=0x7f0200d6;
+        public static final int nsdk_common_bg_prj_card_top_normal=0x7f0200d7;
+        public static final int nsdk_common_bg_prj_card_top_normal_night=0x7f0200d8;
+        public static final int nsdk_common_bg_prj_card_top_pressed=0x7f0200d9;
+        public static final int nsdk_common_bg_prj_card_top_pressed_night=0x7f0200da;
+        public static final int nsdk_common_ic_back_normal_day=0x7f0200db;
+        public static final int nsdk_common_ic_fullview=0x7f0200dc;
+        public static final int nsdk_common_ic_fullview_night=0x7f0200dd;
+        public static final int nsdk_common_ic_fullview_off=0x7f0200de;
+        public static final int nsdk_common_ic_fullview_off_night=0x7f0200df;
+        public static final int nsdk_common_ic_locate_car=0x7f0200e0;
+        public static final int nsdk_common_ic_locate_car_night=0x7f0200e1;
+        public static final int nsdk_common_ic_locate_car_point=0x7f0200e2;
+        public static final int nsdk_common_ic_locate_car_point_night=0x7f0200e3;
+        public static final int nsdk_common_ic_map_networking=0x7f0200e4;
+        public static final int nsdk_common_ic_map_networking_night=0x7f0200e5;
+        public static final int nsdk_common_ic_mapview_car_3d=0x7f0200e6;
+        public static final int nsdk_common_ic_mapview_car_3d_night=0x7f0200e7;
+        public static final int nsdk_common_ic_scale_indicator=0x7f0200e8;
+        public static final int nsdk_common_ic_scale_indicator_night=0x7f0200e9;
+        public static final int nsdk_common_ic_zoom_in_disabled=0x7f0200ea;
+        public static final int nsdk_common_ic_zoom_in_disabled_night=0x7f0200eb;
+        public static final int nsdk_common_ic_zoom_in_normal=0x7f0200ec;
+        public static final int nsdk_common_ic_zoom_in_normal_night=0x7f0200ed;
+        public static final int nsdk_common_ic_zoom_out_disabled=0x7f0200ee;
+        public static final int nsdk_common_ic_zoom_out_disabled_night=0x7f0200ef;
+        public static final int nsdk_common_ic_zoom_out_normal=0x7f0200f0;
+        public static final int nsdk_common_ic_zoom_out_normal_night=0x7f0200f1;
+        public static final int nsdk_common_ipo_fadeout=0x7f0200f2;
+        public static final int nsdk_common_line_horizontal=0x7f0200f3;
+        public static final int nsdk_common_line_horizontal_night=0x7f0200f4;
+        public static final int nsdk_common_line_vertical=0x7f0200f5;
+        public static final int nsdk_common_line_vertical_night=0x7f0200f6;
+        public static final int nsdk_drawable_anolog_pause=0x7f0200f7;
+        public static final int nsdk_drawable_anolog_pause_night=0x7f0200f8;
+        public static final int nsdk_drawable_anolog_play=0x7f0200f9;
+        public static final int nsdk_drawable_anolog_play_night=0x7f0200fa;
+        public static final int nsdk_drawable_bg_texture=0x7f0200fb;
+        public static final int nsdk_drawable_btn_input_delete_normal=0x7f0200fc;
+        public static final int nsdk_drawable_btn_input_delete_pressed=0x7f0200fd;
+        public static final int nsdk_drawable_common_avoid_traffic_cannel=0x7f0200fe;
+        public static final int nsdk_drawable_common_avoid_traffic_cannel_night=0x7f0200ff;
+        public static final int nsdk_drawable_common_avoid_traffic_now=0x7f020100;
+        public static final int nsdk_drawable_common_avoid_traffic_now_night=0x7f020101;
+        public static final int nsdk_drawable_common_bad=0x7f020102;
+        public static final int nsdk_drawable_common_bg_btn_rec=0x7f020103;
+        public static final int nsdk_drawable_common_bg_btn_rec_night=0x7f020104;
+        public static final int nsdk_drawable_common_bg_btn_rec_pressed=0x7f020105;
+        public static final int nsdk_drawable_common_bg_btn_rec_pressed_night=0x7f020106;
+        public static final int nsdk_drawable_common_bg_card_projection_night=0x7f020107;
+        public static final int nsdk_drawable_common_bg_card_projection_night_press=0x7f020108;
+        public static final int nsdk_drawable_common_bg_card_projection_normal=0x7f020109;
+        public static final int nsdk_drawable_common_bg_card_projection_normal_night=0x7f02010a;
+        public static final int nsdk_drawable_common_bg_card_projection_press=0x7f02010b;
+        public static final int nsdk_drawable_common_bg_card_projection_press_night=0x7f02010c;
+        public static final int nsdk_drawable_common_bg_card_transparent_normal=0x7f02010d;
+        public static final int nsdk_drawable_common_bg_pressed_mask=0x7f02010e;
+        public static final int nsdk_drawable_common_bg_pressed_mask_night=0x7f02010f;
+        public static final int nsdk_drawable_common_bg_prj_blue_normal=0x7f020110;
+        public static final int nsdk_drawable_common_bg_prj_blue_pressed=0x7f020111;
+        public static final int nsdk_drawable_common_bg_prj_card_bottom_disable=0x7f020112;
+        public static final int nsdk_drawable_common_bg_prj_card_bottom_disable_night=0x7f020113;
+        public static final int nsdk_drawable_common_bg_prj_card_bottom_normal=0x7f020114;
+        public static final int nsdk_drawable_common_bg_prj_card_bottom_normal_night=0x7f020115;
+        public static final int nsdk_drawable_common_bg_prj_card_bottom_pressed=0x7f020116;
+        public static final int nsdk_drawable_common_bg_prj_card_bottom_pressed_night=0x7f020117;
+        public static final int nsdk_drawable_common_bg_prj_card_left_normal=0x7f020118;
+        public static final int nsdk_drawable_common_bg_prj_card_left_normal_night=0x7f020119;
+        public static final int nsdk_drawable_common_bg_prj_card_left_pressed=0x7f02011a;
+        public static final int nsdk_drawable_common_bg_prj_card_left_pressed_night=0x7f02011b;
+        public static final int nsdk_drawable_common_bg_prj_card_middle_normal=0x7f02011c;
+        public static final int nsdk_drawable_common_bg_prj_card_middle_normal_night=0x7f02011d;
+        public static final int nsdk_drawable_common_bg_prj_card_middle_pressed=0x7f02011e;
+        public static final int nsdk_drawable_common_bg_prj_card_middle_pressed_night=0x7f02011f;
+        public static final int nsdk_drawable_common_bg_prj_card_right_normal=0x7f020120;
+        public static final int nsdk_drawable_common_bg_prj_card_right_normal_night=0x7f020121;
+        public static final int nsdk_drawable_common_bg_prj_card_right_pressed=0x7f020122;
+        public static final int nsdk_drawable_common_bg_prj_card_right_pressed_night=0x7f020123;
+        public static final int nsdk_drawable_common_bg_prj_card_top_disable=0x7f020124;
+        public static final int nsdk_drawable_common_bg_prj_card_top_disable_night=0x7f020125;
+        public static final int nsdk_drawable_common_bg_prj_card_top_normal=0x7f020126;
+        public static final int nsdk_drawable_common_bg_prj_card_top_normal_night=0x7f020127;
+        public static final int nsdk_drawable_common_bg_prj_card_top_pressed=0x7f020128;
+        public static final int nsdk_drawable_common_bg_prj_card_top_pressed_night=0x7f020129;
+        public static final int nsdk_drawable_common_btn_back_black_night=0x7f02012a;
+        public static final int nsdk_drawable_common_btn_back_pressed=0x7f02012b;
+        public static final int nsdk_drawable_common_btn_bg_default=0x7f02012c;
+        public static final int nsdk_drawable_common_btn_bg_default_night=0x7f02012d;
+        public static final int nsdk_drawable_common_btn_bg_pressed=0x7f02012e;
+        public static final int nsdk_drawable_common_btn_bg_pressed_night=0x7f02012f;
+        public static final int nsdk_drawable_common_btn_blue_normal=0x7f020130;
+        public static final int nsdk_drawable_common_btn_blue_pressed=0x7f020131;
+        public static final int nsdk_drawable_common_btn_menu=0x7f020132;
+        public static final int nsdk_drawable_common_btn_voice_off=0x7f020133;
+        public static final int nsdk_drawable_common_btn_voice_on=0x7f020134;
+        public static final int nsdk_drawable_common_btn_white_normal=0x7f020135;
+        public static final int nsdk_drawable_common_btn_white_pressed=0x7f020136;
+        public static final int nsdk_drawable_common_btn_zoom_in=0x7f020137;
+        public static final int nsdk_drawable_common_btn_zoom_out=0x7f020138;
+        public static final int nsdk_drawable_common_check_box_checked=0x7f020139;
+        public static final int nsdk_drawable_common_check_box_unchecked=0x7f02013a;
+        public static final int nsdk_drawable_common_checkbox_disable=0x7f02013b;
+        public static final int nsdk_drawable_common_dialog_chang=0x7f02013c;
+        public static final int nsdk_drawable_common_dialog_chang_night=0x7f02013d;
+        public static final int nsdk_drawable_common_dialog_chang_night_press=0x7f02013e;
+        public static final int nsdk_drawable_common_dialog_chang_press=0x7f02013f;
+        public static final int nsdk_drawable_common_dialog_left=0x7f020140;
+        public static final int nsdk_drawable_common_dialog_left_night=0x7f020141;
+        public static final int nsdk_drawable_common_dialog_left_press=0x7f020142;
+        public static final int nsdk_drawable_common_dialog_left_press_night=0x7f020143;
+        public static final int nsdk_drawable_common_dialog_middle=0x7f020144;
+        public static final int nsdk_drawable_common_dialog_middle_night=0x7f020145;
+        public static final int nsdk_drawable_common_dialog_middle_press=0x7f020146;
+        public static final int nsdk_drawable_common_dialog_middle_press_night=0x7f020147;
+        public static final int nsdk_drawable_common_dialog_right=0x7f020148;
+        public static final int nsdk_drawable_common_dialog_right_night=0x7f020149;
+        public static final int nsdk_drawable_common_dialog_right_press=0x7f02014a;
+        public static final int nsdk_drawable_common_dialog_right_press_night=0x7f02014b;
+        public static final int nsdk_drawable_common_dialog_top=0x7f02014c;
+        public static final int nsdk_drawable_common_empty_poi=0x7f02014d;
+        public static final int nsdk_drawable_common_good=0x7f02014e;
+        public static final int nsdk_drawable_common_ic_avoid_traffic_cannel=0x7f02014f;
+        public static final int nsdk_drawable_common_ic_avoid_traffic_cannel_press=0x7f020150;
+        public static final int nsdk_drawable_common_ic_avoid_traffic_now=0x7f020151;
+        public static final int nsdk_drawable_common_ic_avoid_traffic_now_press=0x7f020152;
+        public static final int nsdk_drawable_common_ic_avoid_traffic_refresh=0x7f020153;
+        public static final int nsdk_drawable_common_ic_close=0x7f020154;
+        public static final int nsdk_drawable_common_ic_list_right_arrow=0x7f020155;
+        public static final int nsdk_drawable_common_ic_locate_car_point=0x7f020156;
+        public static final int nsdk_drawable_common_ic_locate_car_point_night=0x7f020157;
+        public static final int nsdk_drawable_common_ic_map_its_off=0x7f020158;
+        public static final int nsdk_drawable_common_ic_map_its_on=0x7f020159;
+        public static final int nsdk_drawable_common_ic_map_networking=0x7f02015a;
+        public static final int nsdk_drawable_common_ic_map_networking_night=0x7f02015b;
+        public static final int nsdk_drawable_common_ic_park_search_off=0x7f02015c;
+        public static final int nsdk_drawable_common_ic_park_search_on=0x7f02015d;
+        public static final int nsdk_drawable_common_ic_stamp=0x7f02015e;
+        public static final int nsdk_drawable_common_ic_ugc_road=0x7f02015f;
+        public static final int nsdk_drawable_common_ic_zoom_in_disable=0x7f020160;
+        public static final int nsdk_drawable_common_ic_zoom_in_disable_night=0x7f020161;
+        public static final int nsdk_drawable_common_ic_zoom_in_normal=0x7f020162;
+        public static final int nsdk_drawable_common_ic_zoom_in_normal_night=0x7f020163;
+        public static final int nsdk_drawable_common_ic_zoom_out_disable=0x7f020164;
+        public static final int nsdk_drawable_common_ic_zoom_out_disable_night=0x7f020165;
+        public static final int nsdk_drawable_common_ic_zoom_out_normal=0x7f020166;
+        public static final int nsdk_drawable_common_ic_zoom_out_normal_night=0x7f020167;
+        public static final int nsdk_drawable_common_layoute_indicator_triangle=0x7f020168;
+        public static final int nsdk_drawable_common_left_arrow=0x7f020169;
+        public static final int nsdk_drawable_common_line_horizontal=0x7f02016a;
+        public static final int nsdk_drawable_common_line_horizontal_night=0x7f02016b;
+        public static final int nsdk_drawable_common_line_vertical=0x7f02016c;
+        public static final int nsdk_drawable_common_line_vertical_night=0x7f02016d;
+        public static final int nsdk_drawable_common_list_divider=0x7f02016e;
+        public static final int nsdk_drawable_common_list_divider_night=0x7f02016f;
+        public static final int nsdk_drawable_common_loading_box=0x7f020170;
+        public static final int nsdk_drawable_common_loading_circle=0x7f020171;
+        public static final int nsdk_drawable_common_loading_drop=0x7f020172;
+        public static final int nsdk_drawable_common_normal=0x7f020173;
+        public static final int nsdk_drawable_common_right_arrow=0x7f020174;
+        public static final int nsdk_drawable_common_serial_bg=0x7f020175;
+        public static final int nsdk_drawable_common_serial_bg_night=0x7f020176;
+        public static final int nsdk_drawable_common_shadow_edge=0x7f020177;
+        public static final int nsdk_drawable_common_shadow_edge_left=0x7f020178;
+        public static final int nsdk_drawable_cruise_detecting1=0x7f020179;
+        public static final int nsdk_drawable_cruise_detecting2=0x7f02017a;
+        public static final int nsdk_drawable_cruise_detecting3=0x7f02017b;
+        public static final int nsdk_drawable_cruise_new_guide=0x7f02017c;
+        public static final int nsdk_drawable_cruise_newerguid_1=0x7f02017d;
+        public static final int nsdk_drawable_cruise_newerguid_2=0x7f02017e;
+        public static final int nsdk_drawable_cruise_newerguid_3=0x7f02017f;
+        public static final int nsdk_drawable_download_action_bar_bg_normal=0x7f020180;
+        public static final int nsdk_drawable_download_action_bar_bg_pressed=0x7f020181;
+        public static final int nsdk_drawable_download_action_bar_separator=0x7f020182;
+        public static final int nsdk_drawable_download_arrow=0x7f020183;
+        public static final int nsdk_drawable_download_back_btn_normal=0x7f020184;
+        public static final int nsdk_drawable_download_back_btn_pressed=0x7f020185;
+        public static final int nsdk_drawable_download_bg_progress_background=0x7f020186;
+        public static final int nsdk_drawable_download_bg_progress_background_night=0x7f020187;
+        public static final int nsdk_drawable_download_bg_progress_downloading=0x7f020188;
+        public static final int nsdk_drawable_download_btn_default_disable=0x7f020189;
+        public static final int nsdk_drawable_download_btn_default_normal=0x7f02018a;
+        public static final int nsdk_drawable_download_btn_default_pressed=0x7f02018b;
+        public static final int nsdk_drawable_download_btn_icon_delete=0x7f02018c;
+        public static final int nsdk_drawable_download_list_def_divider=0x7f02018d;
+        public static final int nsdk_drawable_download_list_divider=0x7f02018e;
+        public static final int nsdk_drawable_download_list_title_bg=0x7f02018f;
+        public static final int nsdk_drawable_download_newerguide=0x7f020190;
+        public static final int nsdk_drawable_download_pause=0x7f020191;
+        public static final int nsdk_drawable_download_pause_disabled=0x7f020192;
+        public static final int nsdk_drawable_download_search_box=0x7f020193;
+        public static final int nsdk_drawable_download_search_highlight=0x7f020194;
+        public static final int nsdk_drawable_download_start=0x7f020195;
+        public static final int nsdk_drawable_download_start_disabled=0x7f020196;
+        public static final int nsdk_drawable_download_tab_bar_left_normal=0x7f020197;
+        public static final int nsdk_drawable_download_tab_bar_left_pressed=0x7f020198;
+        public static final int nsdk_drawable_download_tab_bar_right_normal=0x7f020199;
+        public static final int nsdk_drawable_download_tab_bar_right_pressed=0x7f02019a;
+        public static final int nsdk_drawable_download_tab_head_bg=0x7f02019b;
+        public static final int nsdk_drawable_download_update=0x7f02019c;
+        public static final int nsdk_drawable_download_update_disabled=0x7f02019d;
+        public static final int nsdk_drawable_download_update_num_bg=0x7f02019e;
+        public static final int nsdk_drawable_driveinfo_ic_highest=0x7f02019f;
+        public static final int nsdk_drawable_driveinfo_ic_lowest=0x7f0201a0;
+        public static final int nsdk_drawable_enlarge_close_l=0x7f0201a1;
+        public static final int nsdk_drawable_enlarge_close_p=0x7f0201a2;
+        public static final int nsdk_drawable_locker_pull_down=0x7f0201a3;
+        public static final int nsdk_drawable_locker_pull_left=0x7f0201a4;
+        public static final int nsdk_drawable_locker_pull_left_night=0x7f0201a5;
+        public static final int nsdk_drawable_locker_pull_righ=0x7f0201a6;
+        public static final int nsdk_drawable_locker_pull_right=0x7f0201a7;
+        public static final int nsdk_drawable_locker_pull_right_night=0x7f0201a8;
+        public static final int nsdk_drawable_locker_pull_up=0x7f0201a9;
+        public static final int nsdk_drawable_map_watermark=0x7f0201aa;
+        public static final int nsdk_drawable_od_bg_card_progress_background=0x7f0201ab;
+        public static final int nsdk_drawable_od_bg_card_progress_background_night=0x7f0201ac;
+        public static final int nsdk_drawable_od_bg_progress_background=0x7f0201ad;
+        public static final int nsdk_drawable_od_bg_progress_background_night=0x7f0201ae;
+        public static final int nsdk_drawable_od_bg_progress_downloading=0x7f0201af;
+        public static final int nsdk_drawable_od_bg_progress_suspend=0x7f0201b0;
+        public static final int nsdk_drawable_rd_avoid_tips=0x7f0201b1;
+        public static final int nsdk_drawable_rd_pulldown_press=0x7f0201b2;
+        public static final int nsdk_drawable_rd_pullleft_press=0x7f0201b3;
+        public static final int nsdk_drawable_rd_pullright_press=0x7f0201b4;
+        public static final int nsdk_drawable_rd_pullup_press=0x7f0201b5;
+        public static final int nsdk_drawable_rg_asr_anim_voice_recording_7=0x7f0201b6;
+        public static final int nsdk_drawable_rg_asr_mic_disable=0x7f0201b7;
+        public static final int nsdk_drawable_rg_asr_mic_normal=0x7f0201b8;
+        public static final int nsdk_drawable_rg_asr_panel_close=0x7f0201b9;
+        public static final int nsdk_drawable_rg_asr_panel_guide=0x7f0201ba;
+        public static final int nsdk_drawable_rg_asr_panel_guide_night=0x7f0201bb;
+        public static final int nsdk_drawable_rg_asr_user_guide=0x7f0201bc;
+        public static final int nsdk_drawable_rg_assist_main_auxiliary=0x7f0201bd;
+        public static final int nsdk_drawable_rg_assist_normal_speed=0x7f0201be;
+        public static final int nsdk_drawable_rg_assist_over_speed=0x7f0201bf;
+        public static final int nsdk_drawable_rg_bg_ar=0x7f0201c0;
+        public static final int nsdk_drawable_rg_bg_assist_progress=0x7f0201c1;
+        public static final int nsdk_drawable_rg_bg_enlargeroadmap_distance=0x7f0201c2;
+        public static final int nsdk_drawable_rg_bg_enlargeroadmap_road_name=0x7f0201c3;
+        public static final int nsdk_drawable_rg_bg_fullview_prj_right_normal=0x7f0201c4;
+        public static final int nsdk_drawable_rg_bg_fullview_prj_right_normal_night=0x7f0201c5;
+        public static final int nsdk_drawable_rg_bg_fullview_prj_right_pressed=0x7f0201c6;
+        public static final int nsdk_drawable_rg_bg_fullview_prj_right_pressed_night=0x7f0201c7;
+        public static final int nsdk_drawable_rg_bg_net_refresh_newbie=0x7f0201c8;
+        public static final int nsdk_drawable_rg_bg_space_search_catalog_prj_pressed=0x7f0201c9;
+        public static final int nsdk_drawable_rg_bg_space_search_catalog_prj_pressed_night=0x7f0201ca;
+        public static final int nsdk_drawable_rg_bg_zoomin_prj_left_normal=0x7f0201cb;
+        public static final int nsdk_drawable_rg_bg_zoomin_prj_left_normal_night=0x7f0201cc;
+        public static final int nsdk_drawable_rg_bg_zoomin_prj_left_pressed=0x7f0201cd;
+        public static final int nsdk_drawable_rg_bg_zoomin_prj_left_pressed_night=0x7f0201ce;
+        public static final int nsdk_drawable_rg_bg_zoomout_prj_center_normal=0x7f0201cf;
+        public static final int nsdk_drawable_rg_bg_zoomout_prj_center_normal_night=0x7f0201d0;
+        public static final int nsdk_drawable_rg_bg_zoomout_prj_center_pressed=0x7f0201d1;
+        public static final int nsdk_drawable_rg_bg_zoomout_prj_center_pressed_night=0x7f0201d2;
+        public static final int nsdk_drawable_rg_blue_road_color=0x7f0201d3;
+        public static final int nsdk_drawable_rg_btn_switch_off_normal=0x7f0201d4;
+        public static final int nsdk_drawable_rg_btn_switch_off_normal_night=0x7f0201d5;
+        public static final int nsdk_drawable_rg_btn_switch_off_pressed=0x7f0201d6;
+        public static final int nsdk_drawable_rg_btn_switch_off_pressed_night=0x7f0201d7;
+        public static final int nsdk_drawable_rg_btn_switch_on_normal=0x7f0201d8;
+        public static final int nsdk_drawable_rg_btn_switch_on_normal_night=0x7f0201d9;
+        public static final int nsdk_drawable_rg_btn_switch_on_pressed=0x7f0201da;
+        public static final int nsdk_drawable_rg_btn_switch_on_pressed_night=0x7f0201db;
+        public static final int nsdk_drawable_rg_btn_zoom_in_disabled=0x7f0201dc;
+        public static final int nsdk_drawable_rg_btn_zoom_in_disabled_night=0x7f0201dd;
+        public static final int nsdk_drawable_rg_btn_zoom_in_normal=0x7f0201de;
+        public static final int nsdk_drawable_rg_btn_zoom_in_normal_night=0x7f0201df;
+        public static final int nsdk_drawable_rg_btn_zoom_out_disabled=0x7f0201e0;
+        public static final int nsdk_drawable_rg_btn_zoom_out_disabled_night=0x7f0201e1;
+        public static final int nsdk_drawable_rg_btn_zoom_out_normal=0x7f0201e2;
+        public static final int nsdk_drawable_rg_btn_zoom_out_normal_night=0x7f0201e3;
+        public static final int nsdk_drawable_rg_common_single_selection_off=0x7f0201e4;
+        public static final int nsdk_drawable_rg_common_single_selection_off_night=0x7f0201e5;
+        public static final int nsdk_drawable_rg_common_single_selection_on=0x7f0201e6;
+        public static final int nsdk_drawable_rg_common_single_selection_on_night=0x7f0201e7;
+        public static final int nsdk_drawable_rg_cruise_accident=0x7f0201e8;
+        public static final int nsdk_drawable_rg_cruise_blindbend_continuous=0x7f0201e9;
+        public static final int nsdk_drawable_rg_cruise_blindbend_left=0x7f0201ea;
+        public static final int nsdk_drawable_rg_cruise_blindbend_reverse=0x7f0201eb;
+        public static final int nsdk_drawable_rg_cruise_blindbend_right=0x7f0201ec;
+        public static final int nsdk_drawable_rg_cruise_blindslope=0x7f0201ed;
+        public static final int nsdk_drawable_rg_cruise_blindslope_down=0x7f0201ee;
+        public static final int nsdk_drawable_rg_cruise_blindslope_up=0x7f0201ef;
+        public static final int nsdk_drawable_rg_cruise_bridge=0x7f0201f0;
+        public static final int nsdk_drawable_rg_cruise_children=0x7f0201f1;
+        public static final int nsdk_drawable_rg_cruise_crosswind=0x7f0201f2;
+        public static final int nsdk_drawable_rg_cruise_hillsidedangerous=0x7f0201f3;
+        public static final int nsdk_drawable_rg_cruise_honk=0x7f0201f4;
+        public static final int nsdk_drawable_rg_cruise_joint_left=0x7f0201f5;
+        public static final int nsdk_drawable_rg_cruise_joint_right=0x7f0201f6;
+        public static final int nsdk_drawable_rg_cruise_limitcamera=0x7f0201f7;
+        public static final int nsdk_drawable_rg_cruise_lowspeed=0x7f0201f8;
+        public static final int nsdk_drawable_rg_cruise_narrow_both=0x7f0201f9;
+        public static final int nsdk_drawable_rg_cruise_narrow_left=0x7f0201fa;
+        public static final int nsdk_drawable_rg_cruise_narrow_right=0x7f0201fb;
+        public static final int nsdk_drawable_rg_cruise_narrowbridge=0x7f0201fc;
+        public static final int nsdk_drawable_rg_cruise_no_network_s=0x7f0201fd;
+        public static final int nsdk_drawable_rg_cruise_overtakeforbidden=0x7f0201fe;
+        public static final int nsdk_drawable_rg_cruise_peccanrycamera=0x7f0201ff;
+        public static final int nsdk_drawable_rg_cruise_radar_scale=0x7f020200;
+        public static final int nsdk_drawable_rg_cruise_radar_scanning=0x7f020201;
+        public static final int nsdk_drawable_rg_cruise_railway=0x7f020202;
+        public static final int nsdk_drawable_rg_cruise_railway_managed=0x7f020203;
+        public static final int nsdk_drawable_rg_cruise_railway_unmanaged=0x7f020204;
+        public static final int nsdk_drawable_rg_cruise_rockfall_left=0x7f020205;
+        public static final int nsdk_drawable_rg_cruise_rockfall_right=0x7f020206;
+        public static final int nsdk_drawable_rg_cruise_search_signal=0x7f020207;
+        public static final int nsdk_drawable_rg_cruise_slip=0x7f020208;
+        public static final int nsdk_drawable_rg_cruise_speed_indicator=0x7f020209;
+        public static final int nsdk_drawable_rg_cruise_speed_panel=0x7f02020a;
+        public static final int nsdk_drawable_rg_cruise_try_locate=0x7f02020b;
+        public static final int nsdk_drawable_rg_cruise_tunnel=0x7f02020c;
+        public static final int nsdk_drawable_rg_cruise_underwater=0x7f02020d;
+        public static final int nsdk_drawable_rg_cruise_uneven=0x7f02020e;
+        public static final int nsdk_drawable_rg_cruise_viliage=0x7f02020f;
+        public static final int nsdk_drawable_rg_cruise_zippass=0x7f020210;
+        public static final int nsdk_drawable_rg_enlargeroadmap_progressbar=0x7f020211;
+        public static final int nsdk_drawable_rg_gps_progress_bar=0x7f020212;
+        public static final int nsdk_drawable_rg_highway_help_gb=0x7f020213;
+        public static final int nsdk_drawable_rg_highway_left_arrow=0x7f020214;
+        public static final int nsdk_drawable_rg_highway_right_arrow=0x7f020215;
+        public static final int nsdk_drawable_rg_highway_simpleguide_straight_text=0x7f020216;
+        public static final int nsdk_drawable_rg_highway_straight_arrow=0x7f020217;
+        public static final int nsdk_drawable_rg_hud_back=0x7f020218;
+        public static final int nsdk_drawable_rg_hud_card_enter=0x7f020219;
+        public static final int nsdk_drawable_rg_hud_turn_back=0x7f02021a;
+        public static final int nsdk_drawable_rg_hud_turn_branch_center=0x7f02021b;
+        public static final int nsdk_drawable_rg_hud_turn_branch_left=0x7f02021c;
+        public static final int nsdk_drawable_rg_hud_turn_branch_left_straight=0x7f02021d;
+        public static final int nsdk_drawable_rg_hud_turn_branch_right=0x7f02021e;
+        public static final int nsdk_drawable_rg_hud_turn_branch_right_straight=0x7f02021f;
+        public static final int nsdk_drawable_rg_hud_turn_dest=0x7f020220;
+        public static final int nsdk_drawable_rg_hud_turn_front=0x7f020221;
+        public static final int nsdk_drawable_rg_hud_turn_left=0x7f020222;
+        public static final int nsdk_drawable_rg_hud_turn_left_2branch_left=0x7f020223;
+        public static final int nsdk_drawable_rg_hud_turn_left_2branch_right=0x7f020224;
+        public static final int nsdk_drawable_rg_hud_turn_left_3branch_left=0x7f020225;
+        public static final int nsdk_drawable_rg_hud_turn_left_3branch_middle=0x7f020226;
+        public static final int nsdk_drawable_rg_hud_turn_left_3branch_right=0x7f020227;
+        public static final int nsdk_drawable_rg_hud_turn_left_back=0x7f020228;
+        public static final int nsdk_drawable_rg_hud_turn_left_side=0x7f020229;
+        public static final int nsdk_drawable_rg_hud_turn_left_side_ic=0x7f02022a;
+        public static final int nsdk_drawable_rg_hud_turn_left_side_main=0x7f02022b;
+        public static final int nsdk_drawable_rg_hud_turn_lf_2branch_left=0x7f02022c;
+        public static final int nsdk_drawable_rg_hud_turn_lf_2branch_right=0x7f02022d;
+        public static final int nsdk_drawable_rg_hud_turn_rf_2branch_left=0x7f02022e;
+        public static final int nsdk_drawable_rg_hud_turn_rf_2branch_right=0x7f02022f;
+        public static final int nsdk_drawable_rg_hud_turn_right=0x7f020230;
+        public static final int nsdk_drawable_rg_hud_turn_right_2branch_left=0x7f020231;
+        public static final int nsdk_drawable_rg_hud_turn_right_2branch_right=0x7f020232;
+        public static final int nsdk_drawable_rg_hud_turn_right_3branch_left=0x7f020233;
+        public static final int nsdk_drawable_rg_hud_turn_right_3branch_middle=0x7f020234;
+        public static final int nsdk_drawable_rg_hud_turn_right_3branch_right=0x7f020235;
+        public static final int nsdk_drawable_rg_hud_turn_right_back=0x7f020236;
+        public static final int nsdk_drawable_rg_hud_turn_right_front=0x7f020237;
+        public static final int nsdk_drawable_rg_hud_turn_right_side=0x7f020238;
+        public static final int nsdk_drawable_rg_hud_turn_right_side_ic=0x7f020239;
+        public static final int nsdk_drawable_rg_hud_turn_right_side_main=0x7f02023a;
+        public static final int nsdk_drawable_rg_hud_turn_tollgate=0x7f02023b;
+        public static final int nsdk_drawable_rg_ic_battery_charging=0x7f02023c;
+        public static final int nsdk_drawable_rg_ic_battery_red=0x7f02023d;
+        public static final int nsdk_drawable_rg_ic_battery_white_1=0x7f02023e;
+        public static final int nsdk_drawable_rg_ic_battery_white_2=0x7f02023f;
+        public static final int nsdk_drawable_rg_ic_battery_white_3=0x7f020240;
+        public static final int nsdk_drawable_rg_ic_car3d=0x7f020241;
+        public static final int nsdk_drawable_rg_ic_fullview=0x7f020242;
+        public static final int nsdk_drawable_rg_ic_fullview_night=0x7f020243;
+        public static final int nsdk_drawable_rg_ic_fullview_off=0x7f020244;
+        public static final int nsdk_drawable_rg_ic_fullview_off_night=0x7f020245;
+        public static final int nsdk_drawable_rg_ic_locate_car_point=0x7f020246;
+        public static final int nsdk_drawable_rg_ic_locate_loading=0x7f020247;
+        public static final int nsdk_drawable_rg_ic_more=0x7f020248;
+        public static final int nsdk_drawable_rg_ic_more_night=0x7f020249;
+        public static final int nsdk_drawable_rg_ic_net_refresh=0x7f02024a;
+        public static final int nsdk_drawable_rg_ic_net_refresh_newbie_close=0x7f02024b;
+        public static final int nsdk_drawable_rg_ic_net_refresh_night=0x7f02024c;
+        public static final int nsdk_drawable_rg_ic_north2d=0x7f02024d;
+        public static final int nsdk_drawable_rg_ic_park_detail=0x7f02024e;
+        public static final int nsdk_drawable_rg_ic_quit=0x7f02024f;
+        public static final int nsdk_drawable_rg_ic_quit_guidance=0x7f020250;
+        public static final int nsdk_drawable_rg_ic_rem_dist=0x7f020251;
+        public static final int nsdk_drawable_rg_ic_rem_time=0x7f020252;
+        public static final int nsdk_drawable_rg_ic_satellite_green=0x7f020253;
+        public static final int nsdk_drawable_rg_ic_satellite_red=0x7f020254;
+        public static final int nsdk_drawable_rg_ic_satellite_yellow=0x7f020255;
+        public static final int nsdk_drawable_rg_ic_scale_indicator=0x7f020256;
+        public static final int nsdk_drawable_rg_ic_scale_indicator_night=0x7f020257;
+        public static final int nsdk_drawable_rg_ic_space_search_night=0x7f020258;
+        public static final int nsdk_drawable_rg_ic_speed_1=0x7f020259;
+        public static final int nsdk_drawable_rg_ic_speed_1_night=0x7f02025a;
+        public static final int nsdk_drawable_rg_ic_turn_along=0x7f02025b;
+        public static final int nsdk_drawable_rg_ic_turn_back=0x7f02025c;
+        public static final int nsdk_drawable_rg_ic_turn_branch_center=0x7f02025d;
+        public static final int nsdk_drawable_rg_ic_turn_branch_left=0x7f02025e;
+        public static final int nsdk_drawable_rg_ic_turn_branch_left_straight=0x7f02025f;
+        public static final int nsdk_drawable_rg_ic_turn_branch_right=0x7f020260;
+        public static final int nsdk_drawable_rg_ic_turn_branch_right_straight=0x7f020261;
+        public static final int nsdk_drawable_rg_ic_turn_dest=0x7f020262;
+        public static final int nsdk_drawable_rg_ic_turn_dest_s=0x7f020263;
+        public static final int nsdk_drawable_rg_ic_turn_front=0x7f020264;
+        public static final int nsdk_drawable_rg_ic_turn_front_2branch_left=0x7f020265;
+        public static final int nsdk_drawable_rg_ic_turn_front_2branch_right=0x7f020266;
+        public static final int nsdk_drawable_rg_ic_turn_front_3branch_left=0x7f020267;
+        public static final int nsdk_drawable_rg_ic_turn_front_3branch_middle=0x7f020268;
+        public static final int nsdk_drawable_rg_ic_turn_front_3branch_right=0x7f020269;
+        public static final int nsdk_drawable_rg_ic_turn_inferry=0x7f02026a;
+        public static final int nsdk_drawable_rg_ic_turn_left=0x7f02026b;
+        public static final int nsdk_drawable_rg_ic_turn_left_2branch_left=0x7f02026c;
+        public static final int nsdk_drawable_rg_ic_turn_left_2branch_right=0x7f02026d;
+        public static final int nsdk_drawable_rg_ic_turn_left_3branch_left=0x7f02026e;
+        public static final int nsdk_drawable_rg_ic_turn_left_3branch_middle=0x7f02026f;
+        public static final int nsdk_drawable_rg_ic_turn_left_3branch_right=0x7f020270;
+        public static final int nsdk_drawable_rg_ic_turn_left_back=0x7f020271;
+        public static final int nsdk_drawable_rg_ic_turn_left_front=0x7f020272;
+        public static final int nsdk_drawable_rg_ic_turn_left_side=0x7f020273;
+        public static final int nsdk_drawable_rg_ic_turn_left_side_ic=0x7f020274;
+        public static final int nsdk_drawable_rg_ic_turn_left_side_main=0x7f020275;
+        public static final int nsdk_drawable_rg_ic_turn_lf_2branch_left=0x7f020276;
+        public static final int nsdk_drawable_rg_ic_turn_lf_2branch_right=0x7f020277;
+        public static final int nsdk_drawable_rg_ic_turn_rf_2branch_left=0x7f020278;
+        public static final int nsdk_drawable_rg_ic_turn_rf_2branch_right=0x7f020279;
+        public static final int nsdk_drawable_rg_ic_turn_right=0x7f02027a;
+        public static final int nsdk_drawable_rg_ic_turn_right_2branch_left=0x7f02027b;
+        public static final int nsdk_drawable_rg_ic_turn_right_2branch_right=0x7f02027c;
+        public static final int nsdk_drawable_rg_ic_turn_right_3branch_left=0x7f02027d;
+        public static final int nsdk_drawable_rg_ic_turn_right_3branch_middle=0x7f02027e;
+        public static final int nsdk_drawable_rg_ic_turn_right_3branch_right=0x7f02027f;
+        public static final int nsdk_drawable_rg_ic_turn_right_back=0x7f020280;
+        public static final int nsdk_drawable_rg_ic_turn_right_front=0x7f020281;
+        public static final int nsdk_drawable_rg_ic_turn_right_side=0x7f020282;
+        public static final int nsdk_drawable_rg_ic_turn_right_side_ic=0x7f020283;
+        public static final int nsdk_drawable_rg_ic_turn_right_side_main=0x7f020284;
+        public static final int nsdk_drawable_rg_ic_turn_ring=0x7f020285;
+        public static final int nsdk_drawable_rg_ic_turn_ring_front=0x7f020286;
+        public static final int nsdk_drawable_rg_ic_turn_ring_left=0x7f020287;
+        public static final int nsdk_drawable_rg_ic_turn_ring_leftback=0x7f020288;
+        public static final int nsdk_drawable_rg_ic_turn_ring_leftfront=0x7f020289;
+        public static final int nsdk_drawable_rg_ic_turn_ring_out=0x7f02028a;
+        public static final int nsdk_drawable_rg_ic_turn_ring_right=0x7f02028b;
+        public static final int nsdk_drawable_rg_ic_turn_ring_rightback=0x7f02028c;
+        public static final int nsdk_drawable_rg_ic_turn_ring_rightfront=0x7f02028d;
+        public static final int nsdk_drawable_rg_ic_turn_ring_turnback=0x7f02028e;
+        public static final int nsdk_drawable_rg_ic_turn_start=0x7f02028f;
+        public static final int nsdk_drawable_rg_ic_turn_start_s=0x7f020290;
+        public static final int nsdk_drawable_rg_ic_turn_tollgate=0x7f020291;
+        public static final int nsdk_drawable_rg_ic_turn_via_1=0x7f020292;
+        public static final int nsdk_drawable_rg_ic_turn_via_1_s=0x7f020293;
+        public static final int nsdk_drawable_rg_line_horizontal=0x7f020294;
+        public static final int nsdk_drawable_rg_line_vertical=0x7f020295;
+        public static final int nsdk_drawable_rg_line_vertical_night=0x7f020296;
+        public static final int nsdk_drawable_rg_loc_progress=0x7f020297;
+        public static final int nsdk_drawable_rg_main_auxiliary_guide=0x7f020298;
+        public static final int nsdk_drawable_rg_main_auxiliary_switch=0x7f020299;
+        public static final int nsdk_drawable_rg_menu_close_default=0x7f02029a;
+        public static final int nsdk_drawable_rg_menu_close_pressed=0x7f02029b;
+        public static final int nsdk_drawable_rg_menu_default=0x7f02029c;
+        public static final int nsdk_drawable_rg_menu_default_night=0x7f02029d;
+        public static final int nsdk_drawable_rg_menu_pressed=0x7f02029e;
+        public static final int nsdk_drawable_rg_menu_pressed_night=0x7f02029f;
+        public static final int nsdk_drawable_rg_park_detail=0x7f0202a0;
+        public static final int nsdk_drawable_rg_park_detail_night=0x7f0202a1;
+        public static final int nsdk_drawable_rg_park_poi=0x7f0202a2;
+        public static final int nsdk_drawable_rg_park_poi_night=0x7f0202a3;
+        public static final int nsdk_drawable_rg_pickpoint_bg=0x7f0202a4;
+        public static final int nsdk_drawable_rg_pickpoint_bg_night=0x7f0202a5;
+        public static final int nsdk_drawable_rg_pickpoint_btn_left_default=0x7f0202a6;
+        public static final int nsdk_drawable_rg_pickpoint_btn_left_pressed=0x7f0202a7;
+        public static final int nsdk_drawable_rg_pickpoint_delete=0x7f0202a8;
+        public static final int nsdk_drawable_rg_popup_bg=0x7f0202a9;
+        public static final int nsdk_drawable_rg_quit_default=0x7f0202aa;
+        public static final int nsdk_drawable_rg_quit_night=0x7f0202ab;
+        public static final int nsdk_drawable_rg_quit_pressed=0x7f0202ac;
+        public static final int nsdk_drawable_rg_route_desc_bg_above=0x7f0202ad;
+        public static final int nsdk_drawable_rg_route_desc_bg_below=0x7f0202ae;
+        public static final int nsdk_drawable_rg_route_desc_end_point=0x7f0202af;
+        public static final int nsdk_drawable_rg_route_search_bank=0x7f0202b0;
+        public static final int nsdk_drawable_rg_route_search_gas_station=0x7f0202b1;
+        public static final int nsdk_drawable_rg_route_search_hotel=0x7f0202b2;
+        public static final int nsdk_drawable_rg_route_search_more=0x7f0202b3;
+        public static final int nsdk_drawable_rg_route_search_park=0x7f0202b4;
+        public static final int nsdk_drawable_rg_route_search_restaurant=0x7f0202b5;
+        public static final int nsdk_drawable_rg_route_search_service=0x7f0202b6;
+        public static final int nsdk_drawable_rg_route_search_spots=0x7f0202b7;
+        public static final int nsdk_drawable_rg_route_search_toilet=0x7f0202b8;
+        public static final int nsdk_drawable_rg_setting_car3d=0x7f0202b9;
+        public static final int nsdk_drawable_rg_setting_north2d=0x7f0202ba;
+        public static final int nsdk_drawable_rg_street_view_arrow=0x7f0202bb;
+        public static final int nsdk_drawable_rg_street_view_btn=0x7f0202bc;
+        public static final int nsdk_drawable_rg_street_view_icon=0x7f0202bd;
+        public static final int nsdk_drawable_rg_switch_bottom=0x7f0202be;
+        public static final int nsdk_drawable_rg_switch_bottom_night=0x7f0202bf;
+        public static final int nsdk_drawable_rg_switch_frame=0x7f0202c0;
+        public static final int nsdk_drawable_rg_switch_frame_night=0x7f0202c1;
+        public static final int nsdk_drawable_rg_switch_mask=0x7f0202c2;
+        public static final int nsdk_drawable_rg_switch_mask_night=0x7f0202c3;
+        public static final int nsdk_drawable_rg_vector_map_car=0x7f0202c4;
+        public static final int nsdk_drawable_rg_view_selected=0x7f0202c5;
+        public static final int nsdk_drawable_rg_view_selected_night=0x7f0202c6;
+        public static final int nsdk_drawable_roadcondition_carpoint=0x7f0202c7;
+        public static final int nsdk_drawable_roadcondition_fg=0x7f0202c8;
+        public static final int nsdk_drawable_statusbtn_default_bg_left=0x7f0202c9;
+        public static final int nsdk_drawable_statusbtn_default_bg_left_carmode=0x7f0202ca;
+        public static final int nsdk_drawable_statusbtn_default_bg_left_night=0x7f0202cb;
+        public static final int nsdk_drawable_statusbtn_default_bg_middle=0x7f0202cc;
+        public static final int nsdk_drawable_statusbtn_default_bg_middle_carmode=0x7f0202cd;
+        public static final int nsdk_drawable_statusbtn_default_bg_middle_night=0x7f0202ce;
+        public static final int nsdk_drawable_statusbtn_default_bg_right=0x7f0202cf;
+        public static final int nsdk_drawable_statusbtn_default_bg_right_carmode=0x7f0202d0;
+        public static final int nsdk_drawable_statusbtn_default_bg_right_night=0x7f0202d1;
+        public static final int nsdk_drawable_statusbtn_selected_bg=0x7f0202d2;
+        public static final int nsdk_drawable_statusbtn_selected_bg_left_carmode=0x7f0202d3;
+        public static final int nsdk_drawable_statusbtn_selected_bg_middle_carmode=0x7f0202d4;
+        public static final int nsdk_drawable_statusbtn_selected_bg_night=0x7f0202d5;
+        public static final int nsdk_drawable_statusbtn_selected_bg_right_carmode=0x7f0202d6;
+        public static final int nsdk_drawable_ugc_manager_forbid=0x7f0202d7;
+        public static final int nsdk_drawable_ugc_manager_forbid_sync=0x7f0202d8;
+        public static final int nsdk_drawable_ugc_manager_invalid_road=0x7f0202d9;
+        public static final int nsdk_drawable_ugc_manager_invalid_road_sync=0x7f0202da;
+        public static final int nsdk_drawable_ugc_manager_narrow_road=0x7f0202db;
+        public static final int nsdk_drawable_ugc_manager_narrow_road_sync=0x7f0202dc;
+        public static final int nsdk_drawable_ugc_manager_other=0x7f0202dd;
+        public static final int nsdk_drawable_ugc_manager_other_sync=0x7f0202de;
+        public static final int nsdk_drawable_ugc_vlot_select_ic=0x7f0202df;
+        public static final int nsdk_drawable_ugc_vlot_select_ic_night=0x7f0202e0;
+        public static final int nsdk_drawable_ugc_yaw_deng_duo=0x7f0202e1;
+        public static final int nsdk_drawable_ugc_yaw_dest_error=0x7f0202e2;
+        public static final int nsdk_drawable_ugc_yaw_forbid=0x7f0202e3;
+        public static final int nsdk_drawable_ugc_yaw_guide_error=0x7f0202e4;
+        public static final int nsdk_drawable_ugc_yaw_invalid_road=0x7f0202e5;
+        public static final int nsdk_drawable_ugc_yaw_jam=0x7f0202e6;
+        public static final int nsdk_drawable_ugc_yaw_kengwa=0x7f0202e7;
+        public static final int nsdk_drawable_ugc_yaw_narrow_road=0x7f0202e8;
+        public static final int nsdk_drawable_ugc_yaw_no_highway=0x7f0202e9;
+        public static final int nsdk_drawable_ugc_yaw_other=0x7f0202ea;
+        public static final int nsdk_drawable_ugc_yaw_poi=0x7f0202eb;
+        public static final int nsdk_drawable_ugc_yaw_rao_lu=0x7f0202ec;
+        public static final int nsdk_drawable_ugc_yaw_select_ic=0x7f0202ed;
+        public static final int nsdk_drawable_ugc_yaw_select_ic_night=0x7f0202ee;
+        public static final int nsdk_drawable_ugc_yaw_vjam_road=0x7f0202ef;
+        public static final int nsdk_drawable_ugc_yaw_wrong_address=0x7f0202f0;
+        public static final int nsdk_drawable_ugc_yaw_wrong_guide=0x7f0202f1;
+        public static final int nsdk_drawable_ugc_yaw_xiaolu=0x7f0202f2;
+        public static final int nsdk_drawable_ugc_yaw_zhuan_wan=0x7f0202f3;
+        public static final int nsdk_drawable_voice_record_btn_normal=0x7f0202f4;
+        public static final int nsdk_drawable_voice_record_btn_press=0x7f0202f5;
+        public static final int nsdk_drawable_voice_record_list_not_recorded=0x7f0202f6;
+        public static final int nsdk_drawable_voice_record_list_not_recorded_pressed=0x7f0202f7;
+        public static final int nsdk_drawable_voice_record_list_pressed=0x7f0202f8;
+        public static final int nsdk_drawable_voice_record_list_recorded=0x7f0202f9;
+        public static final int nsdk_drawable_voice_record_play0=0x7f0202fa;
+        public static final int nsdk_drawable_voice_record_play1=0x7f0202fb;
+        public static final int nsdk_drawable_voice_record_play2=0x7f0202fc;
+        public static final int nsdk_ipo_ic_addr_fav=0x7f0202fd;
+        public static final int nsdk_ipo_ic_back=0x7f0202fe;
+        public static final int nsdk_ipo_ic_close=0x7f0202ff;
+        public static final int nsdk_ipo_ic_company=0x7f020300;
+        public static final int nsdk_ipo_ic_edit=0x7f020301;
+        public static final int nsdk_ipo_ic_house=0x7f020302;
+        public static final int nsdk_ipo_ic_lock=0x7f020303;
+        public static final int nsdk_ipo_ic_navi=0x7f020304;
+        public static final int nsdk_ipo_ic_new=0x7f020305;
+        public static final int nsdk_ipo_ic_other_tip=0x7f020306;
+        public static final int nsdk_ipo_ic_quit=0x7f020307;
+        public static final int nsdk_ipo_other_loading_logo=0x7f020308;
+        public static final int nsdk_map_watermark=0x7f020309;
+        public static final int nsdk_poi_detail_ic_down_normal=0x7f02030a;
+        public static final int nsdk_poi_detail_ic_down_pressed=0x7f02030b;
+        public static final int nsdk_poi_detail_ic_tag_normal=0x7f02030c;
+        public static final int nsdk_poi_detail_ic_tag_select=0x7f02030d;
+        public static final int nsdk_poi_detail_ic_up_normal=0x7f02030e;
+        public static final int nsdk_poi_detail_ic_up_normal_night=0x7f02030f;
+        public static final int nsdk_poi_detail_ic_up_pressed=0x7f020310;
+        public static final int nsdk_poi_detail_ic_up_pressed_night=0x7f020311;
+        public static final int nsdk_rg_ic_crown_default=0x7f020312;
+        public static final int nsdk_rg_ic_crown_normal=0x7f020313;
+        public static final int nsdk_rg_ic_event_add=0x7f020314;
+        public static final int nsdk_rg_ic_event_packet=0x7f020315;
+        public static final int nsdk_rg_ic_ipo=0x7f020316;
+        public static final int nsdk_rg_ic_lights_off=0x7f020317;
+        public static final int nsdk_rg_ic_lights_on=0x7f020318;
+        public static final int nsdk_rg_ic_loading_close=0x7f020319;
+        public static final int nsdk_rg_ic_loading_logo=0x7f02031a;
+        public static final int nsdk_rg_ic_loading_progress=0x7f02031b;
+        public static final int nsdk_rg_ic_location=0x7f02031c;
+        public static final int nsdk_rg_ic_ugc_more=0x7f02031d;
+        public static final int nsdk_rg_ic_ugc_more1=0x7f02031e;
+        public static final int nsdk_rg_ic_ugc_next=0x7f02031f;
+        public static final int nsdk_rg_ic_ugc_report=0x7f020320;
+        public static final int nsdk_rg_ic_ugc_select2_normal=0x7f020321;
+        public static final int nsdk_rg_ic_ugc_select2_selected=0x7f020322;
+        public static final int nsdk_rg_other_gift_popup_big=0x7f020323;
+        public static final int nsdk_rg_other_gift_popup_big_night=0x7f020324;
+        public static final int nsdk_route_detail_arrow_right=0x7f020325;
+        public static final int nsdk_route_detail_arrow_up=0x7f020326;
+        public static final int nsdk_route_preferencd_item_norma_night=0x7f020327;
+        public static final int nsdk_route_preferencd_item_normal=0x7f020328;
+        public static final int nsdk_route_preferencd_item_press=0x7f020329;
+        public static final int nsdk_route_preferencd_press_night=0x7f02032a;
+        public static final int nsdk_titlebar_back_bg_normal=0x7f02032b;
+        public static final int nsdk_titlebar_back_bg_press=0x7f02032c;
+        public static final int nsdk_titlebar_close_bg_normal=0x7f02032d;
+        public static final int nsdk_titlebar_close_bg_press=0x7f02032e;
+        public static final int nsdk_titlebar_ugc_bg_normal=0x7f02032f;
+        public static final int nsdk_titlebar_ugc_bg_press=0x7f020330;
+        public static final int null_map=0x7f020331;
+        public static final int offline_data_download_list_normal=0x7f020332;
+        public static final int offline_data_download_list_normal_night=0x7f020333;
+        public static final int offline_data_download_list_pressed=0x7f020334;
+        public static final int offline_data_download_list_pressed_night=0x7f020335;
+        public static final int offline_data_status_continue_download=0x7f020336;
+        public static final int offline_data_status_continue_download_night=0x7f020337;
+        public static final int offline_data_status_download=0x7f020338;
+        public static final int offline_data_status_download_night=0x7f020339;
+        public static final int offline_data_status_suspend_download=0x7f02033a;
+        public static final int offline_data_status_suspend_download_night=0x7f02033b;
+        public static final int offline_data_undownload_list_normal=0x7f02033c;
+        public static final int offline_data_undownload_list_normal_night=0x7f02033d;
+        public static final int offline_data_undownload_list_pressed=0x7f02033e;
+        public static final int offline_data_undownload_list_pressed_night=0x7f02033f;
+        public static final int poi_dragon=0x7f02035b;
+        public static final int poi_dragon_night=0x7f02035c;
+        public static final int search_result_text_focused=0x7f02035d;
+        public static final int search_result_text_unfocused=0x7f02035e;
+        public static final int sort_default_normal=0x7f020340;
+        public static final int sort_default_pressed=0x7f020341;
+        public static final int transparent=0x7f02035f;
+        public static final int voice_common_head_view=0x7f020342;
+        public static final int voice_detail_car=0x7f020343;
+        public static final int voice_detail_earth=0x7f020344;
+        public static final int voice_detail_edit_disable=0x7f020345;
+        public static final int voice_detail_edit_enable=0x7f020346;
+        public static final int voice_detail_pause=0x7f020347;
+        public static final int voice_detail_play=0x7f020348;
+        public static final int voice_download_pause=0x7f020349;
+        public static final int voice_download_resume=0x7f02034a;
+        public static final int voice_download_start=0x7f02034b;
+        public static final int voice_map_share_icon=0x7f02034c;
+        public static final int voice_navi_share_icon=0x7f02034d;
+        public static final int voice_normal_head_view=0x7f02034e;
+        public static final int voice_record=0x7f02034f;
+        public static final int voice_share=0x7f020350;
+        public static final int voice_square_loading_fail=0x7f020351;
+        public static final int voice_title_back_icon=0x7f020352;
+        public static final int voice_title_bar_shadow=0x7f020353;
+        public static final int voice_use_btn_bg=0x7f020354;
+        public static final int voice_use_btn_bg_click=0x7f020355;
     }
     public static final class id {
-        public static final int action_bar=0x7f0c0040;
-        public static final int action_bar_activity_content=0x7f0c0000;
-        public static final int action_bar_container=0x7f0c003f;
-        public static final int action_bar_root=0x7f0c003b;
-        public static final int action_bar_spinner=0x7f0c0001;
-        public static final int action_bar_subtitle=0x7f0c0024;
-        public static final int action_bar_title=0x7f0c0023;
-        public static final int action_context_bar=0x7f0c0041;
-        public static final int action_menu_divider=0x7f0c0002;
-        public static final int action_menu_presenter=0x7f0c0003;
-        public static final int action_mode_bar=0x7f0c003d;
-        public static final int action_mode_bar_stub=0x7f0c003c;
-        public static final int action_mode_close_button=0x7f0c0025;
-        public static final int action_settings=0x7f0c0055;
-        public static final int activity_chooser_view_content=0x7f0c0026;
-        public static final int alertTitle=0x7f0c0030;
-        public static final int always=0x7f0c0016;
-        public static final int beginning=0x7f0c0013;
-        public static final int button1=0x7f0c0051;
-        public static final int button2=0x7f0c0053;
-        public static final int buttonPanel=0x7f0c0036;
-        public static final int checkbox=0x7f0c0038;
-        public static final int collapseActionView=0x7f0c0017;
-        public static final int contentPanel=0x7f0c0031;
-        public static final int custom=0x7f0c0035;
-        public static final int customPanel=0x7f0c0034;
-        public static final int decor_content_parent=0x7f0c003e;
-        public static final int default_activity_button=0x7f0c0029;
-        public static final int dialog=0x7f0c001b;
-        public static final int disableHome=0x7f0c000c;
-        public static final int dropdown=0x7f0c001c;
-        public static final int edit_query=0x7f0c0042;
-        public static final int end=0x7f0c0014;
-        public static final int expand_activities_button=0x7f0c0027;
-        public static final int expanded_menu=0x7f0c0037;
-        public static final int home=0x7f0c0004;
-        public static final int homeAsUp=0x7f0c000d;
-        public static final int icon=0x7f0c002b;
-        public static final int ifRoom=0x7f0c0018;
-        public static final int image=0x7f0c0028;
-        public static final int imageView=0x7f0c0054;
-        public static final int listMode=0x7f0c0009;
-        public static final int list_item=0x7f0c002a;
-        public static final int mainlayout=0x7f0c004f;
-        public static final int middle=0x7f0c0015;
-        public static final int multiply=0x7f0c001e;
-        public static final int never=0x7f0c0019;
-        public static final int none=0x7f0c000e;
-        public static final int normal=0x7f0c000a;
-        public static final int parentPanel=0x7f0c002d;
-        public static final int progress_circular=0x7f0c0005;
-        public static final int progress_horizontal=0x7f0c0006;
-        public static final int radio=0x7f0c003a;
-        public static final int screen=0x7f0c001f;
-        public static final int scrollView=0x7f0c0032;
-        public static final int search_badge=0x7f0c0044;
-        public static final int search_bar=0x7f0c0043;
-        public static final int search_button=0x7f0c0045;
-        public static final int search_close_btn=0x7f0c004a;
-        public static final int search_edit_frame=0x7f0c0046;
-        public static final int search_go_btn=0x7f0c004c;
-        public static final int search_mag_icon=0x7f0c0047;
-        public static final int search_plate=0x7f0c0048;
-        public static final int search_src_text=0x7f0c0049;
-        public static final int search_voice_btn=0x7f0c004d;
-        public static final int select_dialog_listview=0x7f0c004e;
-        public static final int shortcut=0x7f0c0039;
-        public static final int showCustom=0x7f0c000f;
-        public static final int showHome=0x7f0c0010;
-        public static final int showTitle=0x7f0c0011;
-        public static final int split_action_bar=0x7f0c0007;
-        public static final int src_atop=0x7f0c0020;
-        public static final int src_in=0x7f0c0021;
-        public static final int src_over=0x7f0c0022;
-        public static final int submit_area=0x7f0c004b;
-        public static final int tabMode=0x7f0c000b;
-        public static final int textClock=0x7f0c0052;
-        public static final int textSpacerNoButtons=0x7f0c0033;
-        public static final int textView1=0x7f0c0050;
-        public static final int title=0x7f0c002c;
-        public static final int title_template=0x7f0c002f;
-        public static final int topPanel=0x7f0c002e;
-        public static final int up=0x7f0c0008;
-        public static final int useLogo=0x7f0c0012;
-        public static final int withText=0x7f0c001a;
-        public static final int wrap_content=0x7f0c001d;
+        public static final int action0=0x7f0e00a6;
+        public static final int action_bar=0x7f0e0064;
+        public static final int action_bar_activity_content=0x7f0e0000;
+        public static final int action_bar_container=0x7f0e0063;
+        public static final int action_bar_root=0x7f0e005f;
+        public static final int action_bar_spinner=0x7f0e0001;
+        public static final int action_bar_subtitle=0x7f0e0042;
+        public static final int action_bar_title=0x7f0e0041;
+        public static final int action_container=0x7f0e00a3;
+        public static final int action_context_bar=0x7f0e0065;
+        public static final int action_divider=0x7f0e00aa;
+        public static final int action_image=0x7f0e00a4;
+        public static final int action_menu_divider=0x7f0e0002;
+        public static final int action_menu_presenter=0x7f0e0003;
+        public static final int action_mode_bar=0x7f0e0061;
+        public static final int action_mode_bar_stub=0x7f0e0060;
+        public static final int action_mode_close_button=0x7f0e0043;
+        public static final int action_settings=0x7f0e00bf;
+        public static final int action_text=0x7f0e00a5;
+        public static final int actions=0x7f0e00b3;
+        public static final int activity_chooser_view_content=0x7f0e0044;
+        public static final int add=0x7f0e001e;
+        public static final int alertTitle=0x7f0e0058;
+        public static final int all=0x7f0e0036;
+        public static final int always=0x7f0e003a;
+        public static final int auto=0x7f0e0025;
+        public static final int beginning=0x7f0e0038;
+        public static final int bnav_rg_cp_arrive_time=0x7f0e008d;
+        public static final int bnav_rg_cp_total_dist=0x7f0e008c;
+        public static final int bnav_rg_enlarge_carpos_image=0x7f0e008a;
+        public static final int bnav_rg_enlarge_carpos_layout=0x7f0e0089;
+        public static final int bnav_rg_enlarge_image=0x7f0e0083;
+        public static final int bnav_rg_enlarge_image_mask=0x7f0e0084;
+        public static final int bnav_rg_enlarge_info=0x7f0e0085;
+        public static final int bnav_rg_enlarge_next_road=0x7f0e0088;
+        public static final int bnav_rg_enlarge_progress=0x7f0e0086;
+        public static final int bnav_rg_enlarge_remain_dist=0x7f0e0087;
+        public static final int bnav_rg_enlarge_road_map=0x7f0e0082;
+        public static final int bnav_rg_sg_after_label_info=0x7f0e0079;
+        public static final int bnav_rg_sg_after_meters_info=0x7f0e0078;
+        public static final int bnav_rg_sg_along_layout=0x7f0e007c;
+        public static final int bnav_rg_sg_along_word=0x7f0e007d;
+        public static final int bnav_rg_sg_cur_road_name_tv=0x7f0e007e;
+        public static final int bnav_rg_sg_cur_road_remain_dist_tv=0x7f0e0080;
+        public static final int bnav_rg_sg_drive_word=0x7f0e007f;
+        public static final int bnav_rg_sg_go_label_tv=0x7f0e007a;
+        public static final int bnav_rg_sg_go_where_info=0x7f0e007b;
+        public static final int bnav_rg_sg_turn_icon=0x7f0e0076;
+        public static final int bnavi_rg_after_layout=0x7f0e0077;
+        public static final int bottom=0x7f0e0026;
+        public static final int button=0x7f0e0095;
+        public static final int buttonPanel=0x7f0e004b;
+        public static final int buttonWake1=0x7f0e00bb;
+        public static final int buttonWake2=0x7f0e00bc;
+        public static final int cancel_action=0x7f0e00a7;
+        public static final int center=0x7f0e0027;
+        public static final int center_horizontal=0x7f0e0028;
+        public static final int center_vertical=0x7f0e0029;
+        public static final int checkbox=0x7f0e005b;
+        public static final int chronometer=0x7f0e00af;
+        public static final int clip_horizontal=0x7f0e0032;
+        public static final int clip_vertical=0x7f0e0033;
+        public static final int collapseActionView=0x7f0e003b;
+        public static final int contentPanel=0x7f0e004e;
+        public static final int cur_road_name_tv=0x7f0e0081;
+        public static final int custom=0x7f0e0055;
+        public static final int customPanel=0x7f0e0054;
+        public static final int decor_content_parent=0x7f0e0062;
+        public static final int default_activity_button=0x7f0e0047;
+        public static final int design_bottom_sheet=0x7f0e009a;
+        public static final int design_menu_item_action_area=0x7f0e00a1;
+        public static final int design_menu_item_action_area_stub=0x7f0e00a0;
+        public static final int design_menu_item_text=0x7f0e009f;
+        public static final int design_navigation_view=0x7f0e009e;
+        public static final int digitalClock=0x7f0e0090;
+        public static final int disableHome=0x7f0e0012;
+        public static final int edit_query=0x7f0e0066;
+        public static final int end=0x7f0e002a;
+        public static final int end_padder=0x7f0e00b9;
+        public static final int enterAlways=0x7f0e0019;
+        public static final int enterAlwaysCollapsed=0x7f0e001a;
+        public static final int exitUntilCollapsed=0x7f0e001b;
+        public static final int expand_activities_button=0x7f0e0045;
+        public static final int expanded_menu=0x7f0e005a;
+        public static final int fill=0x7f0e0034;
+        public static final int fill_horizontal=0x7f0e0035;
+        public static final int fill_vertical=0x7f0e002b;
+        public static final int fixed=0x7f0e003f;
+        public static final int home=0x7f0e0004;
+        public static final int homeAsUp=0x7f0e0013;
+        public static final int hud_log_tv=0x7f0e008e;
+        public static final int icon=0x7f0e0049;
+        public static final int icon_group=0x7f0e00b4;
+        public static final int ifRoom=0x7f0e003c;
+        public static final int image=0x7f0e0046;
+        public static final int info=0x7f0e00b0;
+        public static final int item_touch_helper_previous_elevation=0x7f0e0005;
+        public static final int largeLabel=0x7f0e0098;
+        public static final int left=0x7f0e002c;
+        public static final int line1=0x7f0e00b5;
+        public static final int line3=0x7f0e00b7;
+        public static final int listMode=0x7f0e000f;
+        public static final int list_item=0x7f0e0048;
+        public static final int mainlayout=0x7f0e008f;
+        public static final int masked=0x7f0e00be;
+        public static final int media_actions=0x7f0e00a9;
+        public static final int middle=0x7f0e0039;
+        public static final int mini=0x7f0e0037;
+        public static final int multiply=0x7f0e001f;
+        public static final int navigation_header_container=0x7f0e009d;
+        public static final int never=0x7f0e003d;
+        public static final int none=0x7f0e0014;
+        public static final int normal=0x7f0e0010;
+        public static final int notification_background=0x7f0e00b2;
+        public static final int notification_main_column=0x7f0e00ac;
+        public static final int notification_main_column_container=0x7f0e00ab;
+        public static final int parallax=0x7f0e0030;
+        public static final int parentPanel=0x7f0e004d;
+        public static final int pin=0x7f0e0031;
+        public static final int progress_circular=0x7f0e0006;
+        public static final int progress_horizontal=0x7f0e0007;
+        public static final int radio=0x7f0e005d;
+        public static final int remain_info=0x7f0e008b;
+        public static final int right=0x7f0e002d;
+        public static final int right_icon=0x7f0e00b1;
+        public static final int right_side=0x7f0e00ad;
+        public static final int screen=0x7f0e0020;
+        public static final int scroll=0x7f0e001c;
+        public static final int scrollIndicatorDown=0x7f0e0053;
+        public static final int scrollIndicatorUp=0x7f0e004f;
+        public static final int scrollView=0x7f0e0050;
+        public static final int scrollable=0x7f0e0040;
+        public static final int search_badge=0x7f0e0068;
+        public static final int search_bar=0x7f0e0067;
+        public static final int search_button=0x7f0e0069;
+        public static final int search_close_btn=0x7f0e006e;
+        public static final int search_edit_frame=0x7f0e006a;
+        public static final int search_go_btn=0x7f0e0070;
+        public static final int search_mag_icon=0x7f0e006b;
+        public static final int search_plate=0x7f0e006c;
+        public static final int search_src_text=0x7f0e006d;
+        public static final int search_voice_btn=0x7f0e0071;
+        public static final int select_dialog_listview=0x7f0e0072;
+        public static final int shortcut=0x7f0e005c;
+        public static final int showCustom=0x7f0e0015;
+        public static final int showHome=0x7f0e0016;
+        public static final int showTitle=0x7f0e0017;
+        public static final int simple_route_guide=0x7f0e0075;
+        public static final int smallLabel=0x7f0e0097;
+        public static final int snackbar_action=0x7f0e009c;
+        public static final int snackbar_text=0x7f0e009b;
+        public static final int snap=0x7f0e001d;
+        public static final int spacer=0x7f0e004c;
+        public static final int split_action_bar=0x7f0e0008;
+        public static final int src_atop=0x7f0e0021;
+        public static final int src_in=0x7f0e0022;
+        public static final int src_over=0x7f0e0023;
+        public static final int start=0x7f0e002e;
+        public static final int status_bar_latest_event_content=0x7f0e00a8;
+        public static final int submenuarrow=0x7f0e005e;
+        public static final int submit_area=0x7f0e006f;
+        public static final int surfaceView=0x7f0e0073;
+        public static final int tabMode=0x7f0e0011;
+        public static final int text=0x7f0e00b8;
+        public static final int text2=0x7f0e00b6;
+        public static final int textSpacerNoButtons=0x7f0e0052;
+        public static final int textSpacerNoTitle=0x7f0e0051;
+        public static final int textViewCall=0x7f0e0094;
+        public static final int textViewQR=0x7f0e0096;
+        public static final int textViewRadar=0x7f0e0091;
+        public static final int textViewRadar2=0x7f0e0093;
+        public static final int textViewWeather=0x7f0e0092;
+        public static final int text_input_password_toggle=0x7f0e00a2;
+        public static final int textinput_counter=0x7f0e0009;
+        public static final int textinput_error=0x7f0e000a;
+        public static final int textviewWake1=0x7f0e00ba;
+        public static final int time=0x7f0e00ae;
+        public static final int title=0x7f0e004a;
+        public static final int titleDividerNoCustom=0x7f0e0059;
+        public static final int title_template=0x7f0e0057;
+        public static final int top=0x7f0e002f;
+        public static final int topPanel=0x7f0e0056;
+        public static final int touch_outside=0x7f0e0099;
+        public static final int transition_current_scene=0x7f0e000b;
+        public static final int transition_scene_layoutid_cache=0x7f0e000c;
+        public static final int up=0x7f0e000d;
+        public static final int useLogo=0x7f0e0018;
+        public static final int view_offset_helper=0x7f0e000e;
+        public static final int viewfinder_view=0x7f0e0074;
+        public static final int visible=0x7f0e00bd;
+        public static final int withText=0x7f0e003e;
+        public static final int wrap_content=0x7f0e0024;
     }
     public static final class integer {
-        public static final int abc_config_activityDefaultDur=0x7f0a0001;
-        public static final int abc_config_activityShortDur=0x7f0a0002;
-        public static final int abc_max_action_buttons=0x7f0a0000;
+        public static final int abc_config_activityDefaultDur=0x7f0b0001;
+        public static final int abc_config_activityShortDur=0x7f0b0002;
+        public static final int app_bar_elevation_anim_duration=0x7f0b0003;
+        public static final int bottom_sheet_slide_duration=0x7f0b0004;
+        public static final int cancel_button_image_alpha=0x7f0b0005;
+        public static final int design_snackbar_text_max_lines=0x7f0b0000;
+        public static final int hide_password_duration=0x7f0b0006;
+        public static final int show_password_duration=0x7f0b0007;
+        public static final int status_bar_notification_info_maxnum=0x7f0b0008;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f040000;
@@ -1613,345 +4050,559 @@ containing a value of this type.
         public static final int abc_action_mode_close_item_material=0x7f040006;
         public static final int abc_activity_chooser_view=0x7f040007;
         public static final int abc_activity_chooser_view_list_item=0x7f040008;
-        public static final int abc_alert_dialog_material=0x7f040009;
-        public static final int abc_dialog_title_material=0x7f04000a;
-        public static final int abc_expanded_menu_layout=0x7f04000b;
-        public static final int abc_list_menu_item_checkbox=0x7f04000c;
-        public static final int abc_list_menu_item_icon=0x7f04000d;
-        public static final int abc_list_menu_item_layout=0x7f04000e;
-        public static final int abc_list_menu_item_radio=0x7f04000f;
-        public static final int abc_popup_menu_item_layout=0x7f040010;
-        public static final int abc_screen_content_include=0x7f040011;
-        public static final int abc_screen_simple=0x7f040012;
-        public static final int abc_screen_simple_overlay_action_mode=0x7f040013;
-        public static final int abc_screen_toolbar=0x7f040014;
-        public static final int abc_search_dropdown_item_icons_2line=0x7f040015;
-        public static final int abc_search_view=0x7f040016;
-        public static final int abc_select_dialog_material=0x7f040017;
-        public static final int abc_simple_dropdown_hint=0x7f040018;
-        public static final int activity_main=0x7f040019;
-        public static final int map=0x7f04001a;
-        public static final int select_dialog_item_material=0x7f04001b;
-        public static final int select_dialog_multichoice_material=0x7f04001c;
-        public static final int select_dialog_singlechoice_material=0x7f04001d;
-        public static final int support_simple_spinner_dropdown_item=0x7f04001e;
+        public static final int abc_alert_dialog_button_bar_material=0x7f040009;
+        public static final int abc_alert_dialog_material=0x7f04000a;
+        public static final int abc_alert_dialog_title_material=0x7f04000b;
+        public static final int abc_dialog_title_material=0x7f04000c;
+        public static final int abc_expanded_menu_layout=0x7f04000d;
+        public static final int abc_list_menu_item_checkbox=0x7f04000e;
+        public static final int abc_list_menu_item_icon=0x7f04000f;
+        public static final int abc_list_menu_item_layout=0x7f040010;
+        public static final int abc_list_menu_item_radio=0x7f040011;
+        public static final int abc_popup_menu_header_item_layout=0x7f040012;
+        public static final int abc_popup_menu_item_layout=0x7f040013;
+        public static final int abc_screen_content_include=0x7f040014;
+        public static final int abc_screen_simple=0x7f040015;
+        public static final int abc_screen_simple_overlay_action_mode=0x7f040016;
+        public static final int abc_screen_toolbar=0x7f040017;
+        public static final int abc_search_dropdown_item_icons_2line=0x7f040018;
+        public static final int abc_search_view=0x7f040019;
+        public static final int abc_select_dialog_material=0x7f04001a;
+        public static final int activity_capture=0x7f04001b;
+        public static final int activity_hud=0x7f04001c;
+        public static final int activity_main=0x7f04001d;
+        public static final int activity_qrscan=0x7f04001e;
+        public static final int design_bottom_navigation_item=0x7f04001f;
+        public static final int design_bottom_sheet_dialog=0x7f040020;
+        public static final int design_layout_snackbar=0x7f040021;
+        public static final int design_layout_snackbar_include=0x7f040022;
+        public static final int design_layout_tab_icon=0x7f040023;
+        public static final int design_layout_tab_text=0x7f040024;
+        public static final int design_menu_item_action_area=0x7f040025;
+        public static final int design_navigation_item=0x7f040026;
+        public static final int design_navigation_item_header=0x7f040027;
+        public static final int design_navigation_item_separator=0x7f040028;
+        public static final int design_navigation_item_subheader=0x7f040029;
+        public static final int design_navigation_menu=0x7f04002a;
+        public static final int design_navigation_menu_item=0x7f04002b;
+        public static final int design_text_input_password_icon=0x7f04002c;
+        public static final int notification_action=0x7f04002d;
+        public static final int notification_action_tombstone=0x7f04002e;
+        public static final int notification_media_action=0x7f04002f;
+        public static final int notification_media_cancel_action=0x7f040030;
+        public static final int notification_template_big_media=0x7f040031;
+        public static final int notification_template_big_media_custom=0x7f040032;
+        public static final int notification_template_big_media_narrow=0x7f040033;
+        public static final int notification_template_big_media_narrow_custom=0x7f040034;
+        public static final int notification_template_custom_big=0x7f040035;
+        public static final int notification_template_icon_group=0x7f040036;
+        public static final int notification_template_lines_media=0x7f040037;
+        public static final int notification_template_media=0x7f040038;
+        public static final int notification_template_media_custom=0x7f040039;
+        public static final int notification_template_part_chronometer=0x7f04003a;
+        public static final int notification_template_part_time=0x7f04003b;
+        public static final int select_dialog_item_material=0x7f04003c;
+        public static final int select_dialog_multichoice_material=0x7f04003d;
+        public static final int select_dialog_singlechoice_material=0x7f04003e;
+        public static final int support_simple_spinner_dropdown_item=0x7f04003f;
+        public static final int wake=0x7f040040;
     }
     public static final class menu {
-        public static final int menu_main=0x7f0d0000;
+        public static final int menu_main=0x7f0f0000;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
     }
     public static final class string {
-        public static final int abc_action_bar_home_description=0x7f060000;
-        public static final int abc_action_bar_home_description_format=0x7f06000d;
-        public static final int abc_action_bar_home_subtitle_description_format=0x7f06000e;
-        public static final int abc_action_bar_up_description=0x7f060001;
-        public static final int abc_action_menu_overflow_description=0x7f060002;
-        public static final int abc_action_mode_done=0x7f060003;
-        public static final int abc_activity_chooser_view_see_all=0x7f060004;
-        public static final int abc_activitychooserview_choose_application=0x7f060005;
-        public static final int abc_search_hint=0x7f06000f;
-        public static final int abc_searchview_description_clear=0x7f060006;
-        public static final int abc_searchview_description_query=0x7f060007;
-        public static final int abc_searchview_description_search=0x7f060008;
-        public static final int abc_searchview_description_submit=0x7f060009;
-        public static final int abc_searchview_description_voice=0x7f06000a;
-        public static final int abc_shareactionprovider_share_with=0x7f06000b;
-        public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
-        public static final int abc_toolbar_collapse_description=0x7f060010;
-        public static final int action_settings=0x7f060011;
-        public static final int app_name=0x7f060012;
-        public static final int hello_world=0x7f060013;
+        public static final int abc_action_bar_home_description=0x7f070000;
+        public static final int abc_action_bar_home_description_format=0x7f070001;
+        public static final int abc_action_bar_home_subtitle_description_format=0x7f070002;
+        public static final int abc_action_bar_up_description=0x7f070003;
+        public static final int abc_action_menu_overflow_description=0x7f070004;
+        public static final int abc_action_mode_done=0x7f070005;
+        public static final int abc_activity_chooser_view_see_all=0x7f070006;
+        public static final int abc_activitychooserview_choose_application=0x7f070007;
+        public static final int abc_capital_off=0x7f070008;
+        public static final int abc_capital_on=0x7f070009;
+        public static final int abc_font_family_body_1_material=0x7f070015;
+        public static final int abc_font_family_body_2_material=0x7f070016;
+        public static final int abc_font_family_button_material=0x7f070017;
+        public static final int abc_font_family_caption_material=0x7f070018;
+        public static final int abc_font_family_display_1_material=0x7f070019;
+        public static final int abc_font_family_display_2_material=0x7f07001a;
+        public static final int abc_font_family_display_3_material=0x7f07001b;
+        public static final int abc_font_family_display_4_material=0x7f07001c;
+        public static final int abc_font_family_headline_material=0x7f07001d;
+        public static final int abc_font_family_menu_material=0x7f07001e;
+        public static final int abc_font_family_subhead_material=0x7f07001f;
+        public static final int abc_font_family_title_material=0x7f070020;
+        public static final int abc_search_hint=0x7f07000a;
+        public static final int abc_searchview_description_clear=0x7f07000b;
+        public static final int abc_searchview_description_query=0x7f07000c;
+        public static final int abc_searchview_description_search=0x7f07000d;
+        public static final int abc_searchview_description_submit=0x7f07000e;
+        public static final int abc_searchview_description_voice=0x7f07000f;
+        public static final int abc_shareactionprovider_share_with=0x7f070010;
+        public static final int abc_shareactionprovider_share_with_application=0x7f070011;
+        public static final int abc_toolbar_collapse_description=0x7f070012;
+        public static final int action_settings=0x7f070021;
+        public static final int antigeo_tips=0x7f070022;
+        public static final int app_name=0x7f070023;
+        public static final int appbar_scrolling_view_behavior=0x7f070024;
+        public static final int asr_tips=0x7f070025;
+        public static final int bnav_string_hw_direction=0x7f070026;
+        public static final int bnav_string_hw_fullview=0x7f070027;
+        public static final int bnav_string_hw_no_service_area=0x7f070028;
+        public static final int bnav_string_hw_single_service_info=0x7f070029;
+        public static final int bottom_sheet_behavior=0x7f07002a;
+        public static final int change_to_simplified=0x7f07002b;
+        public static final int change_to_simplified_tips=0x7f07002c;
+        public static final int change_to_traditional=0x7f07002d;
+        public static final int change_to_traditional_tips=0x7f07002e;
+        public static final int character_counter_pattern=0x7f07002f;
+        public static final int hello_world=0x7f070030;
+        public static final int keyword_search=0x7f070031;
+        public static final int nsdk_string_hw_after=0x7f070032;
+        public static final int nsdk_string_hw_enter=0x7f070033;
+        public static final int nsdk_string_hw_from=0x7f070034;
+        public static final int nsdk_string_hw_go_ahead=0x7f070035;
+        public static final int nsdk_string_hw_go_out_from_highway=0x7f070036;
+        public static final int nsdk_string_hw_go_to=0x7f070037;
+        public static final int nsdk_string_hw_ic_code=0x7f070038;
+        public static final int nsdk_string_navi_no_name_road=0x7f070039;
+        public static final int nsdk_string_rg_along=0x7f07003a;
+        public static final int nsdk_string_rg_arrive_time=0x7f07003b;
+        public static final int nsdk_string_rg_arrive_time_after_day=0x7f07003c;
+        public static final int nsdk_string_rg_arrive_time_at_wee=0x7f07003d;
+        public static final int nsdk_string_rg_arrive_word=0x7f07003e;
+        public static final int nsdk_string_rg_come_in=0x7f07003f;
+        public static final int nsdk_string_rg_direct=0x7f070040;
+        public static final int nsdk_string_rg_driver=0x7f070041;
+        public static final int nsdk_string_rg_sg_after_meters=0x7f070042;
+        public static final int nsdk_string_rg_sg_cur_road_word=0x7f070043;
+        public static final int nsdk_string_rg_the_day_after_tomorrow=0x7f070044;
+        public static final int nsdk_string_rg_tomorrow=0x7f070045;
+        public static final int nsdk_string_rg_wee_hours=0x7f070046;
+        public static final int offline=0x7f070047;
+        public static final int online=0x7f070048;
+        public static final int password_toggle_content_description=0x7f070049;
+        public static final int path_password_eye=0x7f07004a;
+        public static final int path_password_eye_mask_strike_through=0x7f07004b;
+        public static final int path_password_eye_mask_visible=0x7f07004c;
+        public static final int path_password_strike_through=0x7f07004d;
+        public static final int record_recognizing=0x7f07004e;
+        public static final int record_recording=0x7f07004f;
+        public static final int record_start=0x7f070050;
+        public static final int sdk_name=0x7f070051;
+        public static final int search_empty=0x7f070052;
+        public static final int search_fail=0x7f070053;
+        public static final int search_hint=0x7f070054;
+        public static final int search_menu_title=0x7f070013;
+        public static final int search_result=0x7f070055;
+        public static final int search_start=0x7f070056;
+        public static final int search_tips=0x7f070057;
+        public static final int space_search=0x7f070058;
+        public static final int status_bar_notification_info_overflow=0x7f070014;
+        public static final int suggest_start=0x7f070059;
+        public static final int title_asr=0x7f07005a;
+        public static final int title_asr_input=0x7f07005b;
+        public static final int title_charset_change_demo=0x7f07005c;
+        public static final int title_cruiser=0x7f07005d;
+        public static final int title_degeo=0x7f07005e;
+        public static final int title_key_verify_demo=0x7f07005f;
+        public static final int title_keyword_search=0x7f070060;
+        public static final int title_layer=0x7f070061;
+        public static final int title_nearby=0x7f070062;
+        public static final int title_offline_data=0x7f070063;
+        public static final int title_route_guide_demo=0x7f070064;
+        public static final int title_route_plan_demo=0x7f070065;
+        public static final int title_tts=0x7f070066;
+        public static final int voiceinput=0x7f070067;
+        public static final int voicenormal=0x7f070068;
     }
     public static final class style {
-        public static final int AlertDialog_AppCompat=0x7f08006b;
-        public static final int AlertDialog_AppCompat_Light=0x7f08006c;
-        public static final int Animation_AppCompat_Dialog=0x7f08006d;
-        public static final int Animation_AppCompat_DropDownUp=0x7f08006e;
+        public static final int AlertDialog_AppCompat=0x7f0900a1;
+        public static final int AlertDialog_AppCompat_Light=0x7f0900a2;
+        public static final int Animation_AppCompat_Dialog=0x7f0900a3;
+        public static final int Animation_AppCompat_DropDownUp=0x7f0900a4;
+        public static final int Animation_Design_BottomSheetDialog=0x7f0900a5;
         /**  Customize your theme here. 
          */
-        public static final int AppTheme=0x7f08006f;
-        public static final int Base_AlertDialog_AppCompat=0x7f080070;
-        public static final int Base_AlertDialog_AppCompat_Light=0x7f080071;
-        public static final int Base_Animation_AppCompat_Dialog=0x7f080072;
-        public static final int Base_Animation_AppCompat_DropDownUp=0x7f080073;
-        public static final int Base_DialogWindowTitle_AppCompat=0x7f080074;
-        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f080075;
-        public static final int Base_TextAppearance_AppCompat=0x7f080025;
-        public static final int Base_TextAppearance_AppCompat_Body1=0x7f080026;
-        public static final int Base_TextAppearance_AppCompat_Body2=0x7f080027;
-        public static final int Base_TextAppearance_AppCompat_Button=0x7f080016;
-        public static final int Base_TextAppearance_AppCompat_Caption=0x7f080028;
-        public static final int Base_TextAppearance_AppCompat_Display1=0x7f080029;
-        public static final int Base_TextAppearance_AppCompat_Display2=0x7f08002a;
-        public static final int Base_TextAppearance_AppCompat_Display3=0x7f08002b;
-        public static final int Base_TextAppearance_AppCompat_Display4=0x7f08002c;
-        public static final int Base_TextAppearance_AppCompat_Headline=0x7f08002d;
-        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f080003;
-        public static final int Base_TextAppearance_AppCompat_Large=0x7f08002e;
-        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f080004;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f08002f;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f080030;
-        public static final int Base_TextAppearance_AppCompat_Medium=0x7f080031;
-        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f080005;
-        public static final int Base_TextAppearance_AppCompat_Menu=0x7f080032;
-        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f080076;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f080033;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f080034;
-        public static final int Base_TextAppearance_AppCompat_Small=0x7f080035;
-        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f080006;
-        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f080036;
-        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f080007;
-        public static final int Base_TextAppearance_AppCompat_Title=0x7f080037;
-        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f080008;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f080038;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f080039;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f08003a;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f08003b;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f08003c;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f08003d;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f08003e;
-        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f080077;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f08003f;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f080040;
-        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f080041;
-        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f080042;
-        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f080078;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f080043;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f080044;
-        public static final int Base_Theme_AppCompat=0x7f080045;
-        public static final int Base_Theme_AppCompat_CompactMenu=0x7f080079;
-        public static final int Base_Theme_AppCompat_Dialog=0x7f080009;
-        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f08007a;
-        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f08007b;
-        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f08007c;
-        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f080001;
-        public static final int Base_Theme_AppCompat_Light=0x7f080046;
-        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f08007d;
-        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f08000a;
-        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f08007e;
-        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f08007f;
-        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f080080;
-        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f080002;
-        public static final int Base_ThemeOverlay_AppCompat=0x7f080081;
-        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f080082;
-        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f080083;
-        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f080084;
-        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f080085;
-        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f08000b;
-        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f08000c;
-        public static final int Base_V21_Theme_AppCompat=0x7f080047;
-        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f080048;
-        public static final int Base_V21_Theme_AppCompat_Light=0x7f080049;
-        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f08004a;
-        public static final int Base_V7_Theme_AppCompat=0x7f080086;
-        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f080087;
-        public static final int Base_V7_Theme_AppCompat_Light=0x7f080088;
-        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f080089;
-        public static final int Base_Widget_AppCompat_ActionBar=0x7f08008a;
-        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f08008b;
-        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f08008c;
-        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f08004b;
-        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f08004c;
-        public static final int Base_Widget_AppCompat_ActionButton=0x7f08004d;
-        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f08004e;
-        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f08004f;
-        public static final int Base_Widget_AppCompat_ActionMode=0x7f08008d;
-        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f08008e;
-        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f080050;
-        public static final int Base_Widget_AppCompat_Button=0x7f080051;
-        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f080052;
-        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f080053;
-        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f08008f;
-        public static final int Base_Widget_AppCompat_Button_Small=0x7f080054;
-        public static final int Base_Widget_AppCompat_ButtonBar=0x7f080055;
-        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f080090;
-        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f080056;
-        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f080057;
-        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f080091;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f080000;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f080092;
-        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f080058;
-        public static final int Base_Widget_AppCompat_EditText=0x7f080093;
-        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f080094;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f080095;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f080096;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f080059;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f08005a;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f08005b;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f08005c;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f08005d;
-        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f08005e;
-        public static final int Base_Widget_AppCompat_ListView=0x7f08005f;
-        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f080060;
-        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f080061;
-        public static final int Base_Widget_AppCompat_PopupMenu=0x7f080062;
-        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f080063;
-        public static final int Base_Widget_AppCompat_PopupWindow=0x7f080097;
-        public static final int Base_Widget_AppCompat_ProgressBar=0x7f08000d;
-        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f08000e;
-        public static final int Base_Widget_AppCompat_RatingBar=0x7f080064;
-        public static final int Base_Widget_AppCompat_SearchView=0x7f080098;
-        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f080099;
-        public static final int Base_Widget_AppCompat_Spinner=0x7f08000f;
-        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f080065;
-        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f080066;
-        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f080067;
-        public static final int Base_Widget_AppCompat_Toolbar=0x7f08009a;
-        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080068;
-        public static final int Platform_AppCompat=0x7f080010;
-        public static final int Platform_AppCompat_Light=0x7f080011;
-        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f080069;
-        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f08006a;
-        public static final int Platform_V11_AppCompat=0x7f080012;
-        public static final int Platform_V11_AppCompat_Light=0x7f080013;
-        public static final int Platform_V12_AppCompat=0x7f080014;
-        public static final int Platform_V12_AppCompat_Light=0x7f080015;
-        public static final int Platform_V14_AppCompat=0x7f080017;
-        public static final int Platform_V14_AppCompat_Light=0x7f080018;
-        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f080019;
-        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f08001a;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f08001b;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f08001c;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f08001d;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f08001e;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f08001f;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f080020;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f080021;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f080022;
-        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f080023;
-        public static final int RtlOverlay_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080024;
-        public static final int TextAppearance_AppCompat=0x7f08009b;
-        public static final int TextAppearance_AppCompat_Body1=0x7f08009c;
-        public static final int TextAppearance_AppCompat_Body2=0x7f08009d;
-        public static final int TextAppearance_AppCompat_Button=0x7f08009e;
-        public static final int TextAppearance_AppCompat_Caption=0x7f08009f;
-        public static final int TextAppearance_AppCompat_Display1=0x7f0800a0;
-        public static final int TextAppearance_AppCompat_Display2=0x7f0800a1;
-        public static final int TextAppearance_AppCompat_Display3=0x7f0800a2;
-        public static final int TextAppearance_AppCompat_Display4=0x7f0800a3;
-        public static final int TextAppearance_AppCompat_Headline=0x7f0800a4;
-        public static final int TextAppearance_AppCompat_Inverse=0x7f0800a5;
-        public static final int TextAppearance_AppCompat_Large=0x7f0800a6;
-        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0800a7;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0800a8;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0800a9;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0800aa;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0800ab;
-        public static final int TextAppearance_AppCompat_Medium=0x7f0800ac;
-        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0800ad;
-        public static final int TextAppearance_AppCompat_Menu=0x7f0800ae;
-        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0800af;
-        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0800b0;
-        public static final int TextAppearance_AppCompat_Small=0x7f0800b1;
-        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0800b2;
-        public static final int TextAppearance_AppCompat_Subhead=0x7f0800b3;
-        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0800b4;
-        public static final int TextAppearance_AppCompat_Title=0x7f0800b5;
-        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0800b6;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0800b7;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0800b8;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0800b9;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0800ba;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0800bb;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0800bc;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0800bd;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0800be;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0800bf;
-        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0800c0;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0800c1;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0800c2;
-        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0800c3;
-        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0800c4;
-        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0800c5;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0800c6;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0800c7;
-        public static final int Theme_AppCompat=0x7f0800c8;
-        public static final int Theme_AppCompat_CompactMenu=0x7f0800c9;
-        public static final int Theme_AppCompat_Dialog=0x7f0800ca;
-        public static final int Theme_AppCompat_Dialog_Alert=0x7f0800cb;
-        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0800cc;
-        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0800cd;
-        public static final int Theme_AppCompat_Light=0x7f0800ce;
-        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0800cf;
-        public static final int Theme_AppCompat_Light_Dialog=0x7f0800d0;
-        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0800d1;
-        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0800d2;
-        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0800d3;
-        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0800d4;
-        public static final int Theme_AppCompat_NoActionBar=0x7f0800d5;
-        public static final int ThemeOverlay_AppCompat=0x7f0800d6;
-        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0800d7;
-        public static final int ThemeOverlay_AppCompat_Dark=0x7f0800d8;
-        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0800d9;
-        public static final int ThemeOverlay_AppCompat_Light=0x7f0800da;
-        public static final int Widget_AppCompat_ActionBar=0x7f0800db;
-        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0800dc;
-        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0800dd;
-        public static final int Widget_AppCompat_ActionBar_TabText=0x7f0800de;
-        public static final int Widget_AppCompat_ActionBar_TabView=0x7f0800df;
-        public static final int Widget_AppCompat_ActionButton=0x7f0800e0;
-        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f0800e1;
-        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f0800e2;
-        public static final int Widget_AppCompat_ActionMode=0x7f0800e3;
-        public static final int Widget_AppCompat_ActivityChooserView=0x7f0800e4;
-        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0800e5;
-        public static final int Widget_AppCompat_Button=0x7f0800e6;
-        public static final int Widget_AppCompat_Button_Borderless=0x7f0800e7;
-        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f0800e8;
-        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0800e9;
-        public static final int Widget_AppCompat_Button_Small=0x7f0800ea;
-        public static final int Widget_AppCompat_ButtonBar=0x7f0800eb;
-        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f0800ec;
-        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f0800ed;
-        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f0800ee;
-        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f0800ef;
-        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f0800f0;
-        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f0800f1;
-        public static final int Widget_AppCompat_EditText=0x7f0800f2;
-        public static final int Widget_AppCompat_Light_ActionBar=0x7f0800f3;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f0800f4;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f0800f5;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f0800f6;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f0800f7;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f0800f8;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0800f9;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f0800fa;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f0800fb;
-        public static final int Widget_AppCompat_Light_ActionButton=0x7f0800fc;
-        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f0800fd;
-        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f0800fe;
-        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f0800ff;
-        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f080100;
-        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f080101;
-        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f080102;
-        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f080103;
-        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f080104;
-        public static final int Widget_AppCompat_Light_PopupMenu=0x7f080105;
-        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f080106;
-        public static final int Widget_AppCompat_Light_SearchView=0x7f080107;
-        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f080108;
-        public static final int Widget_AppCompat_ListPopupWindow=0x7f080109;
-        public static final int Widget_AppCompat_ListView=0x7f08010a;
-        public static final int Widget_AppCompat_ListView_DropDown=0x7f08010b;
-        public static final int Widget_AppCompat_ListView_Menu=0x7f08010c;
-        public static final int Widget_AppCompat_PopupMenu=0x7f08010d;
-        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f08010e;
-        public static final int Widget_AppCompat_PopupWindow=0x7f08010f;
-        public static final int Widget_AppCompat_ProgressBar=0x7f080110;
-        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f080111;
-        public static final int Widget_AppCompat_RatingBar=0x7f080112;
-        public static final int Widget_AppCompat_SearchView=0x7f080113;
-        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f080114;
-        public static final int Widget_AppCompat_Spinner=0x7f080115;
-        public static final int Widget_AppCompat_Spinner_DropDown=0x7f080116;
-        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f080117;
-        public static final int Widget_AppCompat_Spinner_Underlined=0x7f080118;
-        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f080119;
-        public static final int Widget_AppCompat_Toolbar=0x7f08011a;
-        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f08011b;
-        public static final int notitle=0x7f08011c;
+        public static final int AppTheme=0x7f0900a6;
+        public static final int Base_AlertDialog_AppCompat=0x7f0900a7;
+        public static final int Base_AlertDialog_AppCompat_Light=0x7f0900a8;
+        public static final int Base_Animation_AppCompat_Dialog=0x7f0900a9;
+        public static final int Base_Animation_AppCompat_DropDownUp=0x7f0900aa;
+        public static final int Base_DialogWindowTitle_AppCompat=0x7f0900ab;
+        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f0900ac;
+        public static final int Base_TextAppearance_AppCompat=0x7f090040;
+        public static final int Base_TextAppearance_AppCompat_Body1=0x7f090041;
+        public static final int Base_TextAppearance_AppCompat_Body2=0x7f090042;
+        public static final int Base_TextAppearance_AppCompat_Button=0x7f090028;
+        public static final int Base_TextAppearance_AppCompat_Caption=0x7f090043;
+        public static final int Base_TextAppearance_AppCompat_Display1=0x7f090044;
+        public static final int Base_TextAppearance_AppCompat_Display2=0x7f090045;
+        public static final int Base_TextAppearance_AppCompat_Display3=0x7f090046;
+        public static final int Base_TextAppearance_AppCompat_Display4=0x7f090047;
+        public static final int Base_TextAppearance_AppCompat_Headline=0x7f090048;
+        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f09000c;
+        public static final int Base_TextAppearance_AppCompat_Large=0x7f090049;
+        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f09000d;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f09004a;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f09004b;
+        public static final int Base_TextAppearance_AppCompat_Medium=0x7f09004c;
+        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f09000e;
+        public static final int Base_TextAppearance_AppCompat_Menu=0x7f09004d;
+        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f0900ad;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f09004e;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f09004f;
+        public static final int Base_TextAppearance_AppCompat_Small=0x7f090050;
+        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f09000f;
+        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f090051;
+        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f090010;
+        public static final int Base_TextAppearance_AppCompat_Title=0x7f090052;
+        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f090011;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f090096;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f090053;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f090054;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f090055;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f090056;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f090057;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f090058;
+        public static final int Base_TextAppearance_AppCompat_Widget_Button=0x7f090059;
+        public static final int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored=0x7f09009d;
+        public static final int Base_TextAppearance_AppCompat_Widget_Button_Colored=0x7f09009e;
+        public static final int Base_TextAppearance_AppCompat_Widget_Button_Inverse=0x7f090097;
+        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f0900ae;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header=0x7f09005a;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f09005b;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f09005c;
+        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f09005d;
+        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f09005e;
+        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0900af;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f09005f;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f090060;
+        public static final int Base_Theme_AppCompat=0x7f090061;
+        public static final int Base_Theme_AppCompat_CompactMenu=0x7f0900b0;
+        public static final int Base_Theme_AppCompat_Dialog=0x7f090012;
+        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f090013;
+        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f0900b1;
+        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f090014;
+        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f090002;
+        public static final int Base_Theme_AppCompat_Light=0x7f090062;
+        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f0900b2;
+        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f090015;
+        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f090016;
+        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f0900b3;
+        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f090017;
+        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f090003;
+        public static final int Base_ThemeOverlay_AppCompat=0x7f0900b4;
+        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f0900b5;
+        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f0900b6;
+        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0900b7;
+        public static final int Base_ThemeOverlay_AppCompat_Dialog=0x7f090018;
+        public static final int Base_ThemeOverlay_AppCompat_Dialog_Alert=0x7f090019;
+        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f0900b8;
+        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f09001a;
+        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f09001b;
+        public static final int Base_V11_ThemeOverlay_AppCompat_Dialog=0x7f09001c;
+        public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f090024;
+        public static final int Base_V12_Widget_AppCompat_EditText=0x7f090025;
+        public static final int Base_V21_Theme_AppCompat=0x7f090063;
+        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f090064;
+        public static final int Base_V21_Theme_AppCompat_Light=0x7f090065;
+        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f090066;
+        public static final int Base_V21_ThemeOverlay_AppCompat_Dialog=0x7f090067;
+        public static final int Base_V22_Theme_AppCompat=0x7f090094;
+        public static final int Base_V22_Theme_AppCompat_Light=0x7f090095;
+        public static final int Base_V23_Theme_AppCompat=0x7f090098;
+        public static final int Base_V23_Theme_AppCompat_Light=0x7f090099;
+        public static final int Base_V7_Theme_AppCompat=0x7f0900b9;
+        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f0900ba;
+        public static final int Base_V7_Theme_AppCompat_Light=0x7f0900bb;
+        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f0900bc;
+        public static final int Base_V7_ThemeOverlay_AppCompat_Dialog=0x7f0900bd;
+        public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f0900be;
+        public static final int Base_V7_Widget_AppCompat_EditText=0x7f0900bf;
+        public static final int Base_Widget_AppCompat_ActionBar=0x7f0900c0;
+        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f0900c1;
+        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f0900c2;
+        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f090068;
+        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f090069;
+        public static final int Base_Widget_AppCompat_ActionButton=0x7f09006a;
+        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f09006b;
+        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f09006c;
+        public static final int Base_Widget_AppCompat_ActionMode=0x7f0900c3;
+        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0900c4;
+        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f090026;
+        public static final int Base_Widget_AppCompat_Button=0x7f09006d;
+        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f09006e;
+        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f09006f;
+        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0900c5;
+        public static final int Base_Widget_AppCompat_Button_Colored=0x7f09009a;
+        public static final int Base_Widget_AppCompat_Button_Small=0x7f090070;
+        public static final int Base_Widget_AppCompat_ButtonBar=0x7f090071;
+        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f0900c6;
+        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f090072;
+        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f090073;
+        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0900c7;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f090000;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f0900c8;
+        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f090074;
+        public static final int Base_Widget_AppCompat_EditText=0x7f090027;
+        public static final int Base_Widget_AppCompat_ImageButton=0x7f090075;
+        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0900c9;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0900ca;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0900cb;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f090076;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f090077;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f090078;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f090079;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f09007a;
+        public static final int Base_Widget_AppCompat_ListMenuView=0x7f0900cc;
+        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f09007b;
+        public static final int Base_Widget_AppCompat_ListView=0x7f09007c;
+        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f09007d;
+        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f09007e;
+        public static final int Base_Widget_AppCompat_PopupMenu=0x7f09007f;
+        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f090080;
+        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0900cd;
+        public static final int Base_Widget_AppCompat_ProgressBar=0x7f09001d;
+        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f09001e;
+        public static final int Base_Widget_AppCompat_RatingBar=0x7f090081;
+        public static final int Base_Widget_AppCompat_RatingBar_Indicator=0x7f09009b;
+        public static final int Base_Widget_AppCompat_RatingBar_Small=0x7f09009c;
+        public static final int Base_Widget_AppCompat_SearchView=0x7f0900ce;
+        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f0900cf;
+        public static final int Base_Widget_AppCompat_SeekBar=0x7f090082;
+        public static final int Base_Widget_AppCompat_SeekBar_Discrete=0x7f0900d0;
+        public static final int Base_Widget_AppCompat_Spinner=0x7f090083;
+        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f090004;
+        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f090084;
+        public static final int Base_Widget_AppCompat_Toolbar=0x7f0900d1;
+        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f090085;
+        public static final int Base_Widget_Design_AppBarLayout=0x7f0900d2;
+        public static final int Base_Widget_Design_TabLayout=0x7f0900d3;
+        public static final int Platform_AppCompat=0x7f09001f;
+        public static final int Platform_AppCompat_Light=0x7f090020;
+        public static final int Platform_ThemeOverlay_AppCompat=0x7f090086;
+        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f090087;
+        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f090088;
+        public static final int Platform_V11_AppCompat=0x7f090021;
+        public static final int Platform_V11_AppCompat_Light=0x7f090022;
+        public static final int Platform_V14_AppCompat=0x7f090029;
+        public static final int Platform_V14_AppCompat_Light=0x7f09002a;
+        public static final int Platform_V21_AppCompat=0x7f090089;
+        public static final int Platform_V21_AppCompat_Light=0x7f09008a;
+        public static final int Platform_V25_AppCompat=0x7f09009f;
+        public static final int Platform_V25_AppCompat_Light=0x7f0900a0;
+        public static final int Platform_Widget_AppCompat_Spinner=0x7f090023;
+        public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f090032;
+        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f090033;
+        public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f090034;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f090035;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f090036;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f090037;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f090038;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f090039;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f09003a;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f09003b;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f09003c;
+        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f09003d;
+        public static final int RtlUnderlay_Widget_AppCompat_ActionButton=0x7f09003e;
+        public static final int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow=0x7f09003f;
+        public static final int TextAppearance_AppCompat=0x7f0900d4;
+        public static final int TextAppearance_AppCompat_Body1=0x7f0900d5;
+        public static final int TextAppearance_AppCompat_Body2=0x7f0900d6;
+        public static final int TextAppearance_AppCompat_Button=0x7f0900d7;
+        public static final int TextAppearance_AppCompat_Caption=0x7f0900d8;
+        public static final int TextAppearance_AppCompat_Display1=0x7f0900d9;
+        public static final int TextAppearance_AppCompat_Display2=0x7f0900da;
+        public static final int TextAppearance_AppCompat_Display3=0x7f0900db;
+        public static final int TextAppearance_AppCompat_Display4=0x7f0900dc;
+        public static final int TextAppearance_AppCompat_Headline=0x7f0900dd;
+        public static final int TextAppearance_AppCompat_Inverse=0x7f0900de;
+        public static final int TextAppearance_AppCompat_Large=0x7f0900df;
+        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0900e0;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0900e1;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0900e2;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0900e3;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0900e4;
+        public static final int TextAppearance_AppCompat_Medium=0x7f0900e5;
+        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0900e6;
+        public static final int TextAppearance_AppCompat_Menu=0x7f0900e7;
+        public static final int TextAppearance_AppCompat_Notification=0x7f09002b;
+        public static final int TextAppearance_AppCompat_Notification_Info=0x7f09008b;
+        public static final int TextAppearance_AppCompat_Notification_Info_Media=0x7f09008c;
+        public static final int TextAppearance_AppCompat_Notification_Line2=0x7f0900e8;
+        public static final int TextAppearance_AppCompat_Notification_Line2_Media=0x7f0900e9;
+        public static final int TextAppearance_AppCompat_Notification_Media=0x7f09008d;
+        public static final int TextAppearance_AppCompat_Notification_Time=0x7f09008e;
+        public static final int TextAppearance_AppCompat_Notification_Time_Media=0x7f09008f;
+        public static final int TextAppearance_AppCompat_Notification_Title=0x7f09002c;
+        public static final int TextAppearance_AppCompat_Notification_Title_Media=0x7f090090;
+        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0900ea;
+        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0900eb;
+        public static final int TextAppearance_AppCompat_Small=0x7f0900ec;
+        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0900ed;
+        public static final int TextAppearance_AppCompat_Subhead=0x7f0900ee;
+        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0900ef;
+        public static final int TextAppearance_AppCompat_Title=0x7f0900f0;
+        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0900f1;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0900f2;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0900f3;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0900f4;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0900f5;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0900f6;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0900f7;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0900f8;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0900f9;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0900fa;
+        public static final int TextAppearance_AppCompat_Widget_Button=0x7f0900fb;
+        public static final int TextAppearance_AppCompat_Widget_Button_Borderless_Colored=0x7f0900fc;
+        public static final int TextAppearance_AppCompat_Widget_Button_Colored=0x7f0900fd;
+        public static final int TextAppearance_AppCompat_Widget_Button_Inverse=0x7f0900fe;
+        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0900ff;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Header=0x7f090100;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f090101;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f090102;
+        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f090103;
+        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f090104;
+        public static final int TextAppearance_Design_CollapsingToolbar_Expanded=0x7f090105;
+        public static final int TextAppearance_Design_Counter=0x7f090106;
+        public static final int TextAppearance_Design_Counter_Overflow=0x7f090107;
+        public static final int TextAppearance_Design_Error=0x7f090108;
+        public static final int TextAppearance_Design_Hint=0x7f090109;
+        public static final int TextAppearance_Design_Snackbar_Message=0x7f09010a;
+        public static final int TextAppearance_Design_Tab=0x7f09010b;
+        public static final int TextAppearance_StatusBar_EventContent=0x7f09002d;
+        public static final int TextAppearance_StatusBar_EventContent_Info=0x7f09002e;
+        public static final int TextAppearance_StatusBar_EventContent_Line2=0x7f09002f;
+        public static final int TextAppearance_StatusBar_EventContent_Time=0x7f090030;
+        public static final int TextAppearance_StatusBar_EventContent_Title=0x7f090031;
+        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f09010c;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f09010d;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f09010e;
+        public static final int Theme_AppCompat=0x7f09010f;
+        public static final int Theme_AppCompat_CompactMenu=0x7f090110;
+        public static final int Theme_AppCompat_DayNight=0x7f090005;
+        public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f090006;
+        public static final int Theme_AppCompat_DayNight_Dialog=0x7f090007;
+        public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f090008;
+        public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f090009;
+        public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f09000a;
+        public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f09000b;
+        public static final int Theme_AppCompat_Dialog=0x7f090111;
+        public static final int Theme_AppCompat_Dialog_Alert=0x7f090112;
+        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f090113;
+        public static final int Theme_AppCompat_DialogWhenLarge=0x7f090114;
+        public static final int Theme_AppCompat_Light=0x7f090115;
+        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f090116;
+        public static final int Theme_AppCompat_Light_Dialog=0x7f090117;
+        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f090118;
+        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f090119;
+        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f09011a;
+        public static final int Theme_AppCompat_Light_NoActionBar=0x7f09011b;
+        public static final int Theme_AppCompat_NoActionBar=0x7f09011c;
+        public static final int Theme_Design=0x7f09011d;
+        public static final int Theme_Design_BottomSheetDialog=0x7f09011e;
+        public static final int Theme_Design_Light=0x7f09011f;
+        public static final int Theme_Design_Light_BottomSheetDialog=0x7f090120;
+        public static final int Theme_Design_Light_NoActionBar=0x7f090121;
+        public static final int Theme_Design_NoActionBar=0x7f090122;
+        public static final int ThemeOverlay_AppCompat=0x7f090123;
+        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f090124;
+        public static final int ThemeOverlay_AppCompat_Dark=0x7f090125;
+        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f090126;
+        public static final int ThemeOverlay_AppCompat_Dialog=0x7f090127;
+        public static final int ThemeOverlay_AppCompat_Dialog_Alert=0x7f090128;
+        public static final int ThemeOverlay_AppCompat_Light=0x7f090129;
+        public static final int Widget_AppCompat_ActionBar=0x7f09012a;
+        public static final int Widget_AppCompat_ActionBar_Solid=0x7f09012b;
+        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f09012c;
+        public static final int Widget_AppCompat_ActionBar_TabText=0x7f09012d;
+        public static final int Widget_AppCompat_ActionBar_TabView=0x7f09012e;
+        public static final int Widget_AppCompat_ActionButton=0x7f09012f;
+        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f090130;
+        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f090131;
+        public static final int Widget_AppCompat_ActionMode=0x7f090132;
+        public static final int Widget_AppCompat_ActivityChooserView=0x7f090133;
+        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f090134;
+        public static final int Widget_AppCompat_Button=0x7f090135;
+        public static final int Widget_AppCompat_Button_Borderless=0x7f090136;
+        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f090137;
+        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f090138;
+        public static final int Widget_AppCompat_Button_Colored=0x7f090139;
+        public static final int Widget_AppCompat_Button_Small=0x7f09013a;
+        public static final int Widget_AppCompat_ButtonBar=0x7f09013b;
+        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f09013c;
+        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f09013d;
+        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f09013e;
+        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f09013f;
+        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f090140;
+        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f090141;
+        public static final int Widget_AppCompat_EditText=0x7f090142;
+        public static final int Widget_AppCompat_ImageButton=0x7f090143;
+        public static final int Widget_AppCompat_Light_ActionBar=0x7f090144;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f090145;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f090146;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f090147;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f090148;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f090149;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f09014a;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f09014b;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f09014c;
+        public static final int Widget_AppCompat_Light_ActionButton=0x7f09014d;
+        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f09014e;
+        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f09014f;
+        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f090150;
+        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f090151;
+        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f090152;
+        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f090153;
+        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f090154;
+        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f090155;
+        public static final int Widget_AppCompat_Light_PopupMenu=0x7f090156;
+        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f090157;
+        public static final int Widget_AppCompat_Light_SearchView=0x7f090158;
+        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f090159;
+        public static final int Widget_AppCompat_ListMenuView=0x7f09015a;
+        public static final int Widget_AppCompat_ListPopupWindow=0x7f09015b;
+        public static final int Widget_AppCompat_ListView=0x7f09015c;
+        public static final int Widget_AppCompat_ListView_DropDown=0x7f09015d;
+        public static final int Widget_AppCompat_ListView_Menu=0x7f09015e;
+        public static final int Widget_AppCompat_NotificationActionContainer=0x7f090091;
+        public static final int Widget_AppCompat_NotificationActionText=0x7f090092;
+        public static final int Widget_AppCompat_PopupMenu=0x7f09015f;
+        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f090160;
+        public static final int Widget_AppCompat_PopupWindow=0x7f090161;
+        public static final int Widget_AppCompat_ProgressBar=0x7f090162;
+        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f090163;
+        public static final int Widget_AppCompat_RatingBar=0x7f090164;
+        public static final int Widget_AppCompat_RatingBar_Indicator=0x7f090165;
+        public static final int Widget_AppCompat_RatingBar_Small=0x7f090166;
+        public static final int Widget_AppCompat_SearchView=0x7f090167;
+        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f090168;
+        public static final int Widget_AppCompat_SeekBar=0x7f090169;
+        public static final int Widget_AppCompat_SeekBar_Discrete=0x7f09016a;
+        public static final int Widget_AppCompat_Spinner=0x7f09016b;
+        public static final int Widget_AppCompat_Spinner_DropDown=0x7f09016c;
+        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f09016d;
+        public static final int Widget_AppCompat_Spinner_Underlined=0x7f09016e;
+        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f09016f;
+        public static final int Widget_AppCompat_Toolbar=0x7f090170;
+        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f090171;
+        public static final int Widget_Design_AppBarLayout=0x7f090093;
+        public static final int Widget_Design_BottomNavigationView=0x7f090172;
+        public static final int Widget_Design_BottomSheet_Modal=0x7f090173;
+        public static final int Widget_Design_CollapsingToolbar=0x7f090174;
+        public static final int Widget_Design_CoordinatorLayout=0x7f090175;
+        public static final int Widget_Design_FloatingActionButton=0x7f090176;
+        public static final int Widget_Design_NavigationView=0x7f090177;
+        public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f090178;
+        public static final int Widget_Design_Snackbar=0x7f090179;
+        public static final int Widget_Design_TabLayout=0x7f090001;
+        public static final int Widget_Design_TextInputLayout=0x7f09017a;
+        public static final int notitle=0x7f09017b;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -1964,9 +4615,11 @@ containing a value of this type.
            <tr><td><code>{@link #ActionBar_backgroundSplit com.example.guchen.Map_launcher:backgroundSplit}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_backgroundStacked com.example.guchen.Map_launcher:backgroundStacked}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.guchen.Map_launcher:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.guchen.Map_launcher:contentInsetEndWithActions}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.guchen.Map_launcher:contentInsetLeft}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_contentInsetRight com.example.guchen.Map_launcher:contentInsetRight}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_contentInsetStart com.example.guchen.Map_launcher:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.guchen.Map_launcher:contentInsetStartWithNavigation}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.guchen.Map_launcher:customNavigationLayout}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_displayOptions com.example.guchen.Map_launcher:displayOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #ActionBar_divider com.example.guchen.Map_launcher:divider}</code></td><td></td></tr>
@@ -1992,9 +4645,11 @@ containing a value of this type.
            @see #ActionBar_backgroundSplit
            @see #ActionBar_backgroundStacked
            @see #ActionBar_contentInsetEnd
+           @see #ActionBar_contentInsetEndWithActions
            @see #ActionBar_contentInsetLeft
            @see #ActionBar_contentInsetRight
            @see #ActionBar_contentInsetStart
+           @see #ActionBar_contentInsetStartWithNavigation
            @see #ActionBar_customNavigationLayout
            @see #ActionBar_displayOptions
            @see #ActionBar_divider
@@ -2023,7 +4678,8 @@ containing a value of this type.
             0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011,
             0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015,
             0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
-            0x7f01001a, 0x7f01001b, 0x7f01007c
+            0x7f01001a, 0x7f01001b, 0x7f01001c, 0x7f01001d,
+            0x7f010060
         };
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#background}
@@ -2076,6 +4732,22 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetEndWithActions}
+          attribute's value can be found in the {@link #ActionBar} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:contentInsetEndWithActions
+        */
+        public static final int ActionBar_contentInsetEndWithActions = 25;
+        /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
@@ -2123,6 +4795,22 @@ containing a value of this type.
           @attr name com.example.guchen.Map_launcher:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetStartWithNavigation}
+          attribute's value can be found in the {@link #ActionBar} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:contentInsetStartWithNavigation
+        */
+        public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2180,7 +4868,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:elevation
         */
-        public static final int ActionBar_elevation = 24;
+        public static final int ActionBar_elevation = 26;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2220,7 +4908,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:homeAsUpIndicator
         */
-        public static final int ActionBar_homeAsUpIndicator = 26;
+        public static final int ActionBar_homeAsUpIndicator = 28;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2304,7 +4992,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:popupTheme
         */
-        public static final int ActionBar_popupTheme = 25;
+        public static final int ActionBar_popupTheme = 27;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2444,7 +5132,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
          */
         public static final int[] ActionMode = {
             0x7f010001, 0x7f010007, 0x7f010008, 0x7f01000c,
-            0x7f01000e, 0x7f01001c
+            0x7f01000e, 0x7f01001e
         };
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#background}
@@ -2527,7 +5215,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #ActivityChooserView_initialActivityCount
          */
         public static final int[] ActivityChooserView = {
-            0x7f01001d, 0x7f01001e
+            0x7f01001f, 0x7f010020
         };
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandActivityOverflowButtonDrawable}
@@ -2564,6 +5252,7 @@ containing a value of this type.
            <tr><td><code>{@link #AlertDialog_listItemLayout com.example.guchen.Map_launcher:listItemLayout}</code></td><td></td></tr>
            <tr><td><code>{@link #AlertDialog_listLayout com.example.guchen.Map_launcher:listLayout}</code></td><td></td></tr>
            <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.guchen.Map_launcher:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.example.guchen.Map_launcher:showTitle}</code></td><td></td></tr>
            <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.guchen.Map_launcher:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
@@ -2571,11 +5260,12 @@ containing a value of this type.
            @see #AlertDialog_listItemLayout
            @see #AlertDialog_listLayout
            @see #AlertDialog_multiChoiceItemLayout
+           @see #AlertDialog_showTitle
            @see #AlertDialog_singleChoiceItemLayout
          */
         public static final int[] AlertDialog = {
-            0x010100f2, 0x7f01001f, 0x7f010020, 0x7f010021,
-            0x7f010022, 0x7f010023
+            0x010100f2, 0x7f010021, 0x7f010022, 0x7f010023,
+            0x7f010024, 0x7f010025, 0x7f010026
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout}
@@ -2624,6 +5314,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#showTitle}
+          attribute's value can be found in the {@link #AlertDialog} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:showTitle
+        */
+        public static final int AlertDialog_showTitle = 6;
+        /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
@@ -2633,6 +5337,317 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name com.example.guchen.Map_launcher:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
+        /** Attributes that can be used with a AppBarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.example.guchen.Map_launcher:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.example.guchen.Map_launcher:expanded}</code></td><td></td></tr>
+           </table>
+           @see #AppBarLayout_android_background
+           @see #AppBarLayout_elevation
+           @see #AppBarLayout_expanded
+         */
+        public static final int[] AppBarLayout = {
+            0x010100d4, 0x7f01001c, 0x7f010027
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#background}
+          attribute's value can be found in the {@link #AppBarLayout} array.
+          @attr name android:background
+        */
+        public static final int AppBarLayout_android_background = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#elevation}
+          attribute's value can be found in the {@link #AppBarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:elevation
+        */
+        public static final int AppBarLayout_elevation = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expanded}
+          attribute's value can be found in the {@link #AppBarLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:expanded
+        */
+        public static final int AppBarLayout_expanded = 2;
+        /** Attributes that can be used with a AppBarLayoutStates.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.example.guchen.Map_launcher:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.example.guchen.Map_launcher:state_collapsible}</code></td><td></td></tr>
+           </table>
+           @see #AppBarLayoutStates_state_collapsed
+           @see #AppBarLayoutStates_state_collapsible
+         */
+        public static final int[] AppBarLayoutStates = {
+            0x7f010028, 0x7f010029
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#state_collapsed}
+          attribute's value can be found in the {@link #AppBarLayoutStates} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:state_collapsed
+        */
+        public static final int AppBarLayoutStates_state_collapsed = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#state_collapsible}
+          attribute's value can be found in the {@link #AppBarLayoutStates} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:state_collapsible
+        */
+        public static final int AppBarLayoutStates_state_collapsible = 1;
+        /** Attributes that can be used with a AppBarLayout_Layout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.example.guchen.Map_launcher:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.example.guchen.Map_launcher:layout_scrollInterpolator}</code></td><td></td></tr>
+           </table>
+           @see #AppBarLayout_Layout_layout_scrollFlags
+           @see #AppBarLayout_Layout_layout_scrollInterpolator
+         */
+        public static final int[] AppBarLayout_Layout = {
+            0x7f01002a, 0x7f01002b
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_scrollFlags}
+          attribute's value can be found in the {@link #AppBarLayout_Layout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scroll</code></td><td>0x1</td><td></td></tr>
+<tr><td><code>exitUntilCollapsed</code></td><td>0x2</td><td></td></tr>
+<tr><td><code>enterAlways</code></td><td>0x4</td><td></td></tr>
+<tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
+<tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:layout_scrollFlags
+        */
+        public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_scrollInterpolator}
+          attribute's value can be found in the {@link #AppBarLayout_Layout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:layout_scrollInterpolator
+        */
+        public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
+        /** Attributes that can be used with a AppCompatImageView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.guchen.Map_launcher:srcCompat}</code></td><td></td></tr>
+           </table>
+           @see #AppCompatImageView_android_src
+           @see #AppCompatImageView_srcCompat
+         */
+        public static final int[] AppCompatImageView = {
+            0x01010119, 0x7f01002c
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#src}
+          attribute's value can be found in the {@link #AppCompatImageView} array.
+          @attr name android:src
+        */
+        public static final int AppCompatImageView_android_src = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#srcCompat}
+          attribute's value can be found in the {@link #AppCompatImageView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:srcCompat
+        */
+        public static final int AppCompatImageView_srcCompat = 1;
+        /** Attributes that can be used with a AppCompatSeekBar.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.guchen.Map_launcher:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.guchen.Map_launcher:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.guchen.Map_launcher:tickMarkTintMode}</code></td><td></td></tr>
+           </table>
+           @see #AppCompatSeekBar_android_thumb
+           @see #AppCompatSeekBar_tickMark
+           @see #AppCompatSeekBar_tickMarkTint
+           @see #AppCompatSeekBar_tickMarkTintMode
+         */
+        public static final int[] AppCompatSeekBar = {
+            0x01010142, 0x7f01002d, 0x7f01002e, 0x7f01002f
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#thumb}
+          attribute's value can be found in the {@link #AppCompatSeekBar} array.
+          @attr name android:thumb
+        */
+        public static final int AppCompatSeekBar_android_thumb = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tickMark}
+          attribute's value can be found in the {@link #AppCompatSeekBar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:tickMark
+        */
+        public static final int AppCompatSeekBar_tickMark = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tickMarkTint}
+          attribute's value can be found in the {@link #AppCompatSeekBar} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tickMarkTint
+        */
+        public static final int AppCompatSeekBar_tickMarkTint = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tickMarkTintMode}
+          attribute's value can be found in the {@link #AppCompatSeekBar} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>add</code></td><td>16</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:tickMarkTintMode
+        */
+        public static final int AppCompatSeekBar_tickMarkTintMode = 3;
+        /** Attributes that can be used with a AppCompatTextHelper.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableBottom android:drawableBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableEnd android:drawableEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableLeft android:drawableLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableRight android:drawableRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableStart android:drawableStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableTop android:drawableTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_textAppearance android:textAppearance}</code></td><td></td></tr>
+           </table>
+           @see #AppCompatTextHelper_android_drawableBottom
+           @see #AppCompatTextHelper_android_drawableEnd
+           @see #AppCompatTextHelper_android_drawableLeft
+           @see #AppCompatTextHelper_android_drawableRight
+           @see #AppCompatTextHelper_android_drawableStart
+           @see #AppCompatTextHelper_android_drawableTop
+           @see #AppCompatTextHelper_android_textAppearance
+         */
+        public static final int[] AppCompatTextHelper = {
+            0x01010034, 0x0101016d, 0x0101016e, 0x0101016f,
+            0x01010170, 0x01010392, 0x01010393
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableBottom}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableBottom
+        */
+        public static final int AppCompatTextHelper_android_drawableBottom = 2;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableEnd}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableEnd
+        */
+        public static final int AppCompatTextHelper_android_drawableEnd = 6;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableLeft}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableLeft
+        */
+        public static final int AppCompatTextHelper_android_drawableLeft = 3;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableRight}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableRight
+        */
+        public static final int AppCompatTextHelper_android_drawableRight = 4;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableStart}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableStart
+        */
+        public static final int AppCompatTextHelper_android_drawableStart = 5;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableTop}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableTop
+        */
+        public static final int AppCompatTextHelper_android_drawableTop = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:textAppearance
+        */
+        public static final int AppCompatTextHelper_android_textAppearance = 0;
         /** Attributes that can be used with a AppCompatTextView.
            <p>Includes the following attributes:</p>
            <table>
@@ -2646,7 +5661,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #AppCompatTextView_textAllCaps
          */
         public static final int[] AppCompatTextView = {
-            0x01010034, 0x7f010024
+            0x01010034, 0x7f010030
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
@@ -2665,36 +5680,2493 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name com.example.guchen.Map_launcher:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
+        /** Attributes that can be used with a AppCompatTheme.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.guchen.Map_launcher:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.guchen.Map_launcher:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.guchen.Map_launcher:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.guchen.Map_launcher:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.guchen.Map_launcher:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.guchen.Map_launcher:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.guchen.Map_launcher:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.guchen.Map_launcher:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.guchen.Map_launcher:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.guchen.Map_launcher:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.guchen.Map_launcher:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.guchen.Map_launcher:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.guchen.Map_launcher:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.guchen.Map_launcher:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.guchen.Map_launcher:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.guchen.Map_launcher:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.guchen.Map_launcher:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.guchen.Map_launcher:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.guchen.Map_launcher:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.guchen.Map_launcher:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.guchen.Map_launcher:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.guchen.Map_launcher:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.guchen.Map_launcher:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.guchen.Map_launcher:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.guchen.Map_launcher:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.guchen.Map_launcher:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.guchen.Map_launcher:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.guchen.Map_launcher:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.guchen.Map_launcher:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.guchen.Map_launcher:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.guchen.Map_launcher:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.guchen.Map_launcher:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.guchen.Map_launcher:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.guchen.Map_launcher:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.guchen.Map_launcher:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.guchen.Map_launcher:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.guchen.Map_launcher:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.guchen.Map_launcher:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.guchen.Map_launcher:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.guchen.Map_launcher:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.guchen.Map_launcher:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.guchen.Map_launcher:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.guchen.Map_launcher:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.guchen.Map_launcher:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.guchen.Map_launcher:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.guchen.Map_launcher:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.guchen.Map_launcher:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.guchen.Map_launcher:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.guchen.Map_launcher:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.guchen.Map_launcher:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.guchen.Map_launcher:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.guchen.Map_launcher:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.guchen.Map_launcher:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.guchen.Map_launcher:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.guchen.Map_launcher:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.guchen.Map_launcher:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.guchen.Map_launcher:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.guchen.Map_launcher:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.guchen.Map_launcher:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.guchen.Map_launcher:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.guchen.Map_launcher:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.guchen.Map_launcher:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.guchen.Map_launcher:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.guchen.Map_launcher:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.guchen.Map_launcher:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.guchen.Map_launcher:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.guchen.Map_launcher:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.guchen.Map_launcher:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.guchen.Map_launcher:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.guchen.Map_launcher:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.guchen.Map_launcher:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.guchen.Map_launcher:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.guchen.Map_launcher:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.guchen.Map_launcher:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.guchen.Map_launcher:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.guchen.Map_launcher:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.guchen.Map_launcher:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.guchen.Map_launcher:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.guchen.Map_launcher:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.guchen.Map_launcher:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.guchen.Map_launcher:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.guchen.Map_launcher:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.guchen.Map_launcher:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.guchen.Map_launcher:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.guchen.Map_launcher:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.guchen.Map_launcher:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.guchen.Map_launcher:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.guchen.Map_launcher:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.guchen.Map_launcher:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.guchen.Map_launcher:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.guchen.Map_launcher:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.guchen.Map_launcher:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.guchen.Map_launcher:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.guchen.Map_launcher:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.guchen.Map_launcher:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.guchen.Map_launcher:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.guchen.Map_launcher:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.guchen.Map_launcher:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.guchen.Map_launcher:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.guchen.Map_launcher:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.guchen.Map_launcher:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.guchen.Map_launcher:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.guchen.Map_launcher:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.guchen.Map_launcher:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.guchen.Map_launcher:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.guchen.Map_launcher:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.guchen.Map_launcher:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.guchen.Map_launcher:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.guchen.Map_launcher:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.guchen.Map_launcher:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.guchen.Map_launcher:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.guchen.Map_launcher:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.guchen.Map_launcher:windowNoTitle}</code></td><td></td></tr>
+           </table>
+           @see #AppCompatTheme_actionBarDivider
+           @see #AppCompatTheme_actionBarItemBackground
+           @see #AppCompatTheme_actionBarPopupTheme
+           @see #AppCompatTheme_actionBarSize
+           @see #AppCompatTheme_actionBarSplitStyle
+           @see #AppCompatTheme_actionBarStyle
+           @see #AppCompatTheme_actionBarTabBarStyle
+           @see #AppCompatTheme_actionBarTabStyle
+           @see #AppCompatTheme_actionBarTabTextStyle
+           @see #AppCompatTheme_actionBarTheme
+           @see #AppCompatTheme_actionBarWidgetTheme
+           @see #AppCompatTheme_actionButtonStyle
+           @see #AppCompatTheme_actionDropDownStyle
+           @see #AppCompatTheme_actionMenuTextAppearance
+           @see #AppCompatTheme_actionMenuTextColor
+           @see #AppCompatTheme_actionModeBackground
+           @see #AppCompatTheme_actionModeCloseButtonStyle
+           @see #AppCompatTheme_actionModeCloseDrawable
+           @see #AppCompatTheme_actionModeCopyDrawable
+           @see #AppCompatTheme_actionModeCutDrawable
+           @see #AppCompatTheme_actionModeFindDrawable
+           @see #AppCompatTheme_actionModePasteDrawable
+           @see #AppCompatTheme_actionModePopupWindowStyle
+           @see #AppCompatTheme_actionModeSelectAllDrawable
+           @see #AppCompatTheme_actionModeShareDrawable
+           @see #AppCompatTheme_actionModeSplitBackground
+           @see #AppCompatTheme_actionModeStyle
+           @see #AppCompatTheme_actionModeWebSearchDrawable
+           @see #AppCompatTheme_actionOverflowButtonStyle
+           @see #AppCompatTheme_actionOverflowMenuStyle
+           @see #AppCompatTheme_activityChooserViewStyle
+           @see #AppCompatTheme_alertDialogButtonGroupStyle
+           @see #AppCompatTheme_alertDialogCenterButtons
+           @see #AppCompatTheme_alertDialogStyle
+           @see #AppCompatTheme_alertDialogTheme
+           @see #AppCompatTheme_android_windowAnimationStyle
+           @see #AppCompatTheme_android_windowIsFloating
+           @see #AppCompatTheme_autoCompleteTextViewStyle
+           @see #AppCompatTheme_borderlessButtonStyle
+           @see #AppCompatTheme_buttonBarButtonStyle
+           @see #AppCompatTheme_buttonBarNegativeButtonStyle
+           @see #AppCompatTheme_buttonBarNeutralButtonStyle
+           @see #AppCompatTheme_buttonBarPositiveButtonStyle
+           @see #AppCompatTheme_buttonBarStyle
+           @see #AppCompatTheme_buttonStyle
+           @see #AppCompatTheme_buttonStyleSmall
+           @see #AppCompatTheme_checkboxStyle
+           @see #AppCompatTheme_checkedTextViewStyle
+           @see #AppCompatTheme_colorAccent
+           @see #AppCompatTheme_colorBackgroundFloating
+           @see #AppCompatTheme_colorButtonNormal
+           @see #AppCompatTheme_colorControlActivated
+           @see #AppCompatTheme_colorControlHighlight
+           @see #AppCompatTheme_colorControlNormal
+           @see #AppCompatTheme_colorPrimary
+           @see #AppCompatTheme_colorPrimaryDark
+           @see #AppCompatTheme_colorSwitchThumbNormal
+           @see #AppCompatTheme_controlBackground
+           @see #AppCompatTheme_dialogPreferredPadding
+           @see #AppCompatTheme_dialogTheme
+           @see #AppCompatTheme_dividerHorizontal
+           @see #AppCompatTheme_dividerVertical
+           @see #AppCompatTheme_dropDownListViewStyle
+           @see #AppCompatTheme_dropdownListPreferredItemHeight
+           @see #AppCompatTheme_editTextBackground
+           @see #AppCompatTheme_editTextColor
+           @see #AppCompatTheme_editTextStyle
+           @see #AppCompatTheme_homeAsUpIndicator
+           @see #AppCompatTheme_imageButtonStyle
+           @see #AppCompatTheme_listChoiceBackgroundIndicator
+           @see #AppCompatTheme_listDividerAlertDialog
+           @see #AppCompatTheme_listMenuViewStyle
+           @see #AppCompatTheme_listPopupWindowStyle
+           @see #AppCompatTheme_listPreferredItemHeight
+           @see #AppCompatTheme_listPreferredItemHeightLarge
+           @see #AppCompatTheme_listPreferredItemHeightSmall
+           @see #AppCompatTheme_listPreferredItemPaddingLeft
+           @see #AppCompatTheme_listPreferredItemPaddingRight
+           @see #AppCompatTheme_panelBackground
+           @see #AppCompatTheme_panelMenuListTheme
+           @see #AppCompatTheme_panelMenuListWidth
+           @see #AppCompatTheme_popupMenuStyle
+           @see #AppCompatTheme_popupWindowStyle
+           @see #AppCompatTheme_radioButtonStyle
+           @see #AppCompatTheme_ratingBarStyle
+           @see #AppCompatTheme_ratingBarStyleIndicator
+           @see #AppCompatTheme_ratingBarStyleSmall
+           @see #AppCompatTheme_searchViewStyle
+           @see #AppCompatTheme_seekBarStyle
+           @see #AppCompatTheme_selectableItemBackground
+           @see #AppCompatTheme_selectableItemBackgroundBorderless
+           @see #AppCompatTheme_spinnerDropDownItemStyle
+           @see #AppCompatTheme_spinnerStyle
+           @see #AppCompatTheme_switchStyle
+           @see #AppCompatTheme_textAppearanceLargePopupMenu
+           @see #AppCompatTheme_textAppearanceListItem
+           @see #AppCompatTheme_textAppearanceListItemSmall
+           @see #AppCompatTheme_textAppearancePopupMenuHeader
+           @see #AppCompatTheme_textAppearanceSearchResultSubtitle
+           @see #AppCompatTheme_textAppearanceSearchResultTitle
+           @see #AppCompatTheme_textAppearanceSmallPopupMenu
+           @see #AppCompatTheme_textColorAlertDialogListItem
+           @see #AppCompatTheme_textColorSearchUrl
+           @see #AppCompatTheme_toolbarNavigationButtonStyle
+           @see #AppCompatTheme_toolbarStyle
+           @see #AppCompatTheme_windowActionBar
+           @see #AppCompatTheme_windowActionBarOverlay
+           @see #AppCompatTheme_windowActionModeOverlay
+           @see #AppCompatTheme_windowFixedHeightMajor
+           @see #AppCompatTheme_windowFixedHeightMinor
+           @see #AppCompatTheme_windowFixedWidthMajor
+           @see #AppCompatTheme_windowFixedWidthMinor
+           @see #AppCompatTheme_windowMinWidthMajor
+           @see #AppCompatTheme_windowMinWidthMinor
+           @see #AppCompatTheme_windowNoTitle
+         */
+        public static final int[] AppCompatTheme = {
+            0x01010057, 0x010100ae, 0x7f010031, 0x7f010032,
+            0x7f010033, 0x7f010034, 0x7f010035, 0x7f010036,
+            0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a,
+            0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e,
+            0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042,
+            0x7f010043, 0x7f010044, 0x7f010045, 0x7f010046,
+            0x7f010047, 0x7f010048, 0x7f010049, 0x7f01004a,
+            0x7f01004b, 0x7f01004c, 0x7f01004d, 0x7f01004e,
+            0x7f01004f, 0x7f010050, 0x7f010051, 0x7f010052,
+            0x7f010053, 0x7f010054, 0x7f010055, 0x7f010056,
+            0x7f010057, 0x7f010058, 0x7f010059, 0x7f01005a,
+            0x7f01005b, 0x7f01005c, 0x7f01005d, 0x7f01005e,
+            0x7f01005f, 0x7f010060, 0x7f010061, 0x7f010062,
+            0x7f010063, 0x7f010064, 0x7f010065, 0x7f010066,
+            0x7f010067, 0x7f010068, 0x7f010069, 0x7f01006a,
+            0x7f01006b, 0x7f01006c, 0x7f01006d, 0x7f01006e,
+            0x7f01006f, 0x7f010070, 0x7f010071, 0x7f010072,
+            0x7f010073, 0x7f010074, 0x7f010075, 0x7f010076,
+            0x7f010077, 0x7f010078, 0x7f010079, 0x7f01007a,
+            0x7f01007b, 0x7f01007c, 0x7f01007d, 0x7f01007e,
+            0x7f01007f, 0x7f010080, 0x7f010081, 0x7f010082,
+            0x7f010083, 0x7f010084, 0x7f010085, 0x7f010086,
+            0x7f010087, 0x7f010088, 0x7f010089, 0x7f01008a,
+            0x7f01008b, 0x7f01008c, 0x7f01008d, 0x7f01008e,
+            0x7f01008f, 0x7f010090, 0x7f010091, 0x7f010092,
+            0x7f010093, 0x7f010094, 0x7f010095, 0x7f010096,
+            0x7f010097, 0x7f010098, 0x7f010099, 0x7f01009a,
+            0x7f01009b, 0x7f01009c, 0x7f01009d, 0x7f01009e,
+            0x7f01009f, 0x7f0100a0, 0x7f0100a1
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarDivider}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarDivider
+        */
+        public static final int AppCompatTheme_actionBarDivider = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarItemBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarItemBackground
+        */
+        public static final int AppCompatTheme_actionBarItemBackground = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarPopupTheme}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarPopupTheme
+        */
+        public static final int AppCompatTheme_actionBarPopupTheme = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarSize}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:actionBarSize
+        */
+        public static final int AppCompatTheme_actionBarSize = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarSplitStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarSplitStyle
+        */
+        public static final int AppCompatTheme_actionBarSplitStyle = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarStyle
+        */
+        public static final int AppCompatTheme_actionBarStyle = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTabBarStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarTabBarStyle
+        */
+        public static final int AppCompatTheme_actionBarTabBarStyle = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTabStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarTabStyle
+        */
+        public static final int AppCompatTheme_actionBarTabStyle = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTabTextStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarTabTextStyle
+        */
+        public static final int AppCompatTheme_actionBarTabTextStyle = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTheme}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarTheme
+        */
+        public static final int AppCompatTheme_actionBarTheme = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarWidgetTheme}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionBarWidgetTheme
+        */
+        public static final int AppCompatTheme_actionBarWidgetTheme = 21;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionButtonStyle
+        */
+        public static final int AppCompatTheme_actionButtonStyle = 50;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionDropDownStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionDropDownStyle
+        */
+        public static final int AppCompatTheme_actionDropDownStyle = 46;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionMenuTextAppearance}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionMenuTextAppearance
+        */
+        public static final int AppCompatTheme_actionMenuTextAppearance = 25;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionMenuTextColor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionMenuTextColor
+        */
+        public static final int AppCompatTheme_actionMenuTextColor = 26;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeBackground
+        */
+        public static final int AppCompatTheme_actionModeBackground = 29;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCloseButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeCloseButtonStyle
+        */
+        public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCloseDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeCloseDrawable
+        */
+        public static final int AppCompatTheme_actionModeCloseDrawable = 31;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCopyDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeCopyDrawable
+        */
+        public static final int AppCompatTheme_actionModeCopyDrawable = 33;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCutDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeCutDrawable
+        */
+        public static final int AppCompatTheme_actionModeCutDrawable = 32;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeFindDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeFindDrawable
+        */
+        public static final int AppCompatTheme_actionModeFindDrawable = 37;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModePasteDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModePasteDrawable
+        */
+        public static final int AppCompatTheme_actionModePasteDrawable = 34;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModePopupWindowStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModePopupWindowStyle
+        */
+        public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeSelectAllDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeSelectAllDrawable
+        */
+        public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeShareDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeShareDrawable
+        */
+        public static final int AppCompatTheme_actionModeShareDrawable = 36;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeSplitBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeSplitBackground
+        */
+        public static final int AppCompatTheme_actionModeSplitBackground = 30;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeStyle
+        */
+        public static final int AppCompatTheme_actionModeStyle = 27;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeWebSearchDrawable}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionModeWebSearchDrawable
+        */
+        public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionOverflowButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionOverflowButtonStyle
+        */
+        public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionOverflowMenuStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:actionOverflowMenuStyle
+        */
+        public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#activityChooserViewStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:activityChooserViewStyle
+        */
+        public static final int AppCompatTheme_activityChooserViewStyle = 58;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogButtonGroupStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:alertDialogButtonGroupStyle
+        */
+        public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogCenterButtons}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:alertDialogCenterButtons
+        */
+        public static final int AppCompatTheme_alertDialogCenterButtons = 95;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:alertDialogStyle
+        */
+        public static final int AppCompatTheme_alertDialogStyle = 93;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogTheme}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:alertDialogTheme
+        */
+        public static final int AppCompatTheme_alertDialogTheme = 96;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+          @attr name android:windowAnimationStyle
+        */
+        public static final int AppCompatTheme_android_windowAnimationStyle = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+          @attr name android:windowIsFloating
+        */
+        public static final int AppCompatTheme_android_windowIsFloating = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#autoCompleteTextViewStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:autoCompleteTextViewStyle
+        */
+        public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#borderlessButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:borderlessButtonStyle
+        */
+        public static final int AppCompatTheme_borderlessButtonStyle = 55;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonBarButtonStyle
+        */
+        public static final int AppCompatTheme_buttonBarButtonStyle = 52;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarNegativeButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonBarNegativeButtonStyle
+        */
+        public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarNeutralButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonBarNeutralButtonStyle
+        */
+        public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarPositiveButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonBarPositiveButtonStyle
+        */
+        public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonBarStyle
+        */
+        public static final int AppCompatTheme_buttonBarStyle = 51;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonStyle
+        */
+        public static final int AppCompatTheme_buttonStyle = 102;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonStyleSmall}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:buttonStyleSmall
+        */
+        public static final int AppCompatTheme_buttonStyleSmall = 103;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#checkboxStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:checkboxStyle
+        */
+        public static final int AppCompatTheme_checkboxStyle = 104;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#checkedTextViewStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:checkedTextViewStyle
+        */
+        public static final int AppCompatTheme_checkedTextViewStyle = 105;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorAccent}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorAccent
+        */
+        public static final int AppCompatTheme_colorAccent = 85;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorBackgroundFloating}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorBackgroundFloating
+        */
+        public static final int AppCompatTheme_colorBackgroundFloating = 92;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorButtonNormal}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorButtonNormal
+        */
+        public static final int AppCompatTheme_colorButtonNormal = 89;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorControlActivated}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorControlActivated
+        */
+        public static final int AppCompatTheme_colorControlActivated = 87;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorControlHighlight}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorControlHighlight
+        */
+        public static final int AppCompatTheme_colorControlHighlight = 88;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorControlNormal}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorControlNormal
+        */
+        public static final int AppCompatTheme_colorControlNormal = 86;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorPrimary}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorPrimary
+        */
+        public static final int AppCompatTheme_colorPrimary = 83;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorPrimaryDark}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorPrimaryDark
+        */
+        public static final int AppCompatTheme_colorPrimaryDark = 84;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorSwitchThumbNormal}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:colorSwitchThumbNormal
+        */
+        public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#controlBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:controlBackground
+        */
+        public static final int AppCompatTheme_controlBackground = 91;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dialogPreferredPadding}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:dialogPreferredPadding
+        */
+        public static final int AppCompatTheme_dialogPreferredPadding = 44;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dialogTheme}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:dialogTheme
+        */
+        public static final int AppCompatTheme_dialogTheme = 43;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dividerHorizontal}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:dividerHorizontal
+        */
+        public static final int AppCompatTheme_dividerHorizontal = 57;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dividerVertical}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:dividerVertical
+        */
+        public static final int AppCompatTheme_dividerVertical = 56;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dropDownListViewStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:dropDownListViewStyle
+        */
+        public static final int AppCompatTheme_dropDownListViewStyle = 75;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dropdownListPreferredItemHeight}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:dropdownListPreferredItemHeight
+        */
+        public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#editTextBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:editTextBackground
+        */
+        public static final int AppCompatTheme_editTextBackground = 64;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#editTextColor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.guchen.Map_launcher:editTextColor
+        */
+        public static final int AppCompatTheme_editTextColor = 63;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#editTextStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:editTextStyle
+        */
+        public static final int AppCompatTheme_editTextStyle = 106;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#homeAsUpIndicator}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:homeAsUpIndicator
+        */
+        public static final int AppCompatTheme_homeAsUpIndicator = 49;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#imageButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:imageButtonStyle
+        */
+        public static final int AppCompatTheme_imageButtonStyle = 65;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listChoiceBackgroundIndicator}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:listChoiceBackgroundIndicator
+        */
+        public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listDividerAlertDialog}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:listDividerAlertDialog
+        */
+        public static final int AppCompatTheme_listDividerAlertDialog = 45;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listMenuViewStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:listMenuViewStyle
+        */
+        public static final int AppCompatTheme_listMenuViewStyle = 114;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPopupWindowStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:listPopupWindowStyle
+        */
+        public static final int AppCompatTheme_listPopupWindowStyle = 76;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemHeight}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:listPreferredItemHeight
+        */
+        public static final int AppCompatTheme_listPreferredItemHeight = 70;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemHeightLarge}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:listPreferredItemHeightLarge
+        */
+        public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemHeightSmall}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:listPreferredItemHeightSmall
+        */
+        public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemPaddingLeft}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:listPreferredItemPaddingLeft
+        */
+        public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemPaddingRight}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:listPreferredItemPaddingRight
+        */
+        public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#panelBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:panelBackground
+        */
+        public static final int AppCompatTheme_panelBackground = 79;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#panelMenuListTheme}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:panelMenuListTheme
+        */
+        public static final int AppCompatTheme_panelMenuListTheme = 81;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#panelMenuListWidth}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:panelMenuListWidth
+        */
+        public static final int AppCompatTheme_panelMenuListWidth = 80;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupMenuStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:popupMenuStyle
+        */
+        public static final int AppCompatTheme_popupMenuStyle = 61;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupWindowStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:popupWindowStyle
+        */
+        public static final int AppCompatTheme_popupWindowStyle = 62;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#radioButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:radioButtonStyle
+        */
+        public static final int AppCompatTheme_radioButtonStyle = 107;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#ratingBarStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:ratingBarStyle
+        */
+        public static final int AppCompatTheme_ratingBarStyle = 108;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#ratingBarStyleIndicator}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:ratingBarStyleIndicator
+        */
+        public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#ratingBarStyleSmall}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:ratingBarStyleSmall
+        */
+        public static final int AppCompatTheme_ratingBarStyleSmall = 110;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#searchViewStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:searchViewStyle
+        */
+        public static final int AppCompatTheme_searchViewStyle = 69;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#seekBarStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:seekBarStyle
+        */
+        public static final int AppCompatTheme_seekBarStyle = 111;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#selectableItemBackground}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:selectableItemBackground
+        */
+        public static final int AppCompatTheme_selectableItemBackground = 53;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#selectableItemBackgroundBorderless}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:selectableItemBackgroundBorderless
+        */
+        public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spinnerDropDownItemStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:spinnerDropDownItemStyle
+        */
+        public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spinnerStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:spinnerStyle
+        */
+        public static final int AppCompatTheme_spinnerStyle = 112;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#switchStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:switchStyle
+        */
+        public static final int AppCompatTheme_switchStyle = 113;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceLargePopupMenu}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearanceLargePopupMenu
+        */
+        public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceListItem}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearanceListItem
+        */
+        public static final int AppCompatTheme_textAppearanceListItem = 77;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceListItemSmall}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearanceListItemSmall
+        */
+        public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearancePopupMenuHeader}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearancePopupMenuHeader
+        */
+        public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceSearchResultSubtitle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearanceSearchResultSubtitle
+        */
+        public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceSearchResultTitle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearanceSearchResultTitle
+        */
+        public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceSmallPopupMenu}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:textAppearanceSmallPopupMenu
+        */
+        public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textColorAlertDialogListItem}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.guchen.Map_launcher:textColorAlertDialogListItem
+        */
+        public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textColorSearchUrl}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.guchen.Map_launcher:textColorSearchUrl
+        */
+        public static final int AppCompatTheme_textColorSearchUrl = 68;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#toolbarNavigationButtonStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:toolbarNavigationButtonStyle
+        */
+        public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#toolbarStyle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:toolbarStyle
+        */
+        public static final int AppCompatTheme_toolbarStyle = 59;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowActionBar}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowActionBar
+        */
+        public static final int AppCompatTheme_windowActionBar = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowActionBarOverlay}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowActionBarOverlay
+        */
+        public static final int AppCompatTheme_windowActionBarOverlay = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowActionModeOverlay}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowActionModeOverlay
+        */
+        public static final int AppCompatTheme_windowActionModeOverlay = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedHeightMajor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowFixedHeightMajor
+        */
+        public static final int AppCompatTheme_windowFixedHeightMajor = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedHeightMinor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowFixedHeightMinor
+        */
+        public static final int AppCompatTheme_windowFixedHeightMinor = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedWidthMajor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowFixedWidthMajor
+        */
+        public static final int AppCompatTheme_windowFixedWidthMajor = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedWidthMinor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowFixedWidthMinor
+        */
+        public static final int AppCompatTheme_windowFixedWidthMinor = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowMinWidthMajor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowMinWidthMajor
+        */
+        public static final int AppCompatTheme_windowMinWidthMajor = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowMinWidthMinor}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowMinWidthMinor
+        */
+        public static final int AppCompatTheme_windowMinWidthMinor = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowNoTitle}
+          attribute's value can be found in the {@link #AppCompatTheme} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:windowNoTitle
+        */
+        public static final int AppCompatTheme_windowNoTitle = 3;
+        /** Attributes that can be used with a BottomNavigationView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.example.guchen.Map_launcher:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.example.guchen.Map_launcher:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.example.guchen.Map_launcher:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.example.guchen.Map_launcher:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.example.guchen.Map_launcher:menu}</code></td><td></td></tr>
+           </table>
+           @see #BottomNavigationView_elevation
+           @see #BottomNavigationView_itemBackground
+           @see #BottomNavigationView_itemIconTint
+           @see #BottomNavigationView_itemTextColor
+           @see #BottomNavigationView_menu
+         */
+        public static final int[] BottomNavigationView = {
+            0x7f01001c, 0x7f0100dd, 0x7f0100de, 0x7f0100df,
+            0x7f0100e0
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#elevation}
+          attribute's value can be found in the {@link #BottomNavigationView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:elevation
+        */
+        public static final int BottomNavigationView_elevation = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemBackground}
+          attribute's value can be found in the {@link #BottomNavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:itemBackground
+        */
+        public static final int BottomNavigationView_itemBackground = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemIconTint}
+          attribute's value can be found in the {@link #BottomNavigationView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:itemIconTint
+        */
+        public static final int BottomNavigationView_itemIconTint = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemTextColor}
+          attribute's value can be found in the {@link #BottomNavigationView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:itemTextColor
+        */
+        public static final int BottomNavigationView_itemTextColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#menu}
+          attribute's value can be found in the {@link #BottomNavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:menu
+        */
+        public static final int BottomNavigationView_menu = 1;
+        /** Attributes that can be used with a BottomSheetBehavior_Layout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.example.guchen.Map_launcher:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.example.guchen.Map_launcher:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.example.guchen.Map_launcher:behavior_skipCollapsed}</code></td><td></td></tr>
+           </table>
+           @see #BottomSheetBehavior_Layout_behavior_hideable
+           @see #BottomSheetBehavior_Layout_behavior_peekHeight
+           @see #BottomSheetBehavior_Layout_behavior_skipCollapsed
+         */
+        public static final int[] BottomSheetBehavior_Layout = {
+            0x7f0100a2, 0x7f0100a3, 0x7f0100a4
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#behavior_hideable}
+          attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:behavior_hideable
+        */
+        public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#behavior_peekHeight}
+          attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto</code></td><td>-1</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:behavior_peekHeight
+        */
+        public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#behavior_skipCollapsed}
+          attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:behavior_skipCollapsed
+        */
+        public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
+        /** Attributes that can be used with a ButtonBarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.guchen.Map_launcher:allowStacking}</code></td><td></td></tr>
+           </table>
+           @see #ButtonBarLayout_allowStacking
+         */
+        public static final int[] ButtonBarLayout = {
+            0x7f0100a5
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#allowStacking}
+          attribute's value can be found in the {@link #ButtonBarLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:allowStacking
+        */
+        public static final int ButtonBarLayout_allowStacking = 0;
+        /** Attributes that can be used with a CollapsingToolbarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.example.guchen.Map_launcher:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.example.guchen.Map_launcher:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.example.guchen.Map_launcher:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.example.guchen.Map_launcher:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.example.guchen.Map_launcher:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.example.guchen.Map_launcher:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.example.guchen.Map_launcher:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.example.guchen.Map_launcher:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.example.guchen.Map_launcher:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.example.guchen.Map_launcher:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.example.guchen.Map_launcher:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.example.guchen.Map_launcher:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.example.guchen.Map_launcher:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.example.guchen.Map_launcher:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.example.guchen.Map_launcher:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.example.guchen.Map_launcher:toolbarId}</code></td><td></td></tr>
+           </table>
+           @see #CollapsingToolbarLayout_collapsedTitleGravity
+           @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
+           @see #CollapsingToolbarLayout_contentScrim
+           @see #CollapsingToolbarLayout_expandedTitleGravity
+           @see #CollapsingToolbarLayout_expandedTitleMargin
+           @see #CollapsingToolbarLayout_expandedTitleMarginBottom
+           @see #CollapsingToolbarLayout_expandedTitleMarginEnd
+           @see #CollapsingToolbarLayout_expandedTitleMarginStart
+           @see #CollapsingToolbarLayout_expandedTitleMarginTop
+           @see #CollapsingToolbarLayout_expandedTitleTextAppearance
+           @see #CollapsingToolbarLayout_scrimAnimationDuration
+           @see #CollapsingToolbarLayout_scrimVisibleHeightTrigger
+           @see #CollapsingToolbarLayout_statusBarScrim
+           @see #CollapsingToolbarLayout_title
+           @see #CollapsingToolbarLayout_titleEnabled
+           @see #CollapsingToolbarLayout_toolbarId
+         */
+        public static final int[] CollapsingToolbarLayout = {
+            0x7f010003, 0x7f0100a6, 0x7f0100a7, 0x7f0100a8,
+            0x7f0100a9, 0x7f0100aa, 0x7f0100ab, 0x7f0100ac,
+            0x7f0100ad, 0x7f0100ae, 0x7f0100af, 0x7f0100b0,
+            0x7f0100b1, 0x7f0100b2, 0x7f0100b3, 0x7f0100b4
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#collapsedTitleGravity}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:collapsedTitleGravity
+        */
+        public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#collapsedTitleTextAppearance}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:collapsedTitleTextAppearance
+        */
+        public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentScrim}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:contentScrim
+        */
+        public static final int CollapsingToolbarLayout_contentScrim = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleGravity}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:expandedTitleGravity
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleMargin}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:expandedTitleMargin
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleMarginBottom}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:expandedTitleMarginBottom
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleMarginEnd}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:expandedTitleMarginEnd
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleMarginStart}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:expandedTitleMarginStart
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleMarginTop}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:expandedTitleMarginTop
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#expandedTitleTextAppearance}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:expandedTitleTextAppearance
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#scrimAnimationDuration}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:scrimAnimationDuration
+        */
+        public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#scrimVisibleHeightTrigger}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:scrimVisibleHeightTrigger
+        */
+        public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#statusBarScrim}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:statusBarScrim
+        */
+        public static final int CollapsingToolbarLayout_statusBarScrim = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#title}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:title
+        */
+        public static final int CollapsingToolbarLayout_title = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleEnabled}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:titleEnabled
+        */
+        public static final int CollapsingToolbarLayout_titleEnabled = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#toolbarId}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:toolbarId
+        */
+        public static final int CollapsingToolbarLayout_toolbarId = 10;
+        /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.example.guchen.Map_launcher:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.example.guchen.Map_launcher:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           </table>
+           @see #CollapsingToolbarLayout_Layout_layout_collapseMode
+           @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
+         */
+        public static final int[] CollapsingToolbarLayout_Layout = {
+            0x7f0100b5, 0x7f0100b6
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_collapseMode}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>pin</code></td><td>1</td><td></td></tr>
+<tr><td><code>parallax</code></td><td>2</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:layout_collapseMode
+        */
+        public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_collapseParallaxMultiplier}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:layout_collapseParallaxMultiplier
+        */
+        public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
+        /** Attributes that can be used with a ColorStateListItem.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.example.guchen.Map_launcher:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
+           </table>
+           @see #ColorStateListItem_alpha
+           @see #ColorStateListItem_android_alpha
+           @see #ColorStateListItem_android_color
+         */
+        public static final int[] ColorStateListItem = {
+            0x010101a5, 0x0101031f, 0x7f0100b7
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alpha}
+          attribute's value can be found in the {@link #ColorStateListItem} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:alpha
+        */
+        public static final int ColorStateListItem_alpha = 2;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#alpha}
+          attribute's value can be found in the {@link #ColorStateListItem} array.
+          @attr name android:alpha
+        */
+        public static final int ColorStateListItem_android_alpha = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#color}
+          attribute's value can be found in the {@link #ColorStateListItem} array.
+          @attr name android:color
+        */
+        public static final int ColorStateListItem_android_color = 0;
+        /** Attributes that can be used with a CompoundButton.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.example.guchen.Map_launcher:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.guchen.Map_launcher:buttonTintMode}</code></td><td></td></tr>
+           </table>
+           @see #CompoundButton_android_button
+           @see #CompoundButton_buttonTint
+           @see #CompoundButton_buttonTintMode
+         */
+        public static final int[] CompoundButton = {
+            0x01010107, 0x7f0100b8, 0x7f0100b9
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#button}
+          attribute's value can be found in the {@link #CompoundButton} array.
+          @attr name android:button
+        */
+        public static final int CompoundButton_android_button = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonTint}
+          attribute's value can be found in the {@link #CompoundButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:buttonTint
+        */
+        public static final int CompoundButton_buttonTint = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonTintMode}
+          attribute's value can be found in the {@link #CompoundButton} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:buttonTintMode
+        */
+        public static final int CompoundButton_buttonTintMode = 2;
+        /** Attributes that can be used with a CoordinatorLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.example.guchen.Map_launcher:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.example.guchen.Map_launcher:statusBarBackground}</code></td><td></td></tr>
+           </table>
+           @see #CoordinatorLayout_keylines
+           @see #CoordinatorLayout_statusBarBackground
+         */
+        public static final int[] CoordinatorLayout = {
+            0x7f0100ba, 0x7f0100bb
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#keylines}
+          attribute's value can be found in the {@link #CoordinatorLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:keylines
+        */
+        public static final int CoordinatorLayout_keylines = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#statusBarBackground}
+          attribute's value can be found in the {@link #CoordinatorLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:statusBarBackground
+        */
+        public static final int CoordinatorLayout_statusBarBackground = 1;
+        /** Attributes that can be used with a CoordinatorLayout_Layout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.example.guchen.Map_launcher:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.example.guchen.Map_launcher:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.example.guchen.Map_launcher:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.example.guchen.Map_launcher:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.example.guchen.Map_launcher:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.example.guchen.Map_launcher:layout_keyline}</code></td><td></td></tr>
+           </table>
+           @see #CoordinatorLayout_Layout_android_layout_gravity
+           @see #CoordinatorLayout_Layout_layout_anchor
+           @see #CoordinatorLayout_Layout_layout_anchorGravity
+           @see #CoordinatorLayout_Layout_layout_behavior
+           @see #CoordinatorLayout_Layout_layout_dodgeInsetEdges
+           @see #CoordinatorLayout_Layout_layout_insetEdge
+           @see #CoordinatorLayout_Layout_layout_keyline
+         */
+        public static final int[] CoordinatorLayout_Layout = {
+            0x010100b3, 0x7f0100bc, 0x7f0100bd, 0x7f0100be,
+            0x7f0100bf, 0x7f0100c0, 0x7f0100c1
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+          @attr name android:layout_gravity
+        */
+        public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_anchor}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:layout_anchor
+        */
+        public static final int CoordinatorLayout_Layout_layout_anchor = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_anchorGravity}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>fill_horizontal</code></td><td>0x07</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>fill</code></td><td>0x77</td><td></td></tr>
+<tr><td><code>clip_vertical</code></td><td>0x80</td><td></td></tr>
+<tr><td><code>clip_horizontal</code></td><td>0x08</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:layout_anchorGravity
+        */
+        public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_behavior}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:layout_behavior
+        */
+        public static final int CoordinatorLayout_Layout_layout_behavior = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_dodgeInsetEdges}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x0</td><td></td></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+<tr><td><code>all</code></td><td>0x77</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:layout_dodgeInsetEdges
+        */
+        public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_insetEdge}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x0</td><td></td></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:layout_insetEdge
+        */
+        public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layout_keyline}
+          attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:layout_keyline
+        */
+        public static final int CoordinatorLayout_Layout_layout_keyline = 3;
+        /** Attributes that can be used with a DesignTheme.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.example.guchen.Map_launcher:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.example.guchen.Map_launcher:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.example.guchen.Map_launcher:textColorError}</code></td><td></td></tr>
+           </table>
+           @see #DesignTheme_bottomSheetDialogTheme
+           @see #DesignTheme_bottomSheetStyle
+           @see #DesignTheme_textColorError
+         */
+        public static final int[] DesignTheme = {
+            0x7f0100c2, 0x7f0100c3, 0x7f0100c4
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#bottomSheetDialogTheme}
+          attribute's value can be found in the {@link #DesignTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:bottomSheetDialogTheme
+        */
+        public static final int DesignTheme_bottomSheetDialogTheme = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#bottomSheetStyle}
+          attribute's value can be found in the {@link #DesignTheme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:bottomSheetStyle
+        */
+        public static final int DesignTheme_bottomSheetStyle = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textColorError}
+          attribute's value can be found in the {@link #DesignTheme} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:textColorError
+        */
+        public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.example.guchen.Map_launcher:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.guchen.Map_launcher:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.guchen.Map_launcher:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.guchen.Map_launcher:barLength}</code></td><td></td></tr>
            <tr><td><code>{@link #DrawerArrowToggle_color com.example.guchen.Map_launcher:color}</code></td><td></td></tr>
            <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.guchen.Map_launcher:drawableSize}</code></td><td></td></tr>
            <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.guchen.Map_launcher:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.example.guchen.Map_launcher:middleBarArrowSize}</code></td><td></td></tr>
            <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.guchen.Map_launcher:spinBars}</code></td><td></td></tr>
            <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.guchen.Map_launcher:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.example.guchen.Map_launcher:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
-           @see #DrawerArrowToggle_barSize
+           @see #DrawerArrowToggle_arrowHeadLength
+           @see #DrawerArrowToggle_arrowShaftLength
+           @see #DrawerArrowToggle_barLength
            @see #DrawerArrowToggle_color
            @see #DrawerArrowToggle_drawableSize
            @see #DrawerArrowToggle_gapBetweenBars
-           @see #DrawerArrowToggle_middleBarArrowSize
            @see #DrawerArrowToggle_spinBars
            @see #DrawerArrowToggle_thickness
-           @see #DrawerArrowToggle_topBottomBarArrowSize
          */
         public static final int[] DrawerArrowToggle = {
-            0x7f010025, 0x7f010026, 0x7f010027, 0x7f010028,
-            0x7f010029, 0x7f01002a, 0x7f01002b, 0x7f01002c
+            0x7f0100c5, 0x7f0100c6, 0x7f0100c7, 0x7f0100c8,
+            0x7f0100c9, 0x7f0100ca, 0x7f0100cb, 0x7f0100cc
         };
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#barSize}
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2706,9 +8178,41 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:barSize
+          @attr name com.example.guchen.Map_launcher:arrowHeadLength
         */
-        public static final int DrawerArrowToggle_barSize = 6;
+        public static final int DrawerArrowToggle_arrowHeadLength = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#arrowShaftLength}
+          attribute's value can be found in the {@link #DrawerArrowToggle} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:arrowShaftLength
+        */
+        public static final int DrawerArrowToggle_arrowShaftLength = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#barLength}
+          attribute's value can be found in the {@link #DrawerArrowToggle} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:barLength
+        */
+        public static final int DrawerArrowToggle_barLength = 6;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2757,22 +8261,6 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#middleBarArrowSize}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:middleBarArrowSize
-        */
-        public static final int DrawerArrowToggle_middleBarArrowSize = 5;
-        /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
@@ -2802,9 +8290,72 @@ containing a value of this type.
           @attr name com.example.guchen.Map_launcher:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
+        /** Attributes that can be used with a FloatingActionButton.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.example.guchen.Map_launcher:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.example.guchen.Map_launcher:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.example.guchen.Map_launcher:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.example.guchen.Map_launcher:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.example.guchen.Map_launcher:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.example.guchen.Map_launcher:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.example.guchen.Map_launcher:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.example.guchen.Map_launcher:useCompatPadding}</code></td><td></td></tr>
+           </table>
+           @see #FloatingActionButton_backgroundTint
+           @see #FloatingActionButton_backgroundTintMode
+           @see #FloatingActionButton_borderWidth
+           @see #FloatingActionButton_elevation
+           @see #FloatingActionButton_fabSize
+           @see #FloatingActionButton_pressedTranslationZ
+           @see #FloatingActionButton_rippleColor
+           @see #FloatingActionButton_useCompatPadding
+         */
+        public static final int[] FloatingActionButton = {
+            0x7f01001c, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf,
+            0x7f0100d0, 0x7f0100d1, 0x7f010138, 0x7f010139
+        };
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#topBottomBarArrowSize}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#backgroundTint}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:backgroundTint
+        */
+        public static final int FloatingActionButton_backgroundTint = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#backgroundTintMode}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:backgroundTintMode
+        */
+        public static final int FloatingActionButton_backgroundTintMode = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#borderWidth}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
@@ -2815,9 +8366,158 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:topBottomBarArrowSize
+          @attr name com.example.guchen.Map_launcher:borderWidth
         */
-        public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
+        public static final int FloatingActionButton_borderWidth = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#elevation}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:elevation
+        */
+        public static final int FloatingActionButton_elevation = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#fabSize}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto</code></td><td>-1</td><td></td></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>mini</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:fabSize
+        */
+        public static final int FloatingActionButton_fabSize = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#pressedTranslationZ}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:pressedTranslationZ
+        */
+        public static final int FloatingActionButton_pressedTranslationZ = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#rippleColor}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:rippleColor
+        */
+        public static final int FloatingActionButton_rippleColor = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#useCompatPadding}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:useCompatPadding
+        */
+        public static final int FloatingActionButton_useCompatPadding = 5;
+        /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.example.guchen.Map_launcher:behavior_autoHide}</code></td><td></td></tr>
+           </table>
+           @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
+         */
+        public static final int[] FloatingActionButton_Behavior_Layout = {
+            0x7f0100d2
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#behavior_autoHide}
+          attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:behavior_autoHide
+        */
+        public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
+        /** Attributes that can be used with a ForegroundLinearLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.example.guchen.Map_launcher:foregroundInsidePadding}</code></td><td></td></tr>
+           </table>
+           @see #ForegroundLinearLayout_android_foreground
+           @see #ForegroundLinearLayout_android_foregroundGravity
+           @see #ForegroundLinearLayout_foregroundInsidePadding
+         */
+        public static final int[] ForegroundLinearLayout = {
+            0x01010109, 0x01010200, 0x7f0100d3
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#foreground}
+          attribute's value can be found in the {@link #ForegroundLinearLayout} array.
+          @attr name android:foreground
+        */
+        public static final int ForegroundLinearLayout_android_foreground = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#foregroundGravity}
+          attribute's value can be found in the {@link #ForegroundLinearLayout} array.
+          @attr name android:foregroundGravity
+        */
+        public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#foregroundInsidePadding}
+          attribute's value can be found in the {@link #ForegroundLinearLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:foregroundInsidePadding
+        */
+        public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -2846,8 +8546,8 @@ containing a value of this type.
          */
         public static final int[] LinearLayoutCompat = {
             0x010100af, 0x010100c4, 0x01010126, 0x01010127,
-            0x01010128, 0x7f01000b, 0x7f01002d, 0x7f01002e,
-            0x7f01002f
+            0x01010128, 0x7f01000b, 0x7f0100d4, 0x7f0100d5,
+            0x7f0100d6
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
@@ -3114,8 +8814,8 @@ containing a value of this type.
             0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
             0x01010194, 0x010101de, 0x010101df, 0x010101e1,
             0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
-            0x0101026f, 0x7f010030, 0x7f010031, 0x7f010032,
-            0x7f010033
+            0x0101026f, 0x7f0100d7, 0x7f0100d8, 0x7f0100d9,
+            0x7f0100da
         };
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionLayout}
@@ -3267,6 +8967,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.guchen.Map_launcher:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.example.guchen.Map_launcher:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -3276,10 +8977,12 @@ containing a value of this type.
            @see #MenuView_android_verticalDivider
            @see #MenuView_android_windowAnimationStyle
            @see #MenuView_preserveIconSpacing
+           @see #MenuView_subMenuArrow
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x7f010034
+            0x0101012f, 0x01010130, 0x01010131, 0x7f0100db,
+            0x7f0100dc
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
@@ -3337,21 +9040,176 @@ containing a value of this type.
           @attr name com.example.guchen.Map_launcher:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#subMenuArrow}
+          attribute's value can be found in the {@link #MenuView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:subMenuArrow
+        */
+        public static final int MenuView_subMenuArrow = 8;
+        /** Attributes that can be used with a NavigationView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.example.guchen.Map_launcher:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.example.guchen.Map_launcher:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.example.guchen.Map_launcher:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.example.guchen.Map_launcher:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.example.guchen.Map_launcher:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.example.guchen.Map_launcher:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.example.guchen.Map_launcher:menu}</code></td><td></td></tr>
+           </table>
+           @see #NavigationView_android_background
+           @see #NavigationView_android_fitsSystemWindows
+           @see #NavigationView_android_maxWidth
+           @see #NavigationView_elevation
+           @see #NavigationView_headerLayout
+           @see #NavigationView_itemBackground
+           @see #NavigationView_itemIconTint
+           @see #NavigationView_itemTextAppearance
+           @see #NavigationView_itemTextColor
+           @see #NavigationView_menu
+         */
+        public static final int[] NavigationView = {
+            0x010100d4, 0x010100dd, 0x0101011f, 0x7f01001c,
+            0x7f0100dd, 0x7f0100de, 0x7f0100df, 0x7f0100e0,
+            0x7f0100e1, 0x7f0100e2
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#background}
+          attribute's value can be found in the {@link #NavigationView} array.
+          @attr name android:background
+        */
+        public static final int NavigationView_android_background = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#fitsSystemWindows}
+          attribute's value can be found in the {@link #NavigationView} array.
+          @attr name android:fitsSystemWindows
+        */
+        public static final int NavigationView_android_fitsSystemWindows = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+          attribute's value can be found in the {@link #NavigationView} array.
+          @attr name android:maxWidth
+        */
+        public static final int NavigationView_android_maxWidth = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#elevation}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:elevation
+        */
+        public static final int NavigationView_elevation = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#headerLayout}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:headerLayout
+        */
+        public static final int NavigationView_headerLayout = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemBackground}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:itemBackground
+        */
+        public static final int NavigationView_itemBackground = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemIconTint}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:itemIconTint
+        */
+        public static final int NavigationView_itemIconTint = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemTextAppearance}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:itemTextAppearance
+        */
+        public static final int NavigationView_itemTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#itemTextColor}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:itemTextColor
+        */
+        public static final int NavigationView_itemTextColor = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#menu}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:menu
+        */
+        public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.guchen.Map_launcher:overlapAnchor}</code></td><td></td></tr>
            </table>
+           @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
          */
         public static final int[] PopupWindow = {
-            0x01010176, 0x7f010035
+            0x01010176, 0x010102c9, 0x7f0100e3
         };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#popupAnimationStyle}
+          attribute's value can be found in the {@link #PopupWindow} array.
+          @attr name android:popupAnimationStyle
+        */
+        public static final int PopupWindow_android_popupAnimationStyle = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
           attribute's value can be found in the {@link #PopupWindow} array.
@@ -3371,7 +9229,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:overlapAnchor
         */
-        public static final int PopupWindow_overlapAnchor = 1;
+        public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
            <p>Includes the following attributes:</p>
            <table>
@@ -3383,7 +9241,7 @@ containing a value of this type.
            @see #PopupWindowBackgroundState_state_above_anchor
          */
         public static final int[] PopupWindowBackgroundState = {
-            0x7f010036
+            0x7f0100e4
         };
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#state_above_anchor}
@@ -3399,6 +9257,199 @@ containing a value of this type.
           @attr name com.example.guchen.Map_launcher:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
+        /** Attributes that can be used with a RecycleListView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.example.guchen.Map_launcher:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.example.guchen.Map_launcher:paddingTopNoTitle}</code></td><td></td></tr>
+           </table>
+           @see #RecycleListView_paddingBottomNoButtons
+           @see #RecycleListView_paddingTopNoTitle
+         */
+        public static final int[] RecycleListView = {
+            0x7f0100e5, 0x7f0100e6
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#paddingBottomNoButtons}
+          attribute's value can be found in the {@link #RecycleListView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:paddingBottomNoButtons
+        */
+        public static final int RecycleListView_paddingBottomNoButtons = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#paddingTopNoTitle}
+          attribute's value can be found in the {@link #RecycleListView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:paddingTopNoTitle
+        */
+        public static final int RecycleListView_paddingTopNoTitle = 1;
+        /** Attributes that can be used with a RecyclerView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.example.guchen.Map_launcher:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.example.guchen.Map_launcher:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.example.guchen.Map_launcher:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.example.guchen.Map_launcher:stackFromEnd}</code></td><td></td></tr>
+           </table>
+           @see #RecyclerView_android_descendantFocusability
+           @see #RecyclerView_android_orientation
+           @see #RecyclerView_layoutManager
+           @see #RecyclerView_reverseLayout
+           @see #RecyclerView_spanCount
+           @see #RecyclerView_stackFromEnd
+         */
+        public static final int[] RecyclerView = {
+            0x010100c4, 0x010100f1, 0x7f0100e7, 0x7f0100e8,
+            0x7f0100e9, 0x7f0100ea
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#descendantFocusability}
+          attribute's value can be found in the {@link #RecyclerView} array.
+          @attr name android:descendantFocusability
+        */
+        public static final int RecyclerView_android_descendantFocusability = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#orientation}
+          attribute's value can be found in the {@link #RecyclerView} array.
+          @attr name android:orientation
+        */
+        public static final int RecyclerView_android_orientation = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#layoutManager}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:layoutManager
+        */
+        public static final int RecyclerView_layoutManager = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#reverseLayout}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:reverseLayout
+        */
+        public static final int RecyclerView_reverseLayout = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spanCount}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:spanCount
+        */
+        public static final int RecyclerView_spanCount = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#stackFromEnd}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:stackFromEnd
+        */
+        public static final int RecyclerView_stackFromEnd = 5;
+        /** Attributes that can be used with a ScrimInsetsFrameLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.example.guchen.Map_launcher:insetForeground}</code></td><td></td></tr>
+           </table>
+           @see #ScrimInsetsFrameLayout_insetForeground
+         */
+        public static final int[] ScrimInsetsFrameLayout = {
+            0x7f0100eb
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#insetForeground}
+          attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.guchen.Map_launcher:insetForeground
+        */
+        public static final int ScrimInsetsFrameLayout_insetForeground = 0;
+        /** Attributes that can be used with a ScrollingViewBehavior_Layout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.example.guchen.Map_launcher:behavior_overlapTop}</code></td><td></td></tr>
+           </table>
+           @see #ScrollingViewBehavior_Layout_behavior_overlapTop
+         */
+        public static final int[] ScrollingViewBehavior_Layout = {
+            0x7f0100ec
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#behavior_overlapTop}
+          attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:behavior_overlapTop
+        */
+        public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
            <p>Includes the following attributes:</p>
            <table>
@@ -3411,6 +9462,7 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_closeIcon com.example.guchen.Map_launcher:closeIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_commitIcon com.example.guchen.Map_launcher:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.example.guchen.Map_launcher:defaultQueryHint}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_goIcon com.example.guchen.Map_launcher:goIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.guchen.Map_launcher:iconifiedByDefault}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_layout com.example.guchen.Map_launcher:layout}</code></td><td></td></tr>
@@ -3428,6 +9480,7 @@ containing a value of this type.
            @see #SearchView_android_maxWidth
            @see #SearchView_closeIcon
            @see #SearchView_commitIcon
+           @see #SearchView_defaultQueryHint
            @see #SearchView_goIcon
            @see #SearchView_iconifiedByDefault
            @see #SearchView_layout
@@ -3441,9 +9494,10 @@ containing a value of this type.
          */
         public static final int[] SearchView = {
             0x010100da, 0x0101011f, 0x01010220, 0x01010264,
-            0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a,
-            0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e,
-            0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042
+            0x7f0100ed, 0x7f0100ee, 0x7f0100ef, 0x7f0100f0,
+            0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4,
+            0x7f0100f5, 0x7f0100f6, 0x7f0100f7, 0x7f0100f8,
+            0x7f0100f9
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -3478,7 +9532,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:closeIcon
         */
-        public static final int SearchView_closeIcon = 7;
+        public static final int SearchView_closeIcon = 8;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3488,7 +9542,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:commitIcon
         */
-        public static final int SearchView_commitIcon = 12;
+        public static final int SearchView_commitIcon = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#defaultQueryHint}
+          attribute's value can be found in the {@link #SearchView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:defaultQueryHint
+        */
+        public static final int SearchView_defaultQueryHint = 7;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3498,7 +9566,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:goIcon
         */
-        public static final int SearchView_goIcon = 8;
+        public static final int SearchView_goIcon = 9;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3532,7 +9600,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:queryBackground
         */
-        public static final int SearchView_queryBackground = 14;
+        public static final int SearchView_queryBackground = 15;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3556,7 +9624,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:searchHintIcon
         */
-        public static final int SearchView_searchHintIcon = 10;
+        public static final int SearchView_searchHintIcon = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3566,7 +9634,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:searchIcon
         */
-        public static final int SearchView_searchIcon = 9;
+        public static final int SearchView_searchIcon = 10;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3576,7 +9644,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:submitBackground
         */
-        public static final int SearchView_submitBackground = 15;
+        public static final int SearchView_submitBackground = 16;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3586,7 +9654,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:suggestionRowLayout
         */
-        public static final int SearchView_suggestionRowLayout = 13;
+        public static final int SearchView_suggestionRowLayout = 14;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3596,135 +9664,118 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:voiceIcon
         */
-        public static final int SearchView_voiceIcon = 11;
+        public static final int SearchView_voiceIcon = 12;
+        /** Attributes that can be used with a SnackbarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.example.guchen.Map_launcher:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.example.guchen.Map_launcher:maxActionInlineWidth}</code></td><td></td></tr>
+           </table>
+           @see #SnackbarLayout_android_maxWidth
+           @see #SnackbarLayout_elevation
+           @see #SnackbarLayout_maxActionInlineWidth
+         */
+        public static final int[] SnackbarLayout = {
+            0x0101011f, 0x7f01001c, 0x7f0100fa
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+          attribute's value can be found in the {@link #SnackbarLayout} array.
+          @attr name android:maxWidth
+        */
+        public static final int SnackbarLayout_android_maxWidth = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#elevation}
+          attribute's value can be found in the {@link #SnackbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:elevation
+        */
+        public static final int SnackbarLayout_elevation = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#maxActionInlineWidth}
+          attribute's value can be found in the {@link #SnackbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:maxActionInlineWidth
+        */
+        public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Spinner_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_android_dropDownHorizontalOffset android:dropDownHorizontalOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_android_dropDownSelector android:dropDownSelector}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_android_dropDownVerticalOffset android:dropDownVerticalOffset}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.example.guchen.Map_launcher:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.example.guchen.Map_launcher:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.example.guchen.Map_launcher:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.example.guchen.Map_launcher:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.example.guchen.Map_launcher:popupTheme}</code></td><td></td></tr>
            </table>
-           @see #Spinner_android_background
-           @see #Spinner_android_dropDownHorizontalOffset
-           @see #Spinner_android_dropDownSelector
-           @see #Spinner_android_dropDownVerticalOffset
            @see #Spinner_android_dropDownWidth
-           @see #Spinner_android_gravity
+           @see #Spinner_android_entries
            @see #Spinner_android_popupBackground
-           @see #Spinner_disableChildrenWhenDisabled
-           @see #Spinner_popupPromptView
-           @see #Spinner_prompt
-           @see #Spinner_spinnerMode
+           @see #Spinner_android_prompt
+           @see #Spinner_popupTheme
          */
         public static final int[] Spinner = {
-            0x010100af, 0x010100d4, 0x01010175, 0x01010176,
-            0x01010262, 0x010102ac, 0x010102ad, 0x7f010043,
-            0x7f010044, 0x7f010045, 0x7f010046
+            0x010100b2, 0x01010176, 0x0101017b, 0x01010262,
+            0x7f01001d
         };
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#background}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:background
-        */
-        public static final int Spinner_android_background = 1;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:dropDownHorizontalOffset
-        */
-        public static final int Spinner_android_dropDownHorizontalOffset = 5;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#dropDownSelector}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:dropDownSelector
-        */
-        public static final int Spinner_android_dropDownSelector = 2;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:dropDownVerticalOffset
-        */
-        public static final int Spinner_android_dropDownVerticalOffset = 6;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownWidth
         */
-        public static final int Spinner_android_dropDownWidth = 4;
+        public static final int Spinner_android_dropDownWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#gravity}
+          <p>This symbol is the offset where the {@link android.R.attr#entries}
           attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:gravity
+          @attr name android:entries
         */
-        public static final int Spinner_android_gravity = 0;
+        public static final int Spinner_android_entries = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:popupBackground
         */
-        public static final int Spinner_android_popupBackground = 3;
+        public static final int Spinner_android_popupBackground = 1;
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link android.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:disableChildrenWhenDisabled
+          @attr name android:prompt
         */
-        public static final int Spinner_disableChildrenWhenDisabled = 10;
+        public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:popupPromptView
+          @attr name com.example.guchen.Map_launcher:popupTheme
         */
-        public static final int Spinner_popupPromptView = 9;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#prompt}
-          attribute's value can be found in the {@link #Spinner} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:prompt
-        */
-        public static final int Spinner_prompt = 7;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spinnerMode}
-          attribute's value can be found in the {@link #Spinner} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>dialog</code></td><td>0</td><td></td></tr>
-<tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
-</table>
-          @attr name com.example.guchen.Map_launcher:spinnerMode
-        */
-        public static final int Spinner_spinnerMode = 8;
+        public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -3740,7 +9791,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_switchPadding com.example.guchen.Map_launcher:switchPadding}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.guchen.Map_launcher:switchTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.guchen.Map_launcher:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.example.guchen.Map_launcher:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.guchen.Map_launcher:thumbTintMode}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_track com.example.guchen.Map_launcher:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.example.guchen.Map_launcher:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.guchen.Map_launcher:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3751,12 +9806,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #SwitchCompat_switchPadding
            @see #SwitchCompat_switchTextAppearance
            @see #SwitchCompat_thumbTextPadding
+           @see #SwitchCompat_thumbTint
+           @see #SwitchCompat_thumbTintMode
            @see #SwitchCompat_track
+           @see #SwitchCompat_trackTint
+           @see #SwitchCompat_trackTintMode
          */
         public static final int[] SwitchCompat = {
-            0x01010124, 0x01010125, 0x01010142, 0x7f010047,
-            0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b,
-            0x7f01004c, 0x7f01004d
+            0x01010124, 0x01010125, 0x01010142, 0x7f0100fb,
+            0x7f0100fc, 0x7f0100fd, 0x7f0100fe, 0x7f0100ff,
+            0x7f010100, 0x7f010101, 0x7f010102, 0x7f010103,
+            0x7f010104, 0x7f010105
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textOff}
@@ -3789,7 +9849,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:showText
         */
-        public static final int SwitchCompat_showText = 9;
+        public static final int SwitchCompat_showText = 13;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3803,7 +9863,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:splitTrack
         */
-        public static final int SwitchCompat_splitTrack = 8;
+        public static final int SwitchCompat_splitTrack = 12;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3819,7 +9879,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:switchMinWidth
         */
-        public static final int SwitchCompat_switchMinWidth = 6;
+        public static final int SwitchCompat_switchMinWidth = 10;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3835,7 +9895,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:switchPadding
         */
-        public static final int SwitchCompat_switchPadding = 7;
+        public static final int SwitchCompat_switchPadding = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3845,7 +9905,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:switchTextAppearance
         */
-        public static final int SwitchCompat_switchTextAppearance = 5;
+        public static final int SwitchCompat_switchTextAppearance = 9;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3861,7 +9921,43 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:thumbTextPadding
         */
-        public static final int SwitchCompat_thumbTextPadding = 4;
+        public static final int SwitchCompat_thumbTextPadding = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#thumbTint}
+          attribute's value can be found in the {@link #SwitchCompat} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:thumbTint
+        */
+        public static final int SwitchCompat_thumbTint = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#thumbTintMode}
+          attribute's value can be found in the {@link #SwitchCompat} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>add</code></td><td>16</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:thumbTintMode
+        */
+        public static final int SwitchCompat_thumbTintMode = 4;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3871,20 +9967,390 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:track
         */
-        public static final int SwitchCompat_track = 3;
+        public static final int SwitchCompat_track = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#trackTint}
+          attribute's value can be found in the {@link #SwitchCompat} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:trackTint
+        */
+        public static final int SwitchCompat_trackTint = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#trackTintMode}
+          attribute's value can be found in the {@link #SwitchCompat} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>add</code></td><td>16</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:trackTintMode
+        */
+        public static final int SwitchCompat_trackTintMode = 7;
+        /** Attributes that can be used with a TabItem.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TabItem_android_icon android:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabItem_android_layout android:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabItem_android_text android:text}</code></td><td></td></tr>
+           </table>
+           @see #TabItem_android_icon
+           @see #TabItem_android_layout
+           @see #TabItem_android_text
+         */
+        public static final int[] TabItem = {
+            0x01010002, 0x010100f2, 0x0101014f
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#icon}
+          attribute's value can be found in the {@link #TabItem} array.
+          @attr name android:icon
+        */
+        public static final int TabItem_android_icon = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#layout}
+          attribute's value can be found in the {@link #TabItem} array.
+          @attr name android:layout
+        */
+        public static final int TabItem_android_layout = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#text}
+          attribute's value can be found in the {@link #TabItem} array.
+          @attr name android:text
+        */
+        public static final int TabItem_android_text = 2;
+        /** Attributes that can be used with a TabLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.example.guchen.Map_launcher:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.example.guchen.Map_launcher:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.example.guchen.Map_launcher:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.example.guchen.Map_launcher:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.example.guchen.Map_launcher:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.example.guchen.Map_launcher:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.example.guchen.Map_launcher:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.example.guchen.Map_launcher:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.example.guchen.Map_launcher:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.example.guchen.Map_launcher:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.example.guchen.Map_launcher:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.example.guchen.Map_launcher:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.example.guchen.Map_launcher:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.example.guchen.Map_launcher:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.example.guchen.Map_launcher:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.example.guchen.Map_launcher:tabTextColor}</code></td><td></td></tr>
+           </table>
+           @see #TabLayout_tabBackground
+           @see #TabLayout_tabContentStart
+           @see #TabLayout_tabGravity
+           @see #TabLayout_tabIndicatorColor
+           @see #TabLayout_tabIndicatorHeight
+           @see #TabLayout_tabMaxWidth
+           @see #TabLayout_tabMinWidth
+           @see #TabLayout_tabMode
+           @see #TabLayout_tabPadding
+           @see #TabLayout_tabPaddingBottom
+           @see #TabLayout_tabPaddingEnd
+           @see #TabLayout_tabPaddingStart
+           @see #TabLayout_tabPaddingTop
+           @see #TabLayout_tabSelectedTextColor
+           @see #TabLayout_tabTextAppearance
+           @see #TabLayout_tabTextColor
+         */
+        public static final int[] TabLayout = {
+            0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109,
+            0x7f01010a, 0x7f01010b, 0x7f01010c, 0x7f01010d,
+            0x7f01010e, 0x7f01010f, 0x7f010110, 0x7f010111,
+            0x7f010112, 0x7f010113, 0x7f010114, 0x7f010115
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabBackground}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:tabBackground
+        */
+        public static final int TabLayout_tabBackground = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabContentStart}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabContentStart
+        */
+        public static final int TabLayout_tabContentStart = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabGravity}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>fill</code></td><td>0</td><td></td></tr>
+<tr><td><code>center</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:tabGravity
+        */
+        public static final int TabLayout_tabGravity = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabIndicatorColor}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabIndicatorColor
+        */
+        public static final int TabLayout_tabIndicatorColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabIndicatorHeight}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabIndicatorHeight
+        */
+        public static final int TabLayout_tabIndicatorHeight = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabMaxWidth}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabMaxWidth
+        */
+        public static final int TabLayout_tabMaxWidth = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabMinWidth}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabMinWidth
+        */
+        public static final int TabLayout_tabMinWidth = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabMode}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
+<tr><td><code>fixed</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:tabMode
+        */
+        public static final int TabLayout_tabMode = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabPadding}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabPadding
+        */
+        public static final int TabLayout_tabPadding = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabPaddingBottom}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabPaddingBottom
+        */
+        public static final int TabLayout_tabPaddingBottom = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabPaddingEnd}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabPaddingEnd
+        */
+        public static final int TabLayout_tabPaddingEnd = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabPaddingStart}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabPaddingStart
+        */
+        public static final int TabLayout_tabPaddingStart = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabPaddingTop}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabPaddingTop
+        */
+        public static final int TabLayout_tabPaddingTop = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabSelectedTextColor}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabSelectedTextColor
+        */
+        public static final int TabLayout_tabSelectedTextColor = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabTextAppearance}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:tabTextAppearance
+        */
+        public static final int TabLayout_tabTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#tabTextColor}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:tabTextColor
+        */
+        public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TextAppearance_android_shadowColor android:shadowColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_android_shadowDx android:shadowDx}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textColor android:textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_android_textColorHint android:textColorHint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_textAllCaps com.example.guchen.Map_launcher:textAllCaps}</code></td><td></td></tr>
            </table>
+           @see #TextAppearance_android_shadowColor
+           @see #TextAppearance_android_shadowDx
+           @see #TextAppearance_android_shadowDy
+           @see #TextAppearance_android_shadowRadius
            @see #TextAppearance_android_textColor
+           @see #TextAppearance_android_textColorHint
            @see #TextAppearance_android_textSize
            @see #TextAppearance_android_textStyle
            @see #TextAppearance_android_typeface
@@ -3892,14 +10358,45 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
          */
         public static final int[] TextAppearance = {
             0x01010095, 0x01010096, 0x01010097, 0x01010098,
-            0x7f010024
+            0x0101009a, 0x01010161, 0x01010162, 0x01010163,
+            0x01010164, 0x7f010030
         };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
+          attribute's value can be found in the {@link #TextAppearance} array.
+          @attr name android:shadowColor
+        */
+        public static final int TextAppearance_android_shadowColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#shadowDx}
+          attribute's value can be found in the {@link #TextAppearance} array.
+          @attr name android:shadowDx
+        */
+        public static final int TextAppearance_android_shadowDx = 6;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#shadowDy}
+          attribute's value can be found in the {@link #TextAppearance} array.
+          @attr name android:shadowDy
+        */
+        public static final int TextAppearance_android_shadowDy = 7;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#shadowRadius}
+          attribute's value can be found in the {@link #TextAppearance} array.
+          @attr name android:shadowRadius
+        */
+        public static final int TextAppearance_android_shadowRadius = 8;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textColor}
           attribute's value can be found in the {@link #TextAppearance} array.
           @attr name android:textColor
         */
         public static final int TextAppearance_android_textColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#textColorHint}
+          attribute's value can be found in the {@link #TextAppearance} array.
+          @attr name android:textColorHint
+        */
+        public static final int TextAppearance_android_textColorHint = 4;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textSize}
           attribute's value can be found in the {@link #TextAppearance} array.
@@ -3928,1492 +10425,248 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           @attr name com.example.guchen.Map_launcher:textAllCaps
         */
-        public static final int TextAppearance_textAllCaps = 4;
-        /** Attributes that can be used with a Theme.
+        public static final int TextAppearance_textAllCaps = 9;
+        /** Attributes that can be used with a TextInputLayout.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.example.guchen.Map_launcher:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.example.guchen.Map_launcher:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.example.guchen.Map_launcher:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.example.guchen.Map_launcher:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.example.guchen.Map_launcher:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.example.guchen.Map_launcher:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.example.guchen.Map_launcher:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.example.guchen.Map_launcher:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.example.guchen.Map_launcher:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.example.guchen.Map_launcher:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.example.guchen.Map_launcher:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.example.guchen.Map_launcher:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.example.guchen.Map_launcher:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.example.guchen.Map_launcher:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.example.guchen.Map_launcher:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.example.guchen.Map_launcher:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.example.guchen.Map_launcher:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.example.guchen.Map_launcher:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.example.guchen.Map_launcher:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.example.guchen.Map_launcher:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.example.guchen.Map_launcher:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.example.guchen.Map_launcher:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.example.guchen.Map_launcher:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.example.guchen.Map_launcher:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.example.guchen.Map_launcher:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.example.guchen.Map_launcher:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.example.guchen.Map_launcher:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.example.guchen.Map_launcher:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.example.guchen.Map_launcher:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.example.guchen.Map_launcher:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.example.guchen.Map_launcher:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.example.guchen.Map_launcher:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.example.guchen.Map_launcher:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.example.guchen.Map_launcher:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.example.guchen.Map_launcher:alertDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.example.guchen.Map_launcher:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.example.guchen.Map_launcher:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.example.guchen.Map_launcher:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.example.guchen.Map_launcher:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.example.guchen.Map_launcher:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.example.guchen.Map_launcher:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.example.guchen.Map_launcher:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.example.guchen.Map_launcher:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.example.guchen.Map_launcher:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.example.guchen.Map_launcher:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.example.guchen.Map_launcher:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.example.guchen.Map_launcher:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.example.guchen.Map_launcher:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.example.guchen.Map_launcher:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.example.guchen.Map_launcher:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.example.guchen.Map_launcher:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.example.guchen.Map_launcher:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.example.guchen.Map_launcher:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.example.guchen.Map_launcher:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.example.guchen.Map_launcher:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.example.guchen.Map_launcher:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.example.guchen.Map_launcher:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.example.guchen.Map_launcher:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.example.guchen.Map_launcher:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.example.guchen.Map_launcher:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.example.guchen.Map_launcher:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.example.guchen.Map_launcher:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.example.guchen.Map_launcher:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.example.guchen.Map_launcher:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.example.guchen.Map_launcher:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.example.guchen.Map_launcher:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.example.guchen.Map_launcher:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.example.guchen.Map_launcher:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.example.guchen.Map_launcher:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.example.guchen.Map_launcher:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.example.guchen.Map_launcher:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.example.guchen.Map_launcher:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.example.guchen.Map_launcher:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.example.guchen.Map_launcher:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.example.guchen.Map_launcher:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.example.guchen.Map_launcher:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.example.guchen.Map_launcher:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.example.guchen.Map_launcher:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.example.guchen.Map_launcher:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.example.guchen.Map_launcher:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.example.guchen.Map_launcher:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.example.guchen.Map_launcher:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.example.guchen.Map_launcher:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.example.guchen.Map_launcher:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.example.guchen.Map_launcher:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.example.guchen.Map_launcher:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.example.guchen.Map_launcher:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.example.guchen.Map_launcher:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.example.guchen.Map_launcher:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.example.guchen.Map_launcher:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.example.guchen.Map_launcher:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.example.guchen.Map_launcher:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.example.guchen.Map_launcher:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.example.guchen.Map_launcher:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.example.guchen.Map_launcher:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.example.guchen.Map_launcher:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.example.guchen.Map_launcher:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.example.guchen.Map_launcher:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.example.guchen.Map_launcher:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.example.guchen.Map_launcher:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.example.guchen.Map_launcher:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.example.guchen.Map_launcher:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.example.guchen.Map_launcher:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.example.guchen.Map_launcher:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.example.guchen.Map_launcher:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.example.guchen.Map_launcher:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.example.guchen.Map_launcher:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.example.guchen.Map_launcher:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.example.guchen.Map_launcher:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.example.guchen.Map_launcher:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.example.guchen.Map_launcher:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.example.guchen.Map_launcher:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.example.guchen.Map_launcher:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.example.guchen.Map_launcher:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.example.guchen.Map_launcher:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.example.guchen.Map_launcher:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.example.guchen.Map_launcher:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.example.guchen.Map_launcher:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
-           @see #Theme_actionBarDivider
-           @see #Theme_actionBarItemBackground
-           @see #Theme_actionBarPopupTheme
-           @see #Theme_actionBarSize
-           @see #Theme_actionBarSplitStyle
-           @see #Theme_actionBarStyle
-           @see #Theme_actionBarTabBarStyle
-           @see #Theme_actionBarTabStyle
-           @see #Theme_actionBarTabTextStyle
-           @see #Theme_actionBarTheme
-           @see #Theme_actionBarWidgetTheme
-           @see #Theme_actionButtonStyle
-           @see #Theme_actionDropDownStyle
-           @see #Theme_actionMenuTextAppearance
-           @see #Theme_actionMenuTextColor
-           @see #Theme_actionModeBackground
-           @see #Theme_actionModeCloseButtonStyle
-           @see #Theme_actionModeCloseDrawable
-           @see #Theme_actionModeCopyDrawable
-           @see #Theme_actionModeCutDrawable
-           @see #Theme_actionModeFindDrawable
-           @see #Theme_actionModePasteDrawable
-           @see #Theme_actionModePopupWindowStyle
-           @see #Theme_actionModeSelectAllDrawable
-           @see #Theme_actionModeShareDrawable
-           @see #Theme_actionModeSplitBackground
-           @see #Theme_actionModeStyle
-           @see #Theme_actionModeWebSearchDrawable
-           @see #Theme_actionOverflowButtonStyle
-           @see #Theme_actionOverflowMenuStyle
-           @see #Theme_activityChooserViewStyle
-           @see #Theme_alertDialogButtonGroupStyle
-           @see #Theme_alertDialogCenterButtons
-           @see #Theme_alertDialogStyle
-           @see #Theme_alertDialogTheme
-           @see #Theme_android_windowAnimationStyle
-           @see #Theme_android_windowIsFloating
-           @see #Theme_autoCompleteTextViewStyle
-           @see #Theme_buttonBarButtonStyle
-           @see #Theme_buttonBarNegativeButtonStyle
-           @see #Theme_buttonBarNeutralButtonStyle
-           @see #Theme_buttonBarPositiveButtonStyle
-           @see #Theme_buttonBarStyle
-           @see #Theme_buttonStyle
-           @see #Theme_buttonStyleSmall
-           @see #Theme_checkboxStyle
-           @see #Theme_checkedTextViewStyle
-           @see #Theme_colorAccent
-           @see #Theme_colorButtonNormal
-           @see #Theme_colorControlActivated
-           @see #Theme_colorControlHighlight
-           @see #Theme_colorControlNormal
-           @see #Theme_colorPrimary
-           @see #Theme_colorPrimaryDark
-           @see #Theme_colorSwitchThumbNormal
-           @see #Theme_dialogPreferredPadding
-           @see #Theme_dialogTheme
-           @see #Theme_dividerHorizontal
-           @see #Theme_dividerVertical
-           @see #Theme_dropDownListViewStyle
-           @see #Theme_dropdownListPreferredItemHeight
-           @see #Theme_editTextBackground
-           @see #Theme_editTextColor
-           @see #Theme_editTextStyle
-           @see #Theme_homeAsUpIndicator
-           @see #Theme_listChoiceBackgroundIndicator
-           @see #Theme_listDividerAlertDialog
-           @see #Theme_listPopupWindowStyle
-           @see #Theme_listPreferredItemHeight
-           @see #Theme_listPreferredItemHeightLarge
-           @see #Theme_listPreferredItemHeightSmall
-           @see #Theme_listPreferredItemPaddingLeft
-           @see #Theme_listPreferredItemPaddingRight
-           @see #Theme_panelBackground
-           @see #Theme_panelMenuListTheme
-           @see #Theme_panelMenuListWidth
-           @see #Theme_popupMenuStyle
-           @see #Theme_popupWindowStyle
-           @see #Theme_radioButtonStyle
-           @see #Theme_ratingBarStyle
-           @see #Theme_searchViewStyle
-           @see #Theme_selectableItemBackground
-           @see #Theme_selectableItemBackgroundBorderless
-           @see #Theme_spinnerDropDownItemStyle
-           @see #Theme_spinnerStyle
-           @see #Theme_switchStyle
-           @see #Theme_textAppearanceLargePopupMenu
-           @see #Theme_textAppearanceListItem
-           @see #Theme_textAppearanceListItemSmall
-           @see #Theme_textAppearanceSearchResultSubtitle
-           @see #Theme_textAppearanceSearchResultTitle
-           @see #Theme_textAppearanceSmallPopupMenu
-           @see #Theme_textColorAlertDialogListItem
-           @see #Theme_textColorSearchUrl
-           @see #Theme_toolbarNavigationButtonStyle
-           @see #Theme_toolbarStyle
-           @see #Theme_windowActionBar
-           @see #Theme_windowActionBarOverlay
-           @see #Theme_windowActionModeOverlay
-           @see #Theme_windowFixedHeightMajor
-           @see #Theme_windowFixedHeightMinor
-           @see #Theme_windowFixedWidthMajor
-           @see #Theme_windowFixedWidthMinor
-           @see #Theme_windowMinWidthMajor
-           @see #Theme_windowMinWidthMinor
-           @see #Theme_windowNoTitle
+           @see #TextInputLayout_android_hint
+           @see #TextInputLayout_android_textColorHint
+           @see #TextInputLayout_counterEnabled
+           @see #TextInputLayout_counterMaxLength
+           @see #TextInputLayout_counterOverflowTextAppearance
+           @see #TextInputLayout_counterTextAppearance
+           @see #TextInputLayout_errorEnabled
+           @see #TextInputLayout_errorTextAppearance
+           @see #TextInputLayout_hintAnimationEnabled
+           @see #TextInputLayout_hintEnabled
+           @see #TextInputLayout_hintTextAppearance
+           @see #TextInputLayout_passwordToggleContentDescription
+           @see #TextInputLayout_passwordToggleDrawable
+           @see #TextInputLayout_passwordToggleEnabled
+           @see #TextInputLayout_passwordToggleTint
+           @see #TextInputLayout_passwordToggleTintMode
          */
-        public static final int[] Theme = {
-            0x01010057, 0x010100ae, 0x7f01004e, 0x7f01004f,
-            0x7f010050, 0x7f010051, 0x7f010052, 0x7f010053,
-            0x7f010054, 0x7f010055, 0x7f010056, 0x7f010057,
-            0x7f010058, 0x7f010059, 0x7f01005a, 0x7f01005b,
-            0x7f01005c, 0x7f01005d, 0x7f01005e, 0x7f01005f,
-            0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063,
-            0x7f010064, 0x7f010065, 0x7f010066, 0x7f010067,
-            0x7f010068, 0x7f010069, 0x7f01006a, 0x7f01006b,
-            0x7f01006c, 0x7f01006d, 0x7f01006e, 0x7f01006f,
-            0x7f010070, 0x7f010071, 0x7f010072, 0x7f010073,
-            0x7f010074, 0x7f010075, 0x7f010076, 0x7f010077,
-            0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b,
-            0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f,
-            0x7f010080, 0x7f010081, 0x7f010082, 0x7f010083,
-            0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087,
-            0x7f010088, 0x7f010089, 0x7f01008a, 0x7f01008b,
-            0x7f01008c, 0x7f01008d, 0x7f01008e, 0x7f01008f,
-            0x7f010090, 0x7f010091, 0x7f010092, 0x7f010093,
-            0x7f010094, 0x7f010095, 0x7f010096, 0x7f010097,
-            0x7f010098, 0x7f010099, 0x7f01009a, 0x7f01009b,
-            0x7f01009c, 0x7f01009d, 0x7f01009e, 0x7f01009f,
-            0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3,
-            0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7,
-            0x7f0100a8, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab,
-            0x7f0100ac, 0x7f0100ad, 0x7f0100ae, 0x7f0100af,
-            0x7f0100b0, 0x7f0100b1, 0x7f0100b2, 0x7f0100b3,
-            0x7f0100b4, 0x7f0100b5
+        public static final int[] TextInputLayout = {
+            0x0101009a, 0x01010150, 0x7f010116, 0x7f010117,
+            0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b,
+            0x7f01011c, 0x7f01011d, 0x7f01011e, 0x7f01011f,
+            0x7f010120, 0x7f010121, 0x7f010122, 0x7f010123
         };
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarDivider}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarDivider
+          <p>This symbol is the offset where the {@link android.R.attr#hint}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+          @attr name android:hint
         */
-        public static final int Theme_actionBarDivider = 23;
+        public static final int TextInputLayout_android_hint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarItemBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarItemBackground
+          <p>This symbol is the offset where the {@link android.R.attr#textColorHint}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+          @attr name android:textColorHint
         */
-        public static final int Theme_actionBarItemBackground = 24;
+        public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarPopupTheme}
-          attribute's value can be found in the {@link #Theme} array.
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#counterEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
 
 
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarPopupTheme
-        */
-        public static final int Theme_actionBarPopupTheme = 17;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarSize}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-<p>May be one of the following constant values.</p>
+          @attr name com.example.guchen.Map_launcher:counterEnabled
+        */
+        public static final int TextInputLayout_counterEnabled = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#counterMaxLength}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:counterMaxLength
+        */
+        public static final int TextInputLayout_counterMaxLength = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#counterOverflowTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:counterOverflowTextAppearance
+        */
+        public static final int TextInputLayout_counterOverflowTextAppearance = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#counterTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:counterTextAppearance
+        */
+        public static final int TextInputLayout_counterTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#errorEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:errorEnabled
+        */
+        public static final int TextInputLayout_errorEnabled = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#errorTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:errorTextAppearance
+        */
+        public static final int TextInputLayout_errorTextAppearance = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#hintAnimationEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:hintAnimationEnabled
+        */
+        public static final int TextInputLayout_hintAnimationEnabled = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#hintEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:hintEnabled
+        */
+        public static final int TextInputLayout_hintEnabled = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#hintTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:hintTextAppearance
+        */
+        public static final int TextInputLayout_hintTextAppearance = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#passwordToggleContentDescription}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:passwordToggleContentDescription
+        */
+        public static final int TextInputLayout_passwordToggleContentDescription = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#passwordToggleDrawable}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:passwordToggleDrawable
+        */
+        public static final int TextInputLayout_passwordToggleDrawable = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#passwordToggleEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:passwordToggleEnabled
+        */
+        public static final int TextInputLayout_passwordToggleEnabled = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#passwordToggleTint}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:passwordToggleTint
+        */
+        public static final int TextInputLayout_passwordToggleTint = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#passwordToggleTintMode}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
 <colgroup align="left" />
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.example.guchen.Map_launcher:actionBarSize
+          @attr name com.example.guchen.Map_launcher:passwordToggleTintMode
         */
-        public static final int Theme_actionBarSize = 22;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarSplitStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarSplitStyle
-        */
-        public static final int Theme_actionBarSplitStyle = 19;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarStyle
-        */
-        public static final int Theme_actionBarStyle = 18;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTabBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarTabBarStyle
-        */
-        public static final int Theme_actionBarTabBarStyle = 13;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTabStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarTabStyle
-        */
-        public static final int Theme_actionBarTabStyle = 12;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTabTextStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarTabTextStyle
-        */
-        public static final int Theme_actionBarTabTextStyle = 14;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarTheme
-        */
-        public static final int Theme_actionBarTheme = 20;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionBarWidgetTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionBarWidgetTheme
-        */
-        public static final int Theme_actionBarWidgetTheme = 21;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionButtonStyle
-        */
-        public static final int Theme_actionButtonStyle = 49;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionDropDownStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionDropDownStyle
-        */
-        public static final int Theme_actionDropDownStyle = 45;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionMenuTextAppearance}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionMenuTextAppearance
-        */
-        public static final int Theme_actionMenuTextAppearance = 25;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionMenuTextColor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionMenuTextColor
-        */
-        public static final int Theme_actionMenuTextColor = 26;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeBackground
-        */
-        public static final int Theme_actionModeBackground = 29;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCloseButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeCloseButtonStyle
-        */
-        public static final int Theme_actionModeCloseButtonStyle = 28;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCloseDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeCloseDrawable
-        */
-        public static final int Theme_actionModeCloseDrawable = 31;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCopyDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeCopyDrawable
-        */
-        public static final int Theme_actionModeCopyDrawable = 33;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeCutDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeCutDrawable
-        */
-        public static final int Theme_actionModeCutDrawable = 32;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeFindDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeFindDrawable
-        */
-        public static final int Theme_actionModeFindDrawable = 37;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModePasteDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModePasteDrawable
-        */
-        public static final int Theme_actionModePasteDrawable = 34;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModePopupWindowStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModePopupWindowStyle
-        */
-        public static final int Theme_actionModePopupWindowStyle = 39;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeSelectAllDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeSelectAllDrawable
-        */
-        public static final int Theme_actionModeSelectAllDrawable = 35;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeShareDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeShareDrawable
-        */
-        public static final int Theme_actionModeShareDrawable = 36;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeSplitBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeSplitBackground
-        */
-        public static final int Theme_actionModeSplitBackground = 30;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeStyle
-        */
-        public static final int Theme_actionModeStyle = 27;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionModeWebSearchDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionModeWebSearchDrawable
-        */
-        public static final int Theme_actionModeWebSearchDrawable = 38;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionOverflowButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionOverflowButtonStyle
-        */
-        public static final int Theme_actionOverflowButtonStyle = 15;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#actionOverflowMenuStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:actionOverflowMenuStyle
-        */
-        public static final int Theme_actionOverflowMenuStyle = 16;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#activityChooserViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:activityChooserViewStyle
-        */
-        public static final int Theme_activityChooserViewStyle = 56;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogButtonGroupStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:alertDialogButtonGroupStyle
-        */
-        public static final int Theme_alertDialogButtonGroupStyle = 89;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogCenterButtons}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:alertDialogCenterButtons
-        */
-        public static final int Theme_alertDialogCenterButtons = 90;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:alertDialogStyle
-        */
-        public static final int Theme_alertDialogStyle = 88;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#alertDialogTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:alertDialogTheme
-        */
-        public static final int Theme_alertDialogTheme = 91;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
-          attribute's value can be found in the {@link #Theme} array.
-          @attr name android:windowAnimationStyle
-        */
-        public static final int Theme_android_windowAnimationStyle = 1;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
-          attribute's value can be found in the {@link #Theme} array.
-          @attr name android:windowIsFloating
-        */
-        public static final int Theme_android_windowIsFloating = 0;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#autoCompleteTextViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:autoCompleteTextViewStyle
-        */
-        public static final int Theme_autoCompleteTextViewStyle = 96;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonBarButtonStyle
-        */
-        public static final int Theme_buttonBarButtonStyle = 51;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarNegativeButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonBarNegativeButtonStyle
-        */
-        public static final int Theme_buttonBarNegativeButtonStyle = 94;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarNeutralButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonBarNeutralButtonStyle
-        */
-        public static final int Theme_buttonBarNeutralButtonStyle = 95;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarPositiveButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonBarPositiveButtonStyle
-        */
-        public static final int Theme_buttonBarPositiveButtonStyle = 93;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonBarStyle
-        */
-        public static final int Theme_buttonBarStyle = 50;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonStyle
-        */
-        public static final int Theme_buttonStyle = 97;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonStyleSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:buttonStyleSmall
-        */
-        public static final int Theme_buttonStyleSmall = 98;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#checkboxStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:checkboxStyle
-        */
-        public static final int Theme_checkboxStyle = 99;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#checkedTextViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:checkedTextViewStyle
-        */
-        public static final int Theme_checkedTextViewStyle = 100;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorAccent}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorAccent
-        */
-        public static final int Theme_colorAccent = 82;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorButtonNormal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorButtonNormal
-        */
-        public static final int Theme_colorButtonNormal = 86;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorControlActivated}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorControlActivated
-        */
-        public static final int Theme_colorControlActivated = 84;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorControlHighlight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorControlHighlight
-        */
-        public static final int Theme_colorControlHighlight = 85;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorControlNormal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorControlNormal
-        */
-        public static final int Theme_colorControlNormal = 83;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorPrimary}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorPrimary
-        */
-        public static final int Theme_colorPrimary = 80;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorPrimaryDark}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorPrimaryDark
-        */
-        public static final int Theme_colorPrimaryDark = 81;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#colorSwitchThumbNormal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:colorSwitchThumbNormal
-        */
-        public static final int Theme_colorSwitchThumbNormal = 87;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dialogPreferredPadding}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:dialogPreferredPadding
-        */
-        public static final int Theme_dialogPreferredPadding = 43;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dialogTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:dialogTheme
-        */
-        public static final int Theme_dialogTheme = 42;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dividerHorizontal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:dividerHorizontal
-        */
-        public static final int Theme_dividerHorizontal = 55;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dividerVertical}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:dividerVertical
-        */
-        public static final int Theme_dividerVertical = 54;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dropDownListViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:dropDownListViewStyle
-        */
-        public static final int Theme_dropDownListViewStyle = 72;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#dropdownListPreferredItemHeight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:dropdownListPreferredItemHeight
-        */
-        public static final int Theme_dropdownListPreferredItemHeight = 46;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#editTextBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:editTextBackground
-        */
-        public static final int Theme_editTextBackground = 62;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#editTextColor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.example.guchen.Map_launcher:editTextColor
-        */
-        public static final int Theme_editTextColor = 61;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#editTextStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:editTextStyle
-        */
-        public static final int Theme_editTextStyle = 101;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#homeAsUpIndicator}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:homeAsUpIndicator
-        */
-        public static final int Theme_homeAsUpIndicator = 48;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listChoiceBackgroundIndicator}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:listChoiceBackgroundIndicator
-        */
-        public static final int Theme_listChoiceBackgroundIndicator = 79;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listDividerAlertDialog}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:listDividerAlertDialog
-        */
-        public static final int Theme_listDividerAlertDialog = 44;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPopupWindowStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:listPopupWindowStyle
-        */
-        public static final int Theme_listPopupWindowStyle = 73;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemHeight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:listPreferredItemHeight
-        */
-        public static final int Theme_listPreferredItemHeight = 67;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemHeightLarge}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:listPreferredItemHeightLarge
-        */
-        public static final int Theme_listPreferredItemHeightLarge = 69;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemHeightSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:listPreferredItemHeightSmall
-        */
-        public static final int Theme_listPreferredItemHeightSmall = 68;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemPaddingLeft}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:listPreferredItemPaddingLeft
-        */
-        public static final int Theme_listPreferredItemPaddingLeft = 70;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#listPreferredItemPaddingRight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:listPreferredItemPaddingRight
-        */
-        public static final int Theme_listPreferredItemPaddingRight = 71;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#panelBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:panelBackground
-        */
-        public static final int Theme_panelBackground = 76;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#panelMenuListTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:panelMenuListTheme
-        */
-        public static final int Theme_panelMenuListTheme = 78;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#panelMenuListWidth}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:panelMenuListWidth
-        */
-        public static final int Theme_panelMenuListWidth = 77;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupMenuStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:popupMenuStyle
-        */
-        public static final int Theme_popupMenuStyle = 59;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupWindowStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:popupWindowStyle
-        */
-        public static final int Theme_popupWindowStyle = 60;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#radioButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:radioButtonStyle
-        */
-        public static final int Theme_radioButtonStyle = 102;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#ratingBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:ratingBarStyle
-        */
-        public static final int Theme_ratingBarStyle = 103;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#searchViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:searchViewStyle
-        */
-        public static final int Theme_searchViewStyle = 66;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#selectableItemBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:selectableItemBackground
-        */
-        public static final int Theme_selectableItemBackground = 52;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#selectableItemBackgroundBorderless}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:selectableItemBackgroundBorderless
-        */
-        public static final int Theme_selectableItemBackgroundBorderless = 53;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spinnerDropDownItemStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:spinnerDropDownItemStyle
-        */
-        public static final int Theme_spinnerDropDownItemStyle = 47;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#spinnerStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:spinnerStyle
-        */
-        public static final int Theme_spinnerStyle = 104;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#switchStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:switchStyle
-        */
-        public static final int Theme_switchStyle = 105;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceLargePopupMenu}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:textAppearanceLargePopupMenu
-        */
-        public static final int Theme_textAppearanceLargePopupMenu = 40;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceListItem}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:textAppearanceListItem
-        */
-        public static final int Theme_textAppearanceListItem = 74;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceListItemSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:textAppearanceListItemSmall
-        */
-        public static final int Theme_textAppearanceListItemSmall = 75;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceSearchResultSubtitle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:textAppearanceSearchResultSubtitle
-        */
-        public static final int Theme_textAppearanceSearchResultSubtitle = 64;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceSearchResultTitle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:textAppearanceSearchResultTitle
-        */
-        public static final int Theme_textAppearanceSearchResultTitle = 63;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textAppearanceSmallPopupMenu}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:textAppearanceSmallPopupMenu
-        */
-        public static final int Theme_textAppearanceSmallPopupMenu = 41;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textColorAlertDialogListItem}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.example.guchen.Map_launcher:textColorAlertDialogListItem
-        */
-        public static final int Theme_textColorAlertDialogListItem = 92;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#textColorSearchUrl}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.example.guchen.Map_launcher:textColorSearchUrl
-        */
-        public static final int Theme_textColorSearchUrl = 65;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#toolbarNavigationButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:toolbarNavigationButtonStyle
-        */
-        public static final int Theme_toolbarNavigationButtonStyle = 58;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#toolbarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.guchen.Map_launcher:toolbarStyle
-        */
-        public static final int Theme_toolbarStyle = 57;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowActionBar}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowActionBar
-        */
-        public static final int Theme_windowActionBar = 2;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowActionBarOverlay}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowActionBarOverlay
-        */
-        public static final int Theme_windowActionBarOverlay = 4;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowActionModeOverlay}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowActionModeOverlay
-        */
-        public static final int Theme_windowActionModeOverlay = 5;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedHeightMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowFixedHeightMajor
-        */
-        public static final int Theme_windowFixedHeightMajor = 9;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedHeightMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowFixedHeightMinor
-        */
-        public static final int Theme_windowFixedHeightMinor = 7;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedWidthMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowFixedWidthMajor
-        */
-        public static final int Theme_windowFixedWidthMajor = 6;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowFixedWidthMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowFixedWidthMinor
-        */
-        public static final int Theme_windowFixedWidthMinor = 8;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowMinWidthMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowMinWidthMajor
-        */
-        public static final int Theme_windowMinWidthMajor = 10;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowMinWidthMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowMinWidthMinor
-        */
-        public static final int Theme_windowMinWidthMinor = 11;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#windowNoTitle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:windowNoTitle
-        */
-        public static final int Theme_windowNoTitle = 3;
+        public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
            <p>Includes the following attributes:</p>
            <table>
@@ -5422,55 +10675,73 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.example.guchen.Map_launcher:buttonGravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.guchen.Map_launcher:collapseContentDescription}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_collapseIcon com.example.guchen.Map_launcher:collapseIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.guchen.Map_launcher:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.guchen.Map_launcher:contentInsetEndWithActions}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.guchen.Map_launcher:contentInsetLeft}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_contentInsetRight com.example.guchen.Map_launcher:contentInsetRight}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_contentInsetStart com.example.guchen.Map_launcher:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.guchen.Map_launcher:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.example.guchen.Map_launcher:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.example.guchen.Map_launcher:logoDescription}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.guchen.Map_launcher:maxButtonHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.guchen.Map_launcher:navigationContentDescription}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_navigationIcon com.example.guchen.Map_launcher:navigationIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_popupTheme com.example.guchen.Map_launcher:popupTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_subtitle com.example.guchen.Map_launcher:subtitle}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.guchen.Map_launcher:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.guchen.Map_launcher:subtitleTextColor}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_title com.example.guchen.Map_launcher:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.example.guchen.Map_launcher:titleMargin}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.guchen.Map_launcher:titleMarginBottom}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.guchen.Map_launcher:titleMarginEnd}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMarginStart com.example.guchen.Map_launcher:titleMarginStart}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMarginTop com.example.guchen.Map_launcher:titleMarginTop}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMargins com.example.guchen.Map_launcher:titleMargins}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.guchen.Map_launcher:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.example.guchen.Map_launcher:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
+           @see #Toolbar_buttonGravity
            @see #Toolbar_collapseContentDescription
            @see #Toolbar_collapseIcon
            @see #Toolbar_contentInsetEnd
+           @see #Toolbar_contentInsetEndWithActions
            @see #Toolbar_contentInsetLeft
            @see #Toolbar_contentInsetRight
            @see #Toolbar_contentInsetStart
+           @see #Toolbar_contentInsetStartWithNavigation
+           @see #Toolbar_logo
+           @see #Toolbar_logoDescription
            @see #Toolbar_maxButtonHeight
            @see #Toolbar_navigationContentDescription
            @see #Toolbar_navigationIcon
            @see #Toolbar_popupTheme
            @see #Toolbar_subtitle
            @see #Toolbar_subtitleTextAppearance
+           @see #Toolbar_subtitleTextColor
            @see #Toolbar_title
+           @see #Toolbar_titleMargin
            @see #Toolbar_titleMarginBottom
            @see #Toolbar_titleMarginEnd
            @see #Toolbar_titleMarginStart
            @see #Toolbar_titleMarginTop
            @see #Toolbar_titleMargins
            @see #Toolbar_titleTextAppearance
+           @see #Toolbar_titleTextColor
          */
         public static final int[] Toolbar = {
             0x010100af, 0x01010140, 0x7f010003, 0x7f010006,
-            0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
-            0x7f01001b, 0x7f0100b6, 0x7f0100b7, 0x7f0100b8,
-            0x7f0100b9, 0x7f0100ba, 0x7f0100bb, 0x7f0100bc,
-            0x7f0100bd, 0x7f0100be, 0x7f0100bf, 0x7f0100c0,
-            0x7f0100c1
+            0x7f01000a, 0x7f010016, 0x7f010017, 0x7f010018,
+            0x7f010019, 0x7f01001a, 0x7f01001b, 0x7f01001d,
+            0x7f010124, 0x7f010125, 0x7f010126, 0x7f010127,
+            0x7f010128, 0x7f010129, 0x7f01012a, 0x7f01012b,
+            0x7f01012c, 0x7f01012d, 0x7f01012e, 0x7f01012f,
+            0x7f010130, 0x7f010131, 0x7f010132, 0x7f010133,
+            0x7f010134
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -5485,6 +10756,23 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#buttonGravity}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:buttonGravity
+        */
+        public static final int Toolbar_buttonGravity = 21;
+        /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
@@ -5497,7 +10785,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:collapseContentDescription
         */
-        public static final int Toolbar_collapseContentDescription = 18;
+        public static final int Toolbar_collapseContentDescription = 23;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5507,7 +10795,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:collapseIcon
         */
-        public static final int Toolbar_collapseIcon = 17;
+        public static final int Toolbar_collapseIcon = 22;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5523,7 +10811,23 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:contentInsetEnd
         */
-        public static final int Toolbar_contentInsetEnd = 5;
+        public static final int Toolbar_contentInsetEnd = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetEndWithActions}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:contentInsetEndWithActions
+        */
+        public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5539,7 +10843,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:contentInsetLeft
         */
-        public static final int Toolbar_contentInsetLeft = 6;
+        public static final int Toolbar_contentInsetLeft = 7;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5555,7 +10859,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:contentInsetRight
         */
-        public static final int Toolbar_contentInsetRight = 7;
+        public static final int Toolbar_contentInsetRight = 8;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5571,7 +10875,47 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:contentInsetStart
         */
-        public static final int Toolbar_contentInsetStart = 4;
+        public static final int Toolbar_contentInsetStart = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#contentInsetStartWithNavigation}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:contentInsetStartWithNavigation
+        */
+        public static final int Toolbar_contentInsetStartWithNavigation = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#logo}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.guchen.Map_launcher:logo
+        */
+        public static final int Toolbar_logo = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#logoDescription}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:logoDescription
+        */
+        public static final int Toolbar_logoDescription = 26;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5587,7 +10931,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:maxButtonHeight
         */
-        public static final int Toolbar_maxButtonHeight = 16;
+        public static final int Toolbar_maxButtonHeight = 20;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5601,7 +10945,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:navigationContentDescription
         */
-        public static final int Toolbar_navigationContentDescription = 20;
+        public static final int Toolbar_navigationContentDescription = 25;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5611,7 +10955,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:navigationIcon
         */
-        public static final int Toolbar_navigationIcon = 19;
+        public static final int Toolbar_navigationIcon = 24;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5621,7 +10965,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:popupTheme
         */
-        public static final int Toolbar_popupTheme = 8;
+        public static final int Toolbar_popupTheme = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5645,7 +10989,22 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:subtitleTextAppearance
         */
-        public static final int Toolbar_subtitleTextAppearance = 10;
+        public static final int Toolbar_subtitleTextAppearance = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#subtitleTextColor}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:subtitleTextColor
+        */
+        public static final int Toolbar_subtitleTextColor = 28;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5661,6 +11020,22 @@ containing a value of this type.
         */
         public static final int Toolbar_title = 2;
         /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleMargin}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:titleMargin
+        */
+        public static final int Toolbar_titleMargin = 14;
+        /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
@@ -5675,7 +11050,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:titleMarginBottom
         */
-        public static final int Toolbar_titleMarginBottom = 15;
+        public static final int Toolbar_titleMarginBottom = 18;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5691,7 +11066,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:titleMarginEnd
         */
-        public static final int Toolbar_titleMarginEnd = 13;
+        public static final int Toolbar_titleMarginEnd = 16;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5707,7 +11082,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:titleMarginStart
         */
-        public static final int Toolbar_titleMarginStart = 12;
+        public static final int Toolbar_titleMarginStart = 15;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5723,7 +11098,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:titleMarginTop
         */
-        public static final int Toolbar_titleMarginTop = 14;
+        public static final int Toolbar_titleMarginTop = 17;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5739,7 +11114,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.guchen.Map_launcher:titleMargins
         */
-        public static final int Toolbar_titleMargins = 11;
+        public static final int Toolbar_titleMargins = 19;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5749,7 +11124,22 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.guchen.Map_launcher:titleTextAppearance
         */
-        public static final int Toolbar_titleTextAppearance = 9;
+        public static final int Toolbar_titleTextAppearance = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#titleTextColor}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:titleTextColor
+        */
+        public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
            <p>Includes the following attributes:</p>
            <table>
@@ -5758,23 +11148,19 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTint com.example.guchen.Map_launcher:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTintMode com.example.guchen.Map_launcher:backgroundTintMode}</code></td><td></td></tr>
            <tr><td><code>{@link #View_paddingEnd com.example.guchen.Map_launcher:paddingEnd}</code></td><td></td></tr>
            <tr><td><code>{@link #View_paddingStart com.example.guchen.Map_launcher:paddingStart}</code></td><td></td></tr>
            <tr><td><code>{@link #View_theme com.example.guchen.Map_launcher:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
-           @see #View_backgroundTint
-           @see #View_backgroundTintMode
            @see #View_paddingEnd
            @see #View_paddingStart
            @see #View_theme
          */
         public static final int[] View = {
-            0x01010000, 0x010100da, 0x7f0100c2, 0x7f0100c3,
-            0x7f0100c4, 0x7f0100c5, 0x7f0100c6
+            0x01010000, 0x010100da, 0x7f010135, 0x7f010136,
+            0x7f010137
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -5788,41 +11174,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name android:theme
         */
         public static final int View_android_theme = 0;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#backgroundTint}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.guchen.Map_launcher:backgroundTint
-        */
-        public static final int View_backgroundTint = 5;
-        /**
-          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#backgroundTintMode}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
-          @attr name com.example.guchen.Map_launcher:backgroundTintMode
-        */
-        public static final int View_backgroundTintMode = 6;
         /**
           <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
@@ -5865,6 +11216,64 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name com.example.guchen.Map_launcher:theme
         */
         public static final int View_theme = 4;
+        /** Attributes that can be used with a ViewBackgroundHelper.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.guchen.Map_launcher:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.guchen.Map_launcher:backgroundTintMode}</code></td><td></td></tr>
+           </table>
+           @see #ViewBackgroundHelper_android_background
+           @see #ViewBackgroundHelper_backgroundTint
+           @see #ViewBackgroundHelper_backgroundTintMode
+         */
+        public static final int[] ViewBackgroundHelper = {
+            0x010100d4, 0x7f010138, 0x7f010139
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#background}
+          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+          @attr name android:background
+        */
+        public static final int ViewBackgroundHelper_android_background = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#backgroundTint}
+          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.guchen.Map_launcher:backgroundTint
+        */
+        public static final int ViewBackgroundHelper_backgroundTint = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.guchen.Map_launcher.R.attr#backgroundTintMode}
+          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+</table>
+          @attr name com.example.guchen.Map_launcher:backgroundTintMode
+        */
+        public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
            <p>Includes the following attributes:</p>
            <table>

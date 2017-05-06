@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/jniLibs"><file name="armeabi/libmsc.so" path="/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/jniLibs/armeabi/libmsc.so"/></source></dataSet><dataSet config="debug"><source path="/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/debug/jniLibs"/></dataSet></merger>

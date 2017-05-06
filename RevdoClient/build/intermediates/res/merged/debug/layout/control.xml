@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/tablayoutControl">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:id="@+id/buttonMenu"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/buttonHome"
+        android:layout_alignBottom="@+id/buttonMenu"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Return"
+        android:id="@+id/buttonReturn"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reboot"
+        android:id="@+id/buttonReboot"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="107dp"
+        android:layout_below="@+id/buttonMenu"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mouse"
+        android:id="@+id/buttonMouse"
+        android:layout_alignTop="@+id/buttonReboot"
+        android:layout_alignLeft="@+id/buttonHome"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Keyboard"
+        android:id="@+id/buttonKeyboard"
+        android:layout_alignBottom="@+id/buttonMouse"
+        android:layout_alignParentRight="true" />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar"
+        android:layout_below="@+id/buttonMenu"
+        android:layout_toRightOf="@+id/buttonMenu"
+        android:layout_marginTop="39dp"
+        android:layout_toLeftOf="@+id/buttonReturn"
+        android:layout_toStartOf="@+id/buttonReturn"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="音量调节"
+        android:id="@+id/textView"
+        android:layout_below="@+id/seekBar"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="导航"
+        android:id="@+id/buttonNavi"
+        android:layout_below="@+id/buttonMouse"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="69dp" />
+
+</RelativeLayout>

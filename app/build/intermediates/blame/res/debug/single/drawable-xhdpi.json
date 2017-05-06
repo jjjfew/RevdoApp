@@ -1,0 +1,1698 @@
+[
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_close.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_close.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_dest_error.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_dest_error.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_ring_out.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_ring_out.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_serial_bg_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_serial_bg_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_locate_car_point_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_locate_car_point_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_street_view_btn.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_street_view_btn.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_company.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_company.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_vlot_select_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_vlot_select_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ipo_fadeout.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ipo_fadeout.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_speed_1_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_speed_1_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_now_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_now_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_disable_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_disable_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_forbid.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_forbid.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_crown_default.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_crown_default.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_download_start.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_download_start.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_forbid.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_forbid.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bad.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bad.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_btn_bg_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_btn_bg_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_hud_turn_lf_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_hud_turn_lf_2branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_zoom_out.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_zoom_out.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_narrow_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_narrow_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_route_detail_arrow_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_route_detail_arrow_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_quit_default.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_quit_default.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_wave.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_wave.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_roadcondition_carpoint.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_roadcondition_carpoint.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_locate_car_point_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_locate_car_point_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_up_pressed_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_up_pressed_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_deng_duo.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_deng_duo.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_download_pause.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_download_pause.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/fellow_speak_status_speaking_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/fellow_speak_status_speaking_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_use_btn_bg_click.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_use_btn_bg_click.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_list_not_recorded.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_list_not_recorded.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_quit.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_quit.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/feedback_bg_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/feedback_bg_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_pick_in_map_centerpoint.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_pick_in_map_centerpoint.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_od_bg_progress_downloading.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_od_bg_progress_downloading.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/fellow_enter_tips.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/fellow_enter_tips.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_detail_play.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_detail_play.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_route_preferencd_item_norma_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_route_preferencd_item_norma_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_left.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_left.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_highway_help_gb.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_highway_help_gb.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_lock.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_lock.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_list_recorded.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_list_recorded.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_park_detail.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_park_detail.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_titlebar_back_bg_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_titlebar_back_bg_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_map_watermark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_map_watermark.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_fullview.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_fullview.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_line_horizontal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_line_horizontal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_up_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_up_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_detail_earth.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_detail_earth.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_down_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_down_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_bear_wait_end.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_bear_wait_end.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_up_pressed_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_up_pressed_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_highway_left_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_highway_left_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_3branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_3branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_enlarge_close_l.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_enlarge_close_l.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/divide_list.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/divide_list.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_right_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_right_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_car3d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_car3d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_middle_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_middle_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_3branch_middle.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_3branch_middle.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_fullview_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_fullview_off.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_right_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_right_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/divide_list_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/divide_list_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_checked_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/common_checked_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_map_watermark.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_map_watermark.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_guide_error.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_guide_error.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_street_view_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_street_view_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/fellow_speak_status_send_success_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/fellow_speak_status_send_success_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ugc_more.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ugc_more.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rd_pulldown_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rd_pulldown_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_other.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_other.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/feedback_bg.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/feedback_bg.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_checked.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/common_checked.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_route_detail_guide.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_route_detail_guide.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_top.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_top.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_other_tip.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_other_tip.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_od_bg_card_progress_background_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_od_bg_card_progress_background_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_right.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_right.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_list_drag.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_list_drag.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_kengwa.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_kengwa.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_select_ic_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_select_ic_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_left_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_left_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_click_bg_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_click_bg_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_3branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_3branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_use_btn_bg.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_use_btn_bg.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_detail_edit_enable.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_detail_edit_enable.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_rp_btn_navi_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_rp_btn_navi_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_asr_user_guide.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_asr_user_guide.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnavi_titlebar_close_bg_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnavi_titlebar_close_bg_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_status_continue_download_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_status_continue_download_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_hud_turn_rf_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_hud_turn_rf_2branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_other_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_other_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_chang.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_chang.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_right_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_right_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_tag_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_tag_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_list_divider.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_list_divider.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_left_tips.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_left_tips.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_ugc_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_ugc_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_up_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_up_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_bg_net_refresh_newbie.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_bg_net_refresh_newbie.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_net_refresh_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_net_refresh_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_hud_turn_lf_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_hud_turn_lf_2branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_download_resume.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_download_resume.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_anolog_play_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_anolog_play_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_download_list_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_download_list_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_checkbox_disable.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_checkbox_disable.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_rp_btn_navi_default.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_rp_btn_navi_default.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_3branch_middle.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_3branch_middle.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_detail_edit_disable.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_detail_edit_disable.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_status_download.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_status_download.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_narrow_road_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_narrow_road_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_tag_select.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_tag_select.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_check_box_checked.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_check_box_checked.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_new.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_new.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_invalid_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_invalid_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_menu_close_default.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_menu_close_default.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_start.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_start.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_record.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_record.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_zhuan_wan.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_zhuan_wan.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_download_list_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_download_list_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_back_black_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_back_black_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_right_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_right_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_menu_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_menu_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_locate_car_point.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_locate_car_point.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_other_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_other_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_back_bg_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_back_bg_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_btn_bg_press_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_btn_bg_press_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_righ.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_righ.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_middle.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_middle.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_detail_pause.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_detail_pause.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/fellow_speak_status_defalu_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/fellow_speak_status_defalu_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ipo.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ipo.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_other_loading_logo.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_other_loading_logo.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_start_s.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_start_s.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/fellow_enter_tips_hor.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/fellow_enter_tips_hor.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_map_share_icon.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_map_share_icon.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_bottom_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_bottom_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_disabled.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_play1.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_play1.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_park_detail.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_park_detail.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_out_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_out_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_middle_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_middle_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_process.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_process.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_more.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_more.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_pickpoint_btn_left_default.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_pickpoint_btn_left_default.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_bg_default_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_bg_default_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_empty_poi.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_empty_poi.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_unchecked.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/common_unchecked.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_mapview_car_3d_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_mapview_car_3d_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_in_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_in_disabled.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_narrow_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_narrow_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_bear_wait_start.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_bear_wait_start.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_3branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_3branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_roadcondition_fg.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_roadcondition_fg.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_fullview_off_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_fullview_off_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_bottom_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_bottom_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_down_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_down_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_titlebar_ugc_bg_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_titlebar_ugc_bg_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_highway_simpleguide_straight_text.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_highway_simpleguide_straight_text.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_north2d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_north2d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_3branch_middle.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_3branch_middle.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_back_bg_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_back_bg_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_down_pressed_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_down_pressed_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_detail_car.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_detail_car.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rd_pullleft_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rd_pullleft_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_lights_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_lights_off.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_enlarge_close_p.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_enlarge_close_p.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_disabled_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_disabled_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_bottom_disable_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_bottom_disable_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_3branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_3branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_other_gift_popup_big.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_other_gift_popup_big.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_cruise_speed_indicator.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_cruise_speed_indicator.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rd_pullright_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rd_pullright_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_vlot_select_ic_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_vlot_select_ic_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_menu.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_menu.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_navi_share_icon.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_navi_share_icon.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_in_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_in_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_narrow_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_narrow_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_middle_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_middle_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_highway_right_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_highway_right_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_other_gift_popup_big_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_other_gift_popup_big_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_menu_pressed_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_menu_pressed_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_anolog_pause_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_anolog_pause_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_btn_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_btn_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_blue_road_color.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_blue_road_color.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_check_box_unchecked.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_check_box_unchecked.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_back_normal_day.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_back_normal_day.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_up.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_up.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_in_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_in_disabled.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_park_search_on.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_park_search_on.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_chang_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_chang_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_pressed_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_pressed_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ugc_report.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ugc_report.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_right_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_right_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_disable.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_disable.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_select_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_select_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_btn_bg_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_btn_bg_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_2branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_status_suspend_download.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_status_suspend_download.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_titlebar_close_bg_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_titlebar_close_bg_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_bg_default.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_bg_default.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_unchecked_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/common_unchecked_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_right_tips.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_right_tips.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/divide_list_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/divide_list_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_now.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_now.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_left_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_left_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_assist_main_auxiliary.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_assist_main_auxiliary.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_wrong_guide.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_wrong_guide.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_highway_straight_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_highway_straight_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_2branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_left.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_left.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_jam.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_jam.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_ic_back_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_ic_back_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_left_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_left_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_undownload_list_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_undownload_list_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_cannel.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_cannel.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_disable.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_disable.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_addr_fav.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_addr_fav.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_list_not_recorded_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_list_not_recorded_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_left_arrow.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_left_arrow.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_front_2branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ugc_select2_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ugc_select2_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_right_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg_right_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_net_refresh_newbie_close.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_net_refresh_newbie_close.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_edit.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_edit.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_left.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_left.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_cannel_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_cannel_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_cannel.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_cannel.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/fellow_speak_status_ready_ic.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/fellow_speak_status_ready_ic.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_chang_night_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_chang_night_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_anolog_pause.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_anolog_pause.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_shadow_edge.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_shadow_edge.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_stamp.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_stamp.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_up_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_up_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_shadow_edge_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_shadow_edge_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_titlebar_close_bg_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_titlebar_close_bg_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_park_detail_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_park_detail_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_left_press_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_left_press_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_driveinfo_ic_highest.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_driveinfo_ic_highest.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_title_bar_shadow.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_title_bar_shadow.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_invalid_road_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_invalid_road_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_hud_turn_rf_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_hud_turn_rf_2branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_play2.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_play2.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_forbid_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_forbid_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_titlebar_ugc_bg_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_titlebar_ugc_bg_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_narrow_road_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_narrow_road_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_3branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_3branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_dest_s.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_dest_s.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_map_its_on.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_map_its_on.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_tag_select.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_tag_select.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_pickpoint_delete.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_pickpoint_delete.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_right_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_right_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_disable_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_disable_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_middle_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_middle_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_btn_bg_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_out_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_out_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_in_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_in_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_forbid_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_forbid_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_cannel_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_cannel_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_route_preferencd_press_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_route_preferencd_press_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_anolog_play.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_anolog_play.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_right_press_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_right_press_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_disable_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_disable_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnavi_titlebar_close_bg_normal_b.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnavi_titlebar_close_bg_normal_b.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_other.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_other.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_back.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_back.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_now_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_now_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_serial_bg.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_serial_bg.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_btn_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_btn_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_checkbox_disable.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/common_checkbox_disable.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_chang_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_chang_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_house.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_house.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_od_bg_card_progress_background.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_od_bg_card_progress_background.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_down_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_down_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_ugc_manager_invalid_road_sync.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_ugc_manager_invalid_road_sync.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_more_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_more_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_middle_press_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_middle_press_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_status_download_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_status_download_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_click_bg_pressed_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_click_bg_pressed_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_wrong_address.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_wrong_address.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_normal_head_view.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_normal_head_view.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_dot_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/ic_search_dot_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_click_bg_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_click_bg_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_rao_lu.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_rao_lu.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_download_list_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_download_list_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_disable_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_disable_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_right.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_right.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rd_pullup_press.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rd_pullup_press.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_quit_guidance.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_quit_guidance.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_quit_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_quit_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_download_list_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_download_list_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_title_back_icon.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_title_back_icon.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_park_search_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_park_search_off.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_ipo_ic_navi.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_ipo_ic_navi.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_left_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_left_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_up_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_up_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_bear_wait_middle.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_bear_wait_middle.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_od_bg_progress_background.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_od_bg_progress_background.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_middle.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_middle.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_net_refresh.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_net_refresh.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_left_carmode.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_left_carmode.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_down_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_down_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_undownload_list_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_undownload_list_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_undownload_list_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_undownload_list_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_now.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_avoid_traffic_now.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_invalid_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_invalid_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ugc_next.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ugc_next.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_bg_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_check_box_checked.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_check_box_checked.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_map_its_off.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_map_its_off.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_share.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_share.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_up_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_up_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_layoute_indicator_triangle.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_layoute_indicator_triangle.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_rem_dist.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_rem_dist.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/sort_default_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/sort_default_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_btn_rec_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_driveinfo_ic_lowest.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_driveinfo_ic_lowest.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_in_disabled_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_in_disabled_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_disable.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_out_disable.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_street_view_icon.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_street_view_icon.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_titlebar_ic_back_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_titlebar_ic_back_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_status_continue_download.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_status_continue_download.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_no_highway.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_no_highway.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_locate_car_point.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_locate_car_point.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_disable.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_disable.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_left_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_default_bg_left_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_menu_close_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_menu_close_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_cruise_speed_panel.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_cruise_speed_panel.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_click_bg_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_click_bg_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_out_disabled_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_out_disabled_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_od_bg_progress_background_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_od_bg_progress_background_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_down_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_down_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_top_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_top_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_vector_map_car.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_vector_map_car.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_common_head_view.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/voice_common_head_view.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_locate_car_point.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_locate_car_point.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_poi.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_poi.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_forbid.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_forbid.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_out_disabled_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_out_disabled_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_undownload_list_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_undownload_list_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_park_poi_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_park_poi_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_press_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_card_projection_press_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_top_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_top_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_tag_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_tag_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_locker_pull_down.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_locker_pull_down.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_zoom_in.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_zoom_in.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_speed_1.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_speed_1.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_right.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_right.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_out_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_out_disabled.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_statusbtn_selected_bg.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_invalid_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_invalid_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_2branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/offline_data_status_suspend_download_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/offline_data_status_suspend_download_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_rp_ic_drag_default_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_rp_ic_drag_default_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_dialog_middle_press.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_dialog_middle_press.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_progress_cycle.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_progress_cycle.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_normal.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_normal.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_manager_other.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_manager_other.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_zoom_in_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_list_divider_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_list_divider_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_park_poi.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_park_poi.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rd_avoid_tips.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rd_avoid_tips.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_refresh.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_ic_avoid_traffic_refresh.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_dot.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/ic_search_dot.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_2branch_right.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_2branch_right.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_top_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_normal_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_normal_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_space_search_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_space_search_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_top_disable_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_top_disable_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_quit_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_quit_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_xiaolu.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_xiaolu.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_3branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_right_3branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_od_bg_progress_suspend.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_od_bg_progress_suspend.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_lights_on.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_lights_on.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_out_normal_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_out_normal_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_asr_process_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_asr_process_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/carmode_maptitlebar_back.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/carmode_maptitlebar_back.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_btn_bg_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_btn_bg_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_in_disabled_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_btn_zoom_in_disabled_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_poi_detail_ic_up_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_poi_detail_ic_up_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_2branch_left.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_turn_left_2branch_left.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ugc_more1.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ugc_more1.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_pickpoint_btn_left_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_pickpoint_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_in_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_in_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_common_ic_refresh_down.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_common_ic_refresh_down.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_list_pressed.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_list_pressed.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_zoom_out_disabled.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_zoom_out_disabled.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_ugc_yaw_vjam_road.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_ugc_yaw_vjam_road.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_fullview_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_fullview_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_rg_ic_ugc_select2_selected.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_rg_ic_ugc_select2_selected.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_ic_rem_time.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_ic_rem_time.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_menu_default.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_menu_default.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_rg_menu_default_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_rg_menu_default_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_voice_record_play0.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_voice_record_play0.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_bg_prj_card_bottom_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_drawable_common_good.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_drawable_common_good.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_tag_select_night.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_tag_select_night.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_mapview_car_3d.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_mapview_car_3d.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_bg_prj_card_pressed_night.9.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_bg_prj_card_pressed_night.9.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/sort_default_pressed.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/sort_default_pressed.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_titlebar_back_bg_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_titlebar_back_bg_normal.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/nsdk_common_ic_locate_car.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/nsdk_common_ic_locate_car.png"
+    },
+    {
+        "merged": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/drawable-xhdpi/bnav_poi_detail_ic_tag_normal.png",
+        "source": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/src/main/res/drawable-xhdpi/bnav_poi_detail_ic_tag_normal.png"
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,20 +11,20 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/Revdo Launcher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-h720dp-v13/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 294,
+                        "startOffset": 55,
                         "endColumn": 66,
-                        "endOffset": 356
+                        "endOffset": 117
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,13 +35,13 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/administrator/Documents/AndriodApp/RevdoLauncher/map_launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-h720dp-v13/values.xml",
+                    "file": "/home/guchen/Desktop/RevdoApp-singleSocket-latest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 294,
+                        "startOffset": 55,
                         "endColumn": 66,
-                        "endOffset": 356
+                        "endOffset": 117
                     }
                 }
             }
