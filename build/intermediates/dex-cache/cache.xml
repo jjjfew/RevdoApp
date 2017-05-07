@@ -1,2 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_e710bd853032e247267a8c446db26ea2777a0417.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_0074bb555e9006e5b5d39c68536d66325930d0d0.jar" />
+    </item>
+    <item
+        jar="/home/guchen/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/httpcore-4.4.1_e7ef6c8abb8bfb30272200b5fb67ba960ec2775f.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_9007aaf581d53b981acd98e0eb3b8b9a900f1133.jar" />
+    </item>
+    <item
+        jar="/home/guchen/.gradle/caches/modules-2/files-2.1/com.wilddog/wilddog-client-android/0.6.2/2b19bc12e563021d4020d7ff3b21238b30d724ab/wilddog-client-android-0.6.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2b19bc12e563021d4020d7ff3b21238b30d724ab">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/wilddog-client-android-0.6.2_eed712b4db3513a62d32c8cc0be286dac29798c0.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_59abff758565693a278afdd96d91091f0c3e5ff5.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/libs/weibosdkcore.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="06e990ea2d7b7ccd30cea6c5367314d7314d9f40">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/weibosdkcore_ba7117492d0bb1807c50f0a649a478a1b9174213.jar" />
+    </item>
+    <item
+        jar="/home/guchen/opt/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_f06ae3f90b53959c2869f6de4049246c5f622a00.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_36e4bbf6bfb45fae512d0fbb707232833cb28766.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/libs/open_sdk.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="73915005d14af2994f235034b9f9832d666a6ec9">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/open_sdk_f2f578f3cb78f7457fd40a7defb64f522f6fab18.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/libs/commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/commons-httpclient-3.1_0202e929e7ece4c9b759d3b87b76cc5d254fc1c3.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/libs/SwetakeQRCode.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c38249ecc005536be6435c978aa39c8ee1b44497">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/SwetakeQRCode_a6d9c44fd059b60afb5f2e1cb3892dd4c18a5e79.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/libs/AutoUpdate_SDK.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="44515fbed5f5e68c4d2eb18673f5cad44564a370">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/AutoUpdate_SDK_62a4ebb7c3b4a8dc2dfb74526c3c62125a006f4b.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/libs/mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/mta-sdk-1.6.2_0cc03cc9bb713b94f0eea1ead5bfc1d6bb3f0ff1.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_35f8f6bbc018c75a2823e6171fc2a2095a5fcbe9.jar" />
+    </item>
+    <item
+        jar="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/guchen/Desktop/RevdoApp-singleSocket-latest/RevdoClient/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_d2207f22fe6179f2065e9f86e635d1c6e715c4d0.jar" />
+    </item>
+
+</items>
