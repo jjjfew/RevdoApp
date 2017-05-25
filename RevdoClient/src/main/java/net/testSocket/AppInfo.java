@@ -17,4 +17,7 @@ public class AppInfo {
         Log.v("XXX", "Name:" + appName + " versionName:" + versionName);
         Log.v("XXX", "Name:" + appName + " versionCode:" + versionCode);
     }
+
+
+
 }
